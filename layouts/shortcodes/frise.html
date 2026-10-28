@@ -1,0 +1,5 @@
+{{- $n := int (.Get "phase") -}}
+<div class="frise" aria-label="Phase {{ $n }} sur 8">
+{{- range $i := seq 8 -}}<span class="{{ if lt $i $n }}fait{{ else if eq $i $n }}en-cours{{ end }}"></span>{{- end -}}
+</div>
+<p class="phase">Phase {{ $n }} sur 8 · {{ .Get "titre" }}</p>

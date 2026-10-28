@@ -1,0 +1,3 @@
+<aside class="fiche"><p class="fiche-titre">{{ .Get "titre" | default "Le projet en bref" }}</p>
+{{ .Inner | markdownify }}
+</aside>

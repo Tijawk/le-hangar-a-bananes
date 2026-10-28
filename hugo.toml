@@ -1,0 +1,46 @@
+baseURL = "https://example.org/"
+locale = "fr-FR"
+defaultContentLanguage = "fr"
+title = "Le hangar à bananes"
+theme = "PaperMod"
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  mainSections = ["etapes"]
+  description = "49 m² de garage-atelier en ossature bois, construits à deux, le week-end : le chantier raconté étape par étape."
+  defaultTheme = "light"
+  disableThemeToggle = true
+  ShowReadingTime = true
+  ShowBreadCrumbs = false
+  ShowPostNavLinks = true
+  ShowToc = false
+  ShowShareButtons = false
+  ShowWordCount = false
+  hideFooter = false
+  dateFormat = "January 2006"
+  [params.assets]
+    favicon = "logo.png"
+    apple_touch_icon = "logo.png"
+  [params.label]
+    text = "Le hangar à bananes"
+    icon = "logo.png"
+    iconHeight = 40
+  [params.homeInfoParams]
+    Title = "49 m² de garage-atelier, construits à deux"
+    Content = "Un garage en ossature bois, monté le week-end, du terrain vide jusqu’à l’atelier. Nos choix, nos erreurs, nos chiffres, et un conseil concret à chaque étape."
+
+[menu]
+  [[menu.main]]
+    name = "Les étapes"
+    url = "/etapes/"
+    weight = 1
+  [[menu.main]]
+    name = "À propos"
+    url = "/a-propos/"
+    weight = 2
+
+[markup.goldmark.renderer]
+  unsafe = true
