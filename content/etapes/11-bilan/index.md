@@ -52,6 +52,8 @@ Pour donner un ordre d’idée, voici ce que coûte un garage selon la façon de
 | **Container maritime** 20 pieds, sur plots | 330 à 720 €, estimation | 14 m² utiles, 2,35 m de large : conteneur, transport, plots, ouvertures ([Hellopro](https://conseils.hellopro.fr/tous-nos-guides-container-maritime-2009453-intercalaire.html), [Habitatpresto](https://www.habitatpresto.com/mag/agrandissement/extension-container)) |
 | **Le hangar à bananes** | environ 510 € | 49 m² sur mesure : tous les matériaux et l’outillage, sans notre main-d’œuvre |
 
+Attention aussi à ce que ces prix comprennent : l’habillage ou l’enduit extérieur, les gouttières et les caniveaux sont souvent en option, en particulier sur les garages préfabriqués. Chez nous, bardage, couvertines, descente et caniveaux sont dans les 510 €.
+
 Et ces prix sont ceux de garages standard. Le nôtre est sur mesure de bout en bout : un polygone qui épouse les limites du terrain, des menuiseries fabriquées aux cotes de l’ossature, une toiture-terrasse EPDM avec acrotère et couvertines. Un constructeur ou un kit part de dimensions et d’ouvertures standard : pour obtenir la même chose, la facture grimperait vite. Et la qualité ne se lit pas sur un devis : combien de maçons font encore un vrai béton de propreté, ou des liaisons d’angle correctes ? Sans parler des aciers piqués directement en terre au moment du coulage.
 
 Notre main-d’œuvre, elle, ne figure sur aucune facture.
