@@ -1,35 +1,110 @@
 /* Couleurs et polices du hangar à bananes, posées par-dessus PaperMod */
-@import url("https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600&family=Source+Sans+3:wght@400;600&display=swap");
+@font-face{font-family:"Fraunces";font-style:normal;font-weight:600 700;font-display:swap;src:url("/fonts/fraunces-latin.woff2") format("woff2")}
+@font-face{font-family:"Source Sans 3";font-style:normal;font-weight:400 600;font-display:swap;src:url("/fonts/source-sans-3-latin.woff2") format("woff2")}
+@font-face{font-family:"Source Sans 3";font-style:italic;font-weight:400;font-display:swap;src:url("/fonts/source-sans-3-italic-latin.woff2") format("woff2")}
 :root{
   --theme:#faf7ef; --entry:#fffdf8; --primary:#23211c; --secondary:#6b665b;
   --tertiary:#e7e1d3; --content:#23211c; --code-bg:#f1ece0; --border:#e7e1d3;
   --main-width:760px;
-  --vert:#1f4d3a; --vert-clair:#e6efe8; --bois:#a8733a; --banane:#f2c230;
+  --vert:#1f4d3a; --vert-clair:#e6efe8; --bois:#a8733a; --bois-texte:#8a5a24; --banane:#f2c230;
 }
 body{font-family:"Source Sans 3",system-ui,sans-serif;font-size:19px}
-.post-title,.entry-header h2,.home-info h1,.post-content h2,.post-content h3,.logo a{font-family:"Fraunces",Georgia,serif}
+.post-title,.entry-header h2,.home-info h1,.post-content h2,.post-content h3,.logo a,.conseils-titre{font-family:"Fraunces",Georgia,serif}
+.post-title{font-weight:700;letter-spacing:-.01em}
 .post-content{font-size:1.05rem;line-height:1.7}
 .post-content h2{color:var(--vert);font-size:1.55rem;margin:2em 0 .6em}
 .post-content a,.home-info a{color:var(--vert)}
 .post-content img{border-radius:10px}
-.post-content figure figcaption,.post-content figcaption p{font-size:.88rem;color:var(--secondary);text-align:center}
-.frise{display:grid;grid-auto-flow:column;grid-auto-columns:1fr;gap:4px;margin:0 0 6px}
-.frise span{height:8px;border-radius:4px;background:var(--tertiary)}
+:focus-visible{outline:3px solid var(--banane);outline-offset:2px}
+
+/* En-tête et menu */
+.logo a img{border-radius:8px}
+#menu a.active,#menu .active{color:var(--vert);border-bottom:2px solid var(--banane)}
+@media (max-width:720px){
+  body{font-size:17.5px}
+  .nav{flex-direction:column;align-items:flex-start}
+  #menu{flex-wrap:wrap;gap:.1em 1em;overflow:visible;margin:0}
+  #menu li+li{margin-inline-start:0}
+}
+
+/* Accueil et liste des étapes */
+.home-info{margin:24px 0 32px;padding:0 0 24px;border-bottom:3px solid var(--banane)}
+.home-info .entry-content{font-size:1.1rem;color:var(--secondary)}
+.entry-cover img{aspect-ratio:16/9;object-fit:cover;width:100%}
+.entry-cover{margin-bottom:14px}
+.post-entry{transition:transform .15s}
+.post-entry:hover{transform:translateY(-2px)}
+.entry-phase{margin:0 0 4px;font-size:.75rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--bois-texte)}
+
+/* Légendes et images */
+.post-content figure figcaption,.post-content figcaption p,.post-content .duo figcaption{font-size:.88rem;font-weight:400;font-style:italic;color:var(--secondary);text-align:center;margin-top:.5em}
+.post-content a.zoom{box-shadow:none;cursor:zoom-in;display:block}
+.post-content figure img{width:100%;height:auto}
+
+/* Frise de progression */
+.frise{display:grid;grid-auto-flow:column;grid-auto-columns:1fr;gap:4px;margin:0 0 6px;position:relative}
+.frise a{display:block;height:8px;border-radius:4px;background:var(--tertiary);box-shadow:none;transition:transform .15s}
+.frise a:hover{transform:scaleY(1.6)}
 .frise .fait{background:var(--vert)} .frise .en-cours{background:var(--banane)}
-.post-content p.phase{font-size:.8rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--bois);margin-top:0}
+.post-content p.phase{font-size:.8rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--bois-texte);margin-top:0}
+
+/* Fiche « en bref » */
 .fiche{background:var(--entry);border:1px solid var(--border);border-left:5px solid var(--bois);border-radius:10px;padding:16px 22px;margin:1.5em 0 2em}
-.fiche-titre,.conseils-titre{font-size:.8rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--bois);margin:0 0 .5em}
-.fiche table{margin:0;font-size:.98rem} .fiche table th{display:none}
-.fiche td{border-bottom:1px solid var(--border);padding:6px 10px 6px 0}
+.fiche-titre,.conseils-titre{font-size:.8rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--bois-texte);margin:0 0 .5em}
+.fiche table{margin:0;font-size:.98rem;border:0} .fiche table th{display:none}
+.fiche td{border:0;padding:6px 10px 6px 0;vertical-align:top}
+.fiche tr+tr td{border-top:1px solid var(--border)}
+.fiche td:first-child{color:var(--secondary);font-weight:600;width:32%}
+@media (max-width:640px){
+  .fiche tr{display:block;padding:6px 0}
+  .fiche tr+tr{border-top:1px solid var(--border)}
+  .fiche tr+tr td{border-top:0}
+  .fiche td{display:block;padding:0;width:auto}
+  .fiche td:first-child{font-size:.85rem}
+}
+
+/* Conseils */
 .conseils{background:var(--vert-clair);border-radius:12px;padding:20px 26px;margin:2.5em 0}
-.conseils-titre{color:var(--vert);font-size:1.1rem;letter-spacing:0;text-transform:none;font-family:"Fraunces",Georgia,serif}
-@media (max-width:720px){ body{font-size:17.5px} }
+.conseils-titre{color:var(--vert);font-size:1.1rem;letter-spacing:0;text-transform:none}
+
+/* Navigation entre billets */
+.paginav{border:1px solid var(--border);border-radius:12px;background:var(--entry)}
+.paginav .title{color:var(--bois-texte);letter-spacing:.08em}
+.paginav a:hover{background:var(--vert-clair)}
 
 /* Théorie / en vrai : schéma et photo côte à côte */
 .post-content .duo{margin:2.2em 0}
 .post-content .duo-grille{display:grid;grid-template-columns:1fr 1fr;gap:12px}
 .post-content .duo-grille>div{background:#fff;border:1px solid var(--border);border-radius:10px;padding:8px;display:flex;flex-direction:column;justify-content:center}
-.post-content .duo-etiquette{margin:0 0 8px;font-size:.75rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--bois)}
+.post-content .duo-etiquette{margin:0 0 8px;font-size:.75rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--bois-texte)}
 .post-content .duo img{width:100%;height:auto;margin:0;border-radius:6px}
 @media (max-width:640px){.post-content .duo-grille{grid-template-columns:1fr}}
-.post-content .duo a{box-shadow:none;cursor:zoom-in}.post-content .duo-zoom{display:block;font-size:.85em;opacity:.7}
+
+/* Les deux mascottes du chantier */
+.frise-piste{position:relative;padding-top:50px}
+.frise-piste .equipe{position:absolute;top:0;width:58px;height:auto;transform:translateX(-50%);animation:marche 1.4s ease-in-out infinite;pointer-events:none;border-radius:0}
+@keyframes marche{0%,100%{margin-top:0}50%{margin-top:-3px}}
+.home-info{background:url("/img/equipe.svg") no-repeat right 4px bottom 18px/120px auto;padding-right:140px}
+.post-content h2{display:flex;align-items:center;gap:.45em}
+.post-content h2::before{content:"";flex:0 0 1.05em;height:.75em;background:url("/img/casque.svg") no-repeat center/contain}
+@media (max-width:640px){.home-info{background-size:84px auto;padding-right:96px}}
+@media (prefers-reduced-motion:reduce){.frise-piste .equipe{animation:none}}
+
+/* Correctifs : fiche sans quadrillage, menu mobile compact */
+.md-content .fiche table{width:100%;display:table}
+.md-content .fiche table td,.md-content .fiche table th{border:0 !important;padding:7px 10px 7px 0 !important;min-width:0 !important}
+.md-content .fiche table tbody tr+tr td{border-top:1px solid var(--border) !important}
+@media (max-width:640px){
+  .md-content .fiche table,.md-content .fiche table tbody{display:block}
+  .md-content .fiche table tr{display:block;padding:6px 0}
+  .md-content .fiche table tr+tr{border-top:1px solid var(--border)}
+  .md-content .fiche table tbody tr+tr td{border-top:0 !important}
+  .md-content .fiche table td{display:block;padding:0 !important}
+}
+@media (max-width:720px){
+  .header-nav{line-height:1.5;padding-top:10px;padding-bottom:6px}
+  .logo{min-height:56px}
+  .menu{flex-wrap:wrap;column-gap:1.1em;row-gap:.2em;padding:4px 0 10px}
+}
+.md-content .fiche table thead{display:none}
+@media (max-width:640px){.md-content .fiche table td:first-child{width:auto}}
