@@ -91,7 +91,7 @@ Sur le sable : un film polyane contre l’humidité, le joint périphérique, pu
 
 ## Le jour du dallage
 
-Le 13 octobre 2023, la toupie ne pouvait pas approcher. Avec une rallonge, elle a livré 7,5 m³ de **béton autoplaçant**, un C25/30 si fluide qu’il se met en place presque seul. Il a été tiré à la règle sur 15 cm d’épaisseur, pour environ 1 400 € TTC livré, soit environ 150 € HT le m³. Revers de la médaille : ce béton passe partout, les coffrages doivent donc être parfaitement étanches.
+Le 13 octobre 2023, la toupie ne pouvait pas approcher. Avec une rallonge, elle a livré 7,5 m³ de **béton autoplaçant**, un C25/30 si fluide qu’il se met en place presque seul. Il a été tiré à la règle sur 15 cm d’épaisseur, pour environ 1 400 € TTC livré, soit environ 150 € HT le m³. Attention, un béton autoplaçant ne se vibre pas : la vibration séparerait les graviers du mortier. Revers de la médaille : ce béton passe partout, les coffrages doivent donc être parfaitement étanches.
 
 {{< figure src="tirage-regle.jpg" alt="Le béton du dallage tiré à la règle" caption="Le béton autoplaçant tiré à la règle, le 13 octobre 2023." >}}
 
