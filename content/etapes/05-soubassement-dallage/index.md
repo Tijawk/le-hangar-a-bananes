@@ -43,7 +43,7 @@ Les angles d’abord. Les blocs d’angle sont posés et réglés en premier, pu
 
 {{< figure src="rangs-soubassement.jpg" alt="Soubassement en blocs béton en cours de montage" caption="Rang après rang, le long du cordeau." >}}
 
-JL, le grand-père de notre fils, est venu aussi souvent qu’il le pouvait. Le mortier et le réglage des blocs lui doivent beaucoup. L’aplomb se contrôle au niveau pendant le montage, puis au fil à plomb sur toutes les faces à la fin. Au contrôle final, aucune reprise.
+JL, papa de l’une et beau-père de l’autre, est venu aussi souvent qu’il le pouvait. Le mortier et le réglage des blocs lui doivent beaucoup. L’aplomb se contrôle au niveau pendant le montage, puis au fil à plomb sur toutes les faces à la fin. Au contrôle final, aucune reprise.
 
 ## Comment relier le muret aux fondations ?
 

@@ -20,7 +20,7 @@ Avant le premier coup de pelle, il y a eu plus d’un an de préparation : compr
 | **Surface** | 49 m² |
 | **Structure** | ossature bois sur un soubassement en blocs béton |
 | **Toiture** | toiture-terrasse à faible pente, membrane d’étanchéité EPDM |
-| **Équipe** | nous deux, le week-end, avec l’aide de JL, le grand-père de notre fils |
+| **Équipe** | nous deux, le week-end, avec l’aide de JL, papa de l’une et beau-père de l’autre |
 | **Budget prévu** | 20 000 € |
 {{< /fiche >}}
 
