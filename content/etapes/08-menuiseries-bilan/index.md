@@ -53,7 +53,7 @@ Derrière un bardage, il faut une **lame d’air** : un vide où l’eau qui pas
 
 {{< duo theorie="schema-bardage.png" alt-theorie="Comparaison du tasseautage d’un bardage horizontal et d’un bardage vertical" vrai="facade-terminee.jpg" alt-vrai="Façade terminée avec bardage horizontal, porte de service et porte sectionnelle" legende="Un seul réseau de tasseaux pour un bardage horizontal, et la façade terminée, septembre 2024." >}}
 
-Nos lames font 20 × 123 mm, en sapin blanc du Nord traité classe 3, c’est-à-dire pour un bois exposé aux intempéries mais qui sèche vite. Elles sont clouées sur des tasseaux de 27 × 45 mm, avec des cornières de 45 × 45 mm dans les angles. En bas et en haut, la lame d’air est fermée par un profilé d’aération, qui laisse passer l’air mais pas les rongeurs. Et le bas du bardage reste à 20 cm du sol fini.
+Nos lames font 20 × 123 mm, en sapin blanc du Nord traité classe 3, c’est-à-dire pour un bois exposé aux intempéries mais qui sèche vite. Elles sont clouées sur des tasseaux de 27 × 45 mm, avec des pointes annelées en inox A2, qui ne rouillent pas et ne tachent pas le bois, avec des cornières de 45 × 45 mm dans les angles. En bas et en haut, la lame d’air est fermée par un profilé d’aération, qui laisse passer l’air mais pas les rongeurs. Et le bas du bardage reste à 20 cm du sol fini.
 
 Reste les **coffrets Enedis**. Souvenez-vous du permis refusé : nous avions laissé 30 cm entre le garage et les limites pour garder les coffrets à l’extérieur, et la mairie ne l’avait pas accepté. Ils sont donc posés contre le pare-pluie, et le bardage en fait le tour.
 
@@ -63,7 +63,7 @@ Reste les **coffrets Enedis**. Souvenez-vous du permis refusé : nous avions lai
 
 Les murs et le plafond sont habillés de **panneaux OSB**. Ils encaissent les chocs, et l’on visse une étagère n’importe où, sans chercher les montants. L’aspect brut convient bien à un atelier.
 
-**L’électricité** arrive de la maison par un câble de 10 mm² d’environ 25 m, dans un fourreau posé dès la construction de la maison. Au départ, un disjoncteur 40 A ; à l’arrivée, un petit tableau secondaire avec son propre disjoncteur et un interrupteur différentiel. Le câblage a été fait avec l’aide du grand-père de notre fils, en suivant les principes de la NF C 15-100. Matériel : environ 320 € TTC.
+**L’électricité** arrive de la maison par un câble de 10 mm² d’environ 25 m, dans un fourreau posé dès la construction de la maison. Au départ, un disjoncteur 40 A ; à l’arrivée, un petit tableau secondaire avec son propre disjoncteur et un interrupteur différentiel. Le câblage a été fait avec l’aide du grand-père de notre fils, en suivant les principes de la NF C 15-100, et l’installation a ensuite été vérifiée. Matériel : environ 320 € TTC.
 
 {{< figure src="interieur-osb.jpg" alt="Intérieur du garage : murs et plafond en OSB, tableau électrique, étagères" caption="L’intérieur : parement et plafond en OSB, et le tableau électrique." >}}
 
