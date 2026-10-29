@@ -41,6 +41,8 @@ Environ 22 300 € sont justifiés par des documents. Les 2 700 € restants cor
 
 Ce prix comprend un gros œuvre complet : des fondations armées dimensionnées par une étude de structure, un soubassement, un dallage armé, une étanchéité EPDM. C’est toute la différence avec un garage en kit posé sur une simple dalle.
 
+Pour donner un ordre d’idée, un garage fait par des professionnels, pose comprise, se situe en général autour de [950 à 1 300 € le m² en parpaings](https://www.lamaisonsaintgobain.fr/extensions-maison/agrandissement-maison/prix-garage-parpaing-30-m2), soit environ 33 000 € pour un garage accolé de 30 m². En ossature bois, les prix annoncés vont plutôt de [400 à 750 € le m² hors taxes](https://blog.trustup.be/fr/prix-construction-garage/), sans l’électricité ni les finitions intérieures. Ces chiffres varient beaucoup d’une source et d’un projet à l’autre. Nos 510 € le m² ne comptent que les matériaux et l’outillage : notre main-d’œuvre, elle, ne figure sur aucune facture.
+
 ## Combien de temps ?
 
 Près de deux ans, uniquement le week-end. Le gros œuvre, avec les fouilles et le remblai à la main, a pris à lui seul environ un an. Et encore, ce n’est pas un local habitable : pas d’isolant, pas de plaques de plâtre, pas de peinture, pas de sol de finition, et une seule arrivée et une seule évacuation d’eau. Et combien de fois nous sommes-nous rendu compte qu’il manquait une pièce, ou que la boîte de clous était vide… un dimanche, magasins fermés. Et les autres jours, chaque aller-retour au magasin de bricolage, c’est du temps perdu pour le chantier. Immense respect à celles et ceux qui construisent ou rénovent leur maison eux-mêmes.
