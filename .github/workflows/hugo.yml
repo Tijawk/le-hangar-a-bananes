@@ -22,7 +22,6 @@ jobs:
     env:
       HUGO_VERSION: 0.169.0
       HUGO_ENVIRONMENT: production
-      HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
     steps:
       - uses: actions/checkout@v5
         with:
@@ -42,6 +41,9 @@ jobs:
           key: hugo-${{ env.HUGO_VERSION }}-${{ hashFiles('content/**/*.jpg', 'content/**/*.png', 'assets/img/**') }}
           restore-keys: hugo-${{ env.HUGO_VERSION }}-
       - name: Construire
+        env:
+          # Le contexte runner n'est pas disponible au niveau du job.
+          HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
         run: hugo --gc --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
       - uses: actions/upload-pages-artifact@v4
         with:
