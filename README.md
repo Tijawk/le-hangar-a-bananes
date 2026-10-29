@@ -11,7 +11,7 @@ Site statique construit avec [Hugo](https://gohugo.io) et le thème [PaperMod](h
 ## Démarrer
 
 ```bash
-git clone --recurse-submodules https://github.com/MaeBzh/le-hangar-a-bananes.git
+git clone --recurse-submodules https://github.com/Tijawk/le-hangar-a-bananes.git
 cd le-hangar-a-bananes
 hugo server
 ```
