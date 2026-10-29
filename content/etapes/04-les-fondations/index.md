@@ -18,7 +18,7 @@ Avril 2023 : quatre mois de pelle plus tard, les fouilles sont prêtes. Reste à
 |---|---|
 | **Type** | semelles filantes en béton armé |
 | **Dimensions** | 50 cm de large, 30 cm d’épaisseur, sur 5 cm de béton de propreté |
-| **Armatures** | cages 6 HA10, 24 équerres de liaison |
+| **Armatures** | cages 6 HA10, équerres de liaison dans les angles |
 | **Béton** | 5 m³ de C25/30, coulés le 19 juin 2023 |
 | **Coût du béton livré** | environ 1 100 € TTC |
 {{< /fiche >}}
@@ -41,7 +41,7 @@ Nos semelles sont armées de **cages 6 HA10** : six barres d’acier « haute ad
 
 C’est là que se joue la solidité de l’ensemble. Une barre simplement pliée dans un angle rentrant cherche à se redresser une fois tendue, et fait éclater le béton côté intérieur : c’est la **poussée au vide**.
 
-Dans nos angles, les cages se croisent et sont liées par des équerres HA10 de 60 × 60 cm, selon les règles de l’art du béton armé. Les armatures restent continues d’un mur à l’autre. Nous avons utilisé 24 équerres pour les angles et les jonctions entre cages.
+Dans nos angles, les cages se croisent et sont liées par des équerres HA10 : des barres de 1 m pliées en 50 × 50 cm. Cinq équerres par lit, en bas comme en haut, relient les barres extérieures, intérieures et du milieu des deux cages. Les armatures restent ainsi continues d’un mur à l’autre.
 
 {{< duo theorie="schema-equerres-angle.png" alt-theorie="Schéma en plan d’un angle : les barres des deux cages se croisent et sont reliées par des équerres" vrai="angle-equerres.jpg" alt-vrai="Deux cages d’armatures qui se croisent dans un angle" legende="Un angle de fondation : les cages se croisent et des équerres HA10 relient leurs barres dans les deux directions." >}}
 
