@@ -3,10 +3,12 @@ title: "Le projet : pourquoi, en quoi, et où construire"
 date: 2022-03-01
 weight: 1
 summary: "Avant le premier coup de pelle, plus d’un an de préparation : le besoin, le choix du bois, et un terrain qui impose sa forme."
+images: ["terrain-avant-1.jpg"]
 cover:
   image: "terrain-avant-1.jpg"
   alt: "Le terrain avant les travaux"
   hiddenInSingle: true
+  relative: true
 ---
 
 {{< frise phase="1" titre="Le projet" >}}

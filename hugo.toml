@@ -1,4 +1,4 @@
-baseURL = "https://example.org/"
+baseURL = "https://maebzh.github.io/le-hangar-a-bananes/"
 locale = "fr-FR"
 defaultContentLanguage = "fr"
 title = "Le hangar à bananes"
@@ -10,6 +10,7 @@ enableRobotsTXT = true
 
 [params]
   mainSections = ["etapes"]
+  images = ["logo.png"]
   description = "49 m² de garage-atelier en ossature bois, construits à deux, le week-end : le chantier raconté étape par étape."
   defaultTheme = "light"
   disableThemeToggle = true
@@ -37,23 +38,23 @@ enableRobotsTXT = true
 [menu]
   [[menu.main]]
     name = "Les étapes"
-    url = "/etapes/"
+    pageRef = "/etapes"
     weight = 1
   [[menu.main]]
     name = "Fiche technique"
-    url = "/fiche-technique/"
+    pageRef = "/fiche-technique"
     weight = 2
   [[menu.main]]
     name = "Outils"
-    url = "/outils/"
+    pageRef = "/outils"
     weight = 3
   [[menu.main]]
     name = "Lexique"
-    url = "/lexique/"
+    pageRef = "/lexique"
     weight = 4
   [[menu.main]]
     name = "À propos"
-    url = "/a-propos/"
+    pageRef = "/a-propos"
     weight = 5
 
 [markup.goldmark.renderer]

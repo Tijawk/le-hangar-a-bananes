@@ -3,10 +3,12 @@ title: "Soubassement et dallage : la base du garage, rang par rang"
 date: 2023-10-13
 weight: 5
 summary: "Un muret de blocs pleins réglé au millimètre, 30 tonnes de grave déplacées en plus de 300 voyages de brouette, et une dalle de 15 cm coulée avant l’hiver."
+images: ["tirage-regle.jpg"]
 cover:
   image: "tirage-regle.jpg"
   alt: "Béton du dallage tiré à la règle"
   hiddenInSingle: true
+  relative: true
 ---
 
 {{< frise phase="5" titre="Soubassement et dallage" >}}

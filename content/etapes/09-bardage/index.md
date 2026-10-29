@@ -3,10 +3,12 @@ title: "Le bardage : un habit de bois à l’horizontale"
 date: 2024-09-22
 weight: 9
 summary: "Du sapin blanc du Nord posé à l’horizontale sur un seul réseau de tasseaux, cloué de façon invisible, et qui fait le tour des coffrets Enedis."
+images: ["facade-terminee.jpg"]
 cover:
   image: "facade-terminee.jpg"
   alt: "Façade du garage terminée, bardage bois et menuiseries noires"
   hiddenInSingle: true
+  relative: true
 ---
 
 {{< frise phase="9" titre="Le bardage" >}}

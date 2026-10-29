@@ -1,7 +1,7 @@
 /* Couleurs et polices du hangar à bananes, posées par-dessus PaperMod */
-@font-face{font-family:"Fraunces";font-style:normal;font-weight:600 700;font-display:swap;src:url("/fonts/fraunces-latin.woff2") format("woff2")}
-@font-face{font-family:"Source Sans 3";font-style:normal;font-weight:400 600;font-display:swap;src:url("/fonts/source-sans-3-latin.woff2") format("woff2")}
-@font-face{font-family:"Source Sans 3";font-style:italic;font-weight:400;font-display:swap;src:url("/fonts/source-sans-3-italic-latin.woff2") format("woff2")}
+@font-face{font-family:"Fraunces";font-style:normal;font-weight:600 700;font-display:swap;src:url("../../fonts/fraunces-latin.woff2") format("woff2")}
+@font-face{font-family:"Source Sans 3";font-style:normal;font-weight:400 600;font-display:swap;src:url("../../fonts/source-sans-3-latin.woff2") format("woff2")}
+@font-face{font-family:"Source Sans 3";font-style:italic;font-weight:400;font-display:swap;src:url("../../fonts/source-sans-3-italic-latin.woff2") format("woff2")}
 :root{
   --theme:#faf7ef; --entry:#fffdf8; --primary:#23211c; --secondary:#6b665b;
   --tertiary:#e7e1d3; --content:#23211c; --code-bg:#f1ece0; --border:#e7e1d3;
@@ -84,9 +84,9 @@ body{font-family:"Source Sans 3",system-ui,sans-serif;font-size:19px}
 .frise-piste{position:relative;padding-top:50px}
 .frise-piste .equipe{position:absolute;top:0;width:58px;height:auto;transform:translateX(-50%);animation:marche 1.4s ease-in-out infinite;pointer-events:none;border-radius:0}
 @keyframes marche{0%,100%{margin-top:0}50%{margin-top:-3px}}
-.home-info{background:url("/img/equipe.svg") no-repeat right 4px bottom 18px/120px auto;padding-right:140px}
+.home-info{background:url("../../img/equipe.svg") no-repeat right 4px bottom 18px/120px auto;padding-right:140px}
 .post-content h2{display:flex;align-items:center;gap:.45em}
-.post-content h2::before{content:"";flex:0 0 1.05em;height:.75em;background:url("/img/casque.svg") no-repeat center/contain}
+.post-content h2::before{content:"";flex:0 0 1.05em;height:.75em;background:url("../../img/casque.svg") no-repeat center/contain}
 @media (max-width:640px){.home-info{background-size:84px auto;padding-right:96px}}
 @media (prefers-reduced-motion:reduce){.frise-piste .equipe{animation:none}}
 

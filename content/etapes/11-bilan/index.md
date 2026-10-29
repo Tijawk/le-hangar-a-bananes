@@ -3,10 +3,12 @@ title: "Le bilan : deux ans de week-ends et le budget final"
 date: 2024-12-15
 weight: 11
 summary: "Les démarches de fin, le budget final poste par poste, près de deux ans de week-ends, ce que nous referions, et d’où vient le nom du hangar."
+images: ["facade-terminee.jpg"]
 cover:
   image: "facade-terminee.jpg"
   alt: "Façade du garage terminée, bardage bois et menuiseries noires"
   hiddenInSingle: true
+  relative: true
 ---
 
 {{< frise phase="11" titre="Le bilan" >}}

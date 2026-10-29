@@ -3,10 +3,12 @@ title: "Les murs : une ossature bois montée en modules"
 date: 2024-05-31
 weight: 6
 summary: "Six mois d’attente, puis des murs préfabriqués à plat et levés à la main. Sauf un : fini au sol, bardage compris, car personne ne pourrait plus passer derrière."
+images: ["modules-a-plat.jpg"]
 cover:
   image: "modules-a-plat.jpg"
   alt: "Modules de murs préfabriqués à plat sur le dallage"
   hiddenInSingle: true
+  relative: true
 ---
 
 {{< frise phase="6" titre="Les murs" >}}

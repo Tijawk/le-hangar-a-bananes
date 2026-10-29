@@ -2,7 +2,7 @@
 {{- $total := 10 -}}
 {{- $pages := (where site.RegularPages "Section" "etapes").ByWeight -}}
 {{- $pos := 95 }}{{ if le $n $total }}{{ $pos = sub (mul $n 10) 5 }}{{ end -}}
-<div class="frise-piste"><img class="equipe" src="/img/equipe.svg" alt="" aria-hidden="true" style="left:{{ $pos }}%" width="58" height="47">
+<div class="frise-piste"><img class="equipe" src="{{ "img/equipe.svg" | relURL }}" alt="" aria-hidden="true" style="left:{{ $pos }}%" width="58" height="47">
 <nav class="frise" aria-label="Les étapes de la série">
 {{- range $i := seq $total -}}
 {{- $p := index $pages (sub $i 1) -}}

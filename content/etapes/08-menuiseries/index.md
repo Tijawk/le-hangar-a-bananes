@@ -3,10 +3,12 @@ title: "Les menuiseries : fermer le garage"
 date: 2024-08-09
 weight: 8
 summary: "Une porte sectionnelle, deux fenêtres à soufflet et une porte de service, toutes en PVC noir sur mesure, posées dans l’épaisseur du mur avec un pare-pluie rabattu dans chaque tableau."
+images: ["porte-sectionnelle-pose.jpg"]
 cover:
   image: "porte-sectionnelle-pose.jpg"
   alt: "Porte sectionnelle noire posée dans le bardage"
   hiddenInSingle: true
+  relative: true
 ---
 
 {{< frise phase="8" titre="Les menuiseries" >}}

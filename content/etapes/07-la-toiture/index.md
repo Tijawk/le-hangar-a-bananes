@@ -3,10 +3,12 @@ title: "La toiture : un toit plat, étanche et sans chalumeau"
 date: 2024-07-31
 weight: 7
 summary: "Des solives posées en pente, une membrane EPDM collée à froid sans un coup de chalumeau, des relevés sur l’acrotère et une couvertine noire : en juillet 2024, le garage est enfin couvert."
+images: ["solivage.jpg"]
 cover:
   image: "solivage.jpg"
   alt: "Solives de la toiture posées sur les murs bardés"
   hiddenInSingle: true
+  relative: true
 ---
 
 {{< frise phase="7" titre="La toiture" >}}

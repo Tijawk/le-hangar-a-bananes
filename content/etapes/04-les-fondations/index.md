@@ -3,10 +3,12 @@ title: "Les fondations : un sol qui change d’un angle à l’autre"
 date: 2023-06-19
 weight: 4
 summary: "Un angle argileux, un angle sableux, un ferraillage renforcé, des cales faites maison, et 5 m³ de béton coulés sans une brouette de trop."
+images: ["angle-equerres.jpg"]
 cover:
   image: "angle-equerres.jpg"
   alt: "Angle de fondation : deux cages d’armatures qui se croisent"
   hiddenInSingle: true
+  relative: true
 ---
 
 {{< frise phase="4" titre="Les fondations" >}}

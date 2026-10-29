@@ -3,10 +3,12 @@ title: "L’aménagement intérieur : du garage à l’atelier"
 date: 2024-10-31
 weight: 10
 summary: "Des murs et un plafond en OSB, l’électricité et l’eau venues de la maison, pas d’isolation, et une cuisine de réemploi trouvée pour une bouchée de pain."
+images: ["atelier.jpg"]
 cover:
   image: "atelier.jpg"
   alt: "Atelier aménagé avec cuisine de réemploi et fenêtres à soufflet"
   hiddenInSingle: true
+  relative: true
 ---
 
 {{< frise phase="10" titre="L’aménagement intérieur" >}}

@@ -3,10 +3,12 @@ title: "Le permis de construire, monté sans architecte"
 date: 2022-10-15
 weight: 2
 summary: "Huit pièces à préparer soi-même, un pari sur 30 cm, un refus, et un second dossier accordé en octobre 2022."
+images: ["insertion-paysagere.jpg"]
 cover:
   image: "insertion-paysagere.jpg"
   alt: "Photomontage du garage dans son environnement"
   hiddenInSingle: true
+  relative: true
 ---
 
 {{< frise phase="2" titre="Le permis de construire" >}}
