@@ -43,7 +43,7 @@ Ce prix comprend un gros œuvre complet : des fondations armées dimensionnées 
 
 ## Combien de temps ?
 
-Près de deux ans, uniquement le week-end. Le gros œuvre, avec les fouilles et le remblai à la main, a pris à lui seul environ un an. Et encore, ce n’est pas un local habitable : pas d’isolant, pas de plaques de plâtre, pas de peinture, pas de sol de finition, et une seule arrivée et une seule évacuation d’eau. Et combien de fois nous sommes-nous rendu compte qu’il manquait une pièce, ou que la boîte de clous était vide… un dimanche, magasins fermés. Et les autres jours, chaque aller-retour au magasin de bricolage, c’est une demi-journée de chantier en moins. Immense respect à celles et ceux qui construisent ou rénovent leur maison eux-mêmes.
+Près de deux ans, uniquement le week-end. Le gros œuvre, avec les fouilles et le remblai à la main, a pris à lui seul environ un an. Et encore, ce n’est pas un local habitable : pas d’isolant, pas de plaques de plâtre, pas de peinture, pas de sol de finition, et une seule arrivée et une seule évacuation d’eau. Et combien de fois nous sommes-nous rendu compte qu’il manquait une pièce, ou que la boîte de clous était vide… un dimanche, magasins fermés. Et les autres jours, chaque aller-retour au magasin de bricolage, c’est du temps perdu pour le chantier. Immense respect à celles et ceux qui construisent ou rénovent leur maison eux-mêmes.
 
 {{< figure src="schema-planning.png" alt="Planning du chantier de fin 2022 à fin 2024, par phase" caption="Le planning du chantier, d’après les dates des photos et des factures." >}}
 
