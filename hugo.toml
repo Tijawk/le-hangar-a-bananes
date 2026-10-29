@@ -38,9 +38,21 @@ enableRobotsTXT = true
     url = "/etapes/"
     weight = 1
   [[menu.main]]
+    name = "Fiche technique"
+    url = "/fiche-technique/"
+    weight = 2
+  [[menu.main]]
+    name = "Outils"
+    url = "/outils/"
+    weight = 3
+  [[menu.main]]
+    name = "Lexique"
+    url = "/lexique/"
+    weight = 4
+  [[menu.main]]
     name = "À propos"
     url = "/a-propos/"
-    weight = 2
+    weight = 5
 
 [markup.goldmark.renderer]
   unsafe = true
