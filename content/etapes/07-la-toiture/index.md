@@ -18,7 +18,7 @@ Juin 2024 : les murs sont debout et bardés, mais le garage n’a toujours pas d
 |---|---|
 | **Période** | juin → juillet 2024 |
 | **Type** | toiture-terrasse non isolée, pente de 3 % |
-| **Charpente** | solives 75 × 225 mm, entraxe 41,6 cm, sur muralières doubles |
+| **Charpente** | solives 75 × 225 mm, entraxe 41,6 cm, sur muralières |
 | **Support** | OSB 3 de 22 mm, rainures et languettes |
 | **Étanchéité** | membrane EPDM de toiture de 1,52 mm, collée à froid, environ 1 845 € avec les accessoires |
 | **Couvertines** | aluminium laqué noir RAL 9005, 32 m, environ 963 € |
@@ -26,11 +26,11 @@ Juin 2024 : les murs sont debout et bardés, mais le garage n’a toujours pas d
 
 ## Comment porter un toit plat ?
 
-Contre la face intérieure des murs, en tête, nous avons d’abord fixé les **muralières** : des poutres doubles de 75 × 225 mm, vissées dans les montants par des tire-fonds, de grosses vis à bois de 8 mm. Elles sont en deux pièces, assemblées en sifflet désabouté : une coupe en biais, avec des joints décalés entre les deux épaisseurs.
+Contre la face intérieure des murs, en tête, nous avons d’abord fixé les **muralières** : des poutres de 75 × 225 mm, légèrement incrustées dans les montants, entaillés pour les recevoir, puis fixées par des tire-fonds, de grosses vis à bois de 8 mm. Trop longues pour une seule pièce, elles sont en deux morceaux, raboutés par une enture en sifflet : une longue coupe en biais qui raccorde les deux pièces bout à bout.
 
 {{< figure src="murailleres-sabots.jpg" alt="Muralières fixées sur la face intérieure des murs, sabots métalliques en attente" caption="Les muralières sur la face intérieure des murs, sabots en attente, juin 2024." >}}
 
-Sur ces muralières, des sabots métalliques reçoivent les **solives**, de 75 × 225 mm aussi, longues de 5,44 à 5,66 m, tous les 41,6 cm. Une entretoise à mi-portée les tient entre elles, pour qu’aucune ne se couche sous la charge : c’est le déversement.
+Sur ces muralières, des sabots métalliques Simpson Strong-Tie, fixés par des pointes de 5 mm, reçoivent les **solives**, de 75 × 225 mm aussi, longues de 5,44 à 5,66 m, tous les 41,6 cm. Une entretoise à mi-portée les tient entre elles, pour qu’aucune ne se couche sous la charge : c’est le déversement.
 
 Un toit « plat » ne l’est jamais tout à fait. Sans pente, l’eau stagne sur la membrane. Le nôtre descend de **3 %** vers l’évacuation, et cette pente ne vient ni d’une chape ni de cales : ce sont les solives elles-mêmes qui sont posées en pente.
 
@@ -74,11 +74,23 @@ Les rives sont les points sensibles d’un toit plat. La membrane remonte d’**
 
 Dans l’angle, au pied de l’acrotère, une **bande adhésive périmétrique armée** de 150 mm est vissée par des plaquettes ovales, quatre par mètre. Elle plaque la membrane dans l’angle : le relevé ne tire jamais dessus. C’est d’ailleurs là, en pied de relevé, que les fabricants demandent cette fixation.
 
-{{< figure src="releve-angle.jpg" alt="Membrane EPDM relevée sur l’acrotère, avec un angle" caption="Le relevé d’EPDM sur l’acrotère habillé d’OSB, et un angle, le 7 juillet 2024." >}}
-
 Tout en haut, une **couvertine** en aluminium laqué noir RAL 9005 coiffe l’acrotère et protège la tête du relevé. Elle est posée sur des pattes en pente, pour que l’eau qui tombe dessus reparte vers le toit, et non sur le bardage.
 
 {{< duo theorie="schema-acrotere.png" alt-theorie="Coupe de principe de la rive : acrotère, relevé EPDM, couvertine, muralière et solive" vrai="couvertine-angle.jpg" alt-vrai="Couvertine en aluminium noir posée en angle sur l’acrotère" legende="La rive en coupe, et la couvertine posée en angle, par-dessus le relevé, le 27 juillet 2024." >}}
+
+## Comment étancher un angle ?
+
+C’est le point le plus délicat de toute la toiture. Dans un angle rentrant, au pied de l’acrotère, on ne coupe jamais la membrane : une coupe à cet endroit, c’est une fuite assurée. La technique décrite par les fabricants s’appelle le **pli en oreille**.
+
+On colle d’abord la membrane sur le premier relevé, en la roulant bien au fond de l’angle pour qu’elle ne fasse pas de pont. On la colle ensuite sur le second relevé : le surplus forme une oreille, un triangle de membrane qui dépasse dans l’angle. Cette oreille est collée sur elle-même, puis rabattue à plat contre l’un des relevés.
+
+Par-dessus, une pièce de **bande adhésive de 300 mm pour détails**, une bande étirable, coiffe l’angle : primaire, pièce collée d’abord à plat puis étirée dans l’angle, marouflage à la roulette, et un cordon de mastic en bordure.
+
+{{< figure src="schema-angle-epdm.png" alt="Schéma en quatre étapes du pli en oreille dans un angle rentrant" caption="Le pli en oreille, en quatre étapes." >}}
+
+Les DTU ne décrivent pas ce pli : pour une membrane EPDM, c’est le cahier des charges du fabricant qui fait foi. Pour la nôtre, c’est le [cahier des clauses techniques EPDM Systems](https://www.epdm-tpo.fr/uploads/medias/cct-vise-epdm-systems-alphacontrol-janvier-2023.pdf) du fournisseur EPDM-TPO, visé par un bureau de contrôle : il détaille les pièces d’angle, rentrants et saillants, et les primaires.
+
+{{< figure src="releve-angle.jpg" alt="Membrane EPDM relevée sur l’acrotère, avec un angle" caption="Le relevé d’EPDM sur l’acrotère habillé d’OSB, et un angle, le 7 juillet 2024." >}}
 
 ## Où va l’eau ?
 
