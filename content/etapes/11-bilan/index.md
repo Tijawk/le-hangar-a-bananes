@@ -43,7 +43,7 @@ Ce prix comprend un gros œuvre complet : des fondations armées dimensionnées 
 
 ## Combien de temps ?
 
-Près de deux ans, uniquement le week-end. Le gros œuvre, avec les fouilles et le remblai à la main, a pris à lui seul environ un an. Et encore, ce n’est pas un local habitable : pas d’isolant, pas de plaques de plâtre, pas de peinture, pas de sol de finition, et une seule arrivée et une seule évacuation d’eau. Immense respect à celles et ceux qui construisent ou rénovent leur maison eux-mêmes.
+Près de deux ans, uniquement le week-end. Le gros œuvre, avec les fouilles et le remblai à la main, a pris à lui seul environ un an. Et encore, ce n’est pas un local habitable : pas d’isolant, pas de plaques de plâtre, pas de peinture, pas de sol de finition, et une seule arrivée et une seule évacuation d’eau. Et combien de fois nous sommes-nous rendu compte qu’il manquait une pièce, ou que la boîte de clous était vide… un dimanche, magasins fermés. Immense respect à celles et ceux qui construisent ou rénovent leur maison eux-mêmes.
 
 {{< figure src="schema-planning.png" alt="Planning du chantier de fin 2022 à fin 2024, par phase" caption="Le planning du chantier, d’après les dates des photos et des factures." >}}
 
@@ -60,7 +60,7 @@ Nous referions la conception complète en 3D, et le béton autoplaçant pour la 
 - **Prévoyez une marge sur le budget**, surtout quand les prix flambent.
 - **Notez toutes vos dépenses**, même les petits achats au comptoir : chez nous, ils pèsent environ 2 700 €.
 - **Faites un contrat écrit avec chaque entreprise**, surtout pour le terrassement : qui termine, et ce que devient l’acompte si le chantier s’arrête.
-- **Comptez le temps autant que l’argent** : le week-end, tout prend plus longtemps que prévu.
+- **Comptez le temps autant que l’argent** : le week-end, tout prend plus longtemps que prévu. Faites vos listes d’achats le vendredi, avant que les magasins ferment.
 {{< /conseils >}}
 
 ## Le mot de la fin
