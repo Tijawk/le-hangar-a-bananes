@@ -45,7 +45,7 @@ Elle a chipoté. Le refus nous a été notifié sept jours avant la fin du déla
 
 ## Le second dossier
 
-Cette fois, le garage suit exactement les limites sur trois côtés. Les fondations sont prévues au plus près, sans déborder chez le voisin, même sous terre, et les coffrets Enedis seront posés contre le pare-pluie, le bardage en faisant le tour. Le bardage en fait le tour, avec un cadre.
+Cette fois, le garage suit exactement les limites sur trois côtés. Les fondations sont prévues au plus près, sans déborder chez le voisin, même sous terre, et les coffrets Enedis seront posés contre le pare-pluie, le bardage en faisant le tour avec un cadre.
 
 Permis accordé en octobre 2022. Et au final, c’était aussi bien : nous y avons gagné de la surface intérieure.
 
