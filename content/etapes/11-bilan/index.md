@@ -51,7 +51,9 @@ La vie de famille en a payé le prix : la semaine le boulot, le week-end le gara
 
 ## Et si c’était à refaire ?
 
-Nous referions la conception complète en 3D, le béton autoplaçant pour la dalle, et l’étude de structure, mais confiée à un professionnel. En revanche, nous sécuriserions le terrassement par un contrat, et nous prévoirions au budget la gestion des déchets enfouis.
+Nous referions tout nous-mêmes. Le garage est tellement soigné que jamais un artisan n’aurait passé autant de temps sur les détails et sur les règles de l’art. Les bons artisans sont rares, et chers.
+
+Nous referions la conception complète en 3D, et le béton autoplaçant pour la dalle, mais cette fois avec le laser et la pige pendant le tirage : c’est là qu’était l’erreur. Nous utiliserions l’IA pour le dossier de permis et les photomontages. Et nous sécuriserions le terrassement par un contrat, en prévoyant au budget la gestion des déchets enfouis.
 
 {{< conseils >}}
 - **N’oubliez pas les démarches de fin** : la DAACT en mairie, et la taxe d’aménagement dans les 90 jours qui suivent l’achèvement au sens fiscal, sous peine d’amende.
