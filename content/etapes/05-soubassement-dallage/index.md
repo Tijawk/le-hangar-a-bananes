@@ -77,7 +77,7 @@ Le temps était compté. Une semaine, tous les soirs après le boulot et tout le
 
 Sur le sol, un **géotextile** de 90 g/m² empêche le remblai de se mélanger au terrain. La grave s’étale par-dessus en fines couches, avec un passage de plaque vibrante entre chaque couche. Une couche de sable extra-fin, compactée et réglée au laser depuis l’angle de référence, termine cette « forme », la surface sur laquelle on coulera.
 
-{{< figure src="geotextile-plaque.jpg" alt="Forme compactée recouverte d’un voile blanc, plaque vibrante au premier plan" caption="La forme compactée et la plaque vibrante, septembre 2023." >}}
+{{< figure src="geotextile-plaque.jpg" alt="Géotextile blanc étalé dans le garage, plaque vibrante au premier plan" caption="Le géotextile posé avant la grave, et la plaque vibrante, septembre 2023." >}}
 
 ## Pourquoi désolidariser la dalle des murs ?
 
@@ -85,7 +85,7 @@ Notre dallage n’est pas porté par le soubassement : il repose sur le terre-pl
 
 Sur le sable : un film polyane contre l’humidité, le joint périphérique, puis quatre panneaux de treillis soudé ST25C de 6,00 × 2,40 m (fils de 7 mm, maille de 15 cm), posés sur des cales de 5 cm pour que l’acier soit bien pris dans le béton, et ligaturés entre eux pour que rien ne bouge au coulage. Pas d’isolant sous la dalle : le bâtiment n’est pas chauffé.
 
-{{< figure src="treillis-cales.jpg" alt="Treillis soudé sur cales dans le garage, joint périphérique le long du muret" caption="Le treillis ST25C sur ses cales, et le joint périphérique le long du muret." >}}
+{{< figure src="treillis-cales.jpg" alt="Treillis soudé sur cales dans le garage, joint périphérique le long du muret" caption="Le treillis ST25C sur ses cales, posé sur le film polyane, avec le joint périphérique le long du muret." >}}
 
 ## Le jour du dallage
 
