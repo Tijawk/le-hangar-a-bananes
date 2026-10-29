@@ -19,7 +19,7 @@ Avant le premier coup de pelle, il y a eu plus d’un an de préparation : compr
 | **Usage** | garage-atelier, bâtiment annexe non chauffé |
 | **Surface** | 49 m² |
 | **Structure** | ossature bois sur un soubassement en blocs béton |
-| **Toiture** | toit plat, membrane d’étanchéité EPDM |
+| **Toiture** | toiture-terrasse à faible pente, membrane d’étanchéité EPDM |
 | **Équipe** | nous deux, le week-end, avec l’aide du grand-père de notre fils |
 | **Budget prévu** | 20 000 € |
 {{< /fiche >}}
@@ -65,7 +65,7 @@ Reculer de 3 m réduisait trop la surface. Le garage collera donc aux limites, e
 {{< conseils >}}
 - **Décidez tout de suite si le local sera chauffé.** Ça change la réglementation et la composition du toit.
 - **Trouvez la règle d’implantation de votre terrain.** Le PLU se consulte gratuitement sur [geoportail-urbanisme.gouv.fr](https://www.geoportail-urbanisme.gouv.fr/) ou en mairie : repérez la zone de votre terrain, puis l’article « implantation des constructions par rapport aux limites séparatives ».
-- **Si vous construisez en limite**, rien ne doit dépasser chez le voisin : ni le toit, ni le bardage, ni l’eau de pluie.
+- **Si vous construisez en limite**, rien ne doit dépasser chez le voisin : ni le toit, ni le bardage, ni l’eau de pluie. Et pas de fenêtre ordinaire dans un mur en limite : seuls des jours fixes et opaques sont admis.
 - **En cas de doute**, interrogez le service urbanisme de votre mairie avant de déposer votre dossier.
 {{< /conseils >}}
 

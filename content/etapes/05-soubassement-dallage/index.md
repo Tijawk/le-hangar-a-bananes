@@ -29,7 +29,7 @@ Le bois ne doit pas toucher le sol, ni recevoir les éclaboussures de pluie. Le 
 
 ## Quels blocs choisir ?
 
-Nous avons pris des **blocs béton pleins perforés**, dits « semi-pleins », de classe B80, au format 50 × 20 × 20 cm. Plus résistants à la compression que des parpaings creux, ils conviennent mieux à un muret en partie enterré, qui reprend des charges ponctuelles et la poussée des terres.
+Nous avons pris des **blocs béton pleins perforés**, dits « semi-pleins », de classe B80, au format 50 × 20 × 20 cm. À classe égale, ils offrent plus de matière qu’un parpaing creux, et conviennent mieux à un muret en partie enterré, qui reprend des charges ponctuelles et la poussée des terres.
 
 Le mortier, hydrofugé, a été gâché sur place dans une bétonnière de 140 L achetée en déstockage. Très entrée de gamme, mais largement suffisante pour un soubassement.
 
@@ -67,7 +67,7 @@ Une fois l’intérieur rempli, impossible de revenir. Avant de remblayer, nous 
 
 ## 30 tonnes à la brouette ?
 
-Le muret monté, il fallait remplir l’intérieur pour former le terre-plein : 30 tonnes de grave non traitée (GNT 0/31,5 : des cailloux concassés de 0 à 31,5 mm), venue d’une carrière locale, pour environ 800 € TTC. Elle a été livrée en semi-remorque sur le terrain voisin. La faire benner directement dans le garage aurait donné un mauvais compactage.
+Le muret monté, il fallait remplir l’intérieur pour former le terre-plein : 30 tonnes de grave non traitée (GNT 0/31,5 : des cailloux concassés de 0 à 31,5 mm), venue d’une carrière locale, pour environ 800 € TTC. Elle a été livrée en semi-remorque sur le terrain voisin. Benner 30 tonnes d’un coup dans le garage nous aurait empêchés de la compacter par fines couches.
 
 {{< figure src="tas-de-grave.jpg" alt="Tas de grave sur le terrain voisin, brouette au premier plan" caption="Le tas de grave, livré sur le terrain voisin." >}}
 
@@ -83,7 +83,7 @@ Sur le sol, un **géotextile** de 90 g/m² empêche le remblai de se mélanger a
 
 Notre dallage n’est pas porté par le soubassement : il repose sur le terre-plein, séparé des murs par un **joint périphérique**. Murs et dalle ne tassent pas de la même façon. Désolidarisés, l’un ne fissure pas l’autre. Pour une annexe sans étage, c’est plus simple qu’un plancher porté. La norme de référence est le NF DTU 13.3.
 
-Sur le sable : un film polyane contre l’humidité, le joint périphérique, puis quatre panneaux de treillis soudé ST25C de 6,00 × 2,40 m (fils de 7 mm, maille de 15 cm), posés sur des cales de 5 cm pour que l’acier soit bien pris dans le béton, et ligaturés entre eux pour que rien ne bouge au coulage. Pas d’isolant sous la dalle : le bâtiment n’est pas chauffé.
+Sur le sable : un film polyane contre l’humidité, le joint périphérique, puis quatre panneaux de treillis soudé ST25C de 6,00 × 2,40 m (fils de 7 mm, maille de 15 cm), posés sur des cales de 5 cm pour garantir l’enrobage sous l’acier, et ligaturés entre eux pour que rien ne bouge au coulage. Pas d’isolant sous la dalle : le bâtiment n’est pas chauffé.
 
 {{< figure src="treillis-cales.jpg" alt="Treillis soudé sur cales dans le garage, joint périphérique le long du muret" caption="Le treillis ST25C sur ses cales, posé sur le film polyane, avec le joint périphérique le long du muret." >}}
 

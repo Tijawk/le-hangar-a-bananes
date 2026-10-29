@@ -35,7 +35,7 @@ Chaque module est préfabriqué à plat sur le dallage : on trace d’abord les 
 
 Tout a été assemblé à la **cloueuse pneumatique**, avec des pointes torsadées anti-arrachement : 90 mm pour l’ossature, 75 mm pour le reste.
 
-Ce n’est pas qu’une question de vitesse, même si l’on pose plusieurs centaines de pointes à l’heure sans pré-perçage. Dans une ossature, les assemblages travaillent surtout au cisaillement. Le clou se déforme sans rompre. Une vis à bois standard, plus dure et plus cassante, résiste moins bien à cet effort.
+Ce n’est pas qu’une question de vitesse, même si l’on pose plusieurs centaines de pointes à l’heure sans pré-perçage. Dans une ossature, les assemblages travaillent surtout au cisaillement. Le clou se déforme sans rompre. Une vis à bois ordinaire, plus dure et plus cassante, résiste moins bien à cet effort. Des vis de structure certifiées, en revanche, sont admises.
 
 Notre cloueuse à charpente, une Silverline achetée 84 € port compris, est rudimentaire et lourde : 5,1 kg. Mais pour le prix, elle est très efficace.
 
@@ -51,15 +51,15 @@ Les modules voisins sont liés entre eux : leurs montants d’about, jointifs, s
 
 ## À quoi sert le contreventement ?
 
-Une fois les modules levés et liés, reste à les contreventer. Une ossature seule se déforme comme un parallélogramme dès qu’on la pousse. Les panneaux d’OSB cloués dessus la rigidifient : c’est le **contreventement**. Nous avons pris de l’OSB 3, adapté aux milieux humides, en panneaux de 119,6 × 280 cm. Leur hauteur est celle des murs : un panneau couvre le mur de bas en haut, sans recoupe.
+Une fois les modules levés et liés, reste à les contreventer. Une ossature seule se déforme comme un parallélogramme dès qu’on la pousse. Les panneaux d’OSB cloués dessus la rigidifient : c’est le **contreventement**. Nous avons pris de l’OSB 3, un panneau structurel prévu pour une ambiance humide, mais qui doit rester à l’abri de la pluie, en panneaux de 119,6 × 280 cm. Leur hauteur est celle des murs : un panneau couvre le mur de bas en haut, sans recoupe.
 
-Le calepinage, c’est-à-dire la position de chaque panneau, a été étudié sur SketchUp. À chaque jonction entre deux modules, le milieu d’un panneau tombe pile sur le joint. Ce panneau à cheval lie les deux modules : les tiges filetées les serrent l’un contre l’autre, et le panneau reprend les efforts dans le plan du mur. Aucun joint de panneau n’est aligné avec un joint de structure, qui serait un point faible.
+Le calepinage, c’est-à-dire la position de chaque panneau, a été étudié sur SketchUp. À chaque jonction entre deux modules, le milieu d’un panneau tombe pile sur le joint. Ce panneau à cheval lie les deux modules : les tiges filetées les serrent l’un contre l’autre, et le panneau reprend les efforts dans le plan du mur. C’est un choix de conception, pas une obligation : ainsi, aucun joint de panneau n’est aligné avec un joint de structure.
 
 La longueur des modules a d’ailleurs été choisie en fonction du format des panneaux, pour utiliser un maximum de panneaux entiers et limiter les chutes.
 
 {{< duo theorie="schema-calepinage-osb.png" alt-theorie="Élévation de principe : un panneau d’OSB centré sur la jonction de deux modules" vrai="pare-pluie.jpg" alt-vrai="Murs contreventés en OSB et recouverts de pare-pluie" legende="Le principe du panneau à cheval, et les murs contreventés puis couverts du pare-pluie, mai 2024." >}}
 
-Dernière couche avant le bardage : un **pare-pluie** anti-UV sur toute l’ossature. Il protège le bois en attendant la suite.
+Vient ensuite un **pare-pluie** anti-UV sur toute l’ossature. Il reste en place derrière le bardage : il arrête l’eau tout en laissant sortir la vapeur. Puis des tasseaux de 27 × 45 mm créent une lame d’air ventilée entre le pare-pluie et le bardage.
 
 ## Le mur qu’on ne pourrait plus toucher
 
@@ -67,7 +67,7 @@ Un seul mur n’a pas suivi cette méthode, et c’était le plus délicat. L’
 
 Nous ne savions rien de leurs fondations, et une maçonnerie de pierre doit pouvoir respirer. Nous avons donc choisi délibérément de ne pas nous y adosser, et de laisser ce vide. Cela nous évitait aussi des fondations en porte-à-faux, que nous n’aurions pas su réaliser correctement.
 
-Seulement, une fois ce mur en place, plus personne ne pourrait travailler dans cet espace. Nous l’avons donc entièrement fini au sol : ossature, OSB, pare-pluie et bardage, tout contrôlé avant levage, puisque aucune retouche ne serait possible ensuite.
+Seulement, une fois ce mur en place, plus personne ne pourrait travailler dans cet espace. Nous l’avons donc entièrement fini au sol : ossature, OSB, pare-pluie, tasseaux et bardage, tout contrôlé avant levage, puisque aucune retouche ne serait possible ensuite.
 
 {{< figure src="mur-voisin.jpg" alt="Mur d’ossature levé contre un mur en pierre, pare-pluie côté pierre" caption="Le mur côté voisin, levé déjà équipé de l’OSB et du pare-pluie." >}}
 
@@ -85,9 +85,9 @@ Les murs sont debout, bardés. Mais le garage n’a toujours pas de toit.
 
 {{< conseils >}}
 - **Commandez le bois dès l’obtention du permis**, ou au plus tard pendant le gros œuvre : les délais peuvent se compter en mois.
-- **Découpez les murs en modules manuportables**, liés par des tiges filetées.
+- **Découpez les murs en modules manuportables**, liés chez nous par des tiges filetées.
 - **Calez la longueur des modules sur le format des panneaux**, et centrez un panneau sur chaque jonction.
-- **Clouez plutôt que vissez l’ossature** : le clou travaille mieux au cisaillement.
+- **Clouez l’ossature avec des pointes torsadées ou crantées**, ou utilisez des vis de structure certifiées, jamais des vis à bois ordinaires : l’assemblage travaille au cisaillement.
 - **Tout ce qui sera inaccessible après levage se termine au sol**, et se contrôle avant de lever.
 {{< /conseils >}}
 

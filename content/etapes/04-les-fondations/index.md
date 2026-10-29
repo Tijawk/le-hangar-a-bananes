@@ -27,13 +27,13 @@ Avril 2023 : quatre mois de pelle plus tard, les fouilles sont prêtes. Reste à
 
 Dans les fouilles, un angle était argileux, un autre sableux. L’étude de sol faite pour la maison, sur la même parcelle, le décrivait pourtant homogène. L’explication la plus probable : des terres rapportées lors de la viabilisation du lotissement.
 
-Ce n’est pas anodin. L’argile gonfle quand elle est humide et se rétracte quand elle sèche. Le sable porte moins et peut tasser. Deux angles qui ne bougent pas de la même façon, c’est un **tassement différentiel** : des fissures dans le soubassement et des déformations dans l’ossature.
+Ce n’est pas anodin. L’argile gonfle quand elle est humide et se rétracte quand elle sèche. Un sable lâche ou rapporté porte moins et peut tasser. Deux angles qui ne bougent pas de la même façon, c’est un **tassement différentiel** : des fissures dans le soubassement et des déformations dans l’ossature.
 
 La vraie parade aurait été une étude de sol ciblée sur l’emprise du garage, une étude géotechnique de conception, dite G2. Les dimensions et les armatures de nos semelles venaient de l’étude de structure : 50 cm de large, à environ 70 cm sous le terrain fini. Face à ce sol, nous avons décidé d’aller au-delà et de renforcer le ferraillage. Ça limite le risque de fissuration, sans prétendre neutraliser un tassement important.
 
 ## Pourquoi renforcer le ferraillage ?
 
-Nous nous sommes inspirés des dispositions appliquées en zone sismique : des cages plus robustes, des chaînages continus, des angles soigneusement liés. Notre terrain n’est pas en zone sismique réglementée. C’est un choix de sécurité, pas une obligation, et il a alourdi la facture d’acier, déjà l’un des postes les plus coûteux du gros œuvre avec la flambée des prix après le Covid. Qui peut le plus peut le moins.
+Nous nous sommes inspirés des dispositions appliquées en zone sismique : des cages plus robustes, des chaînages continus, des angles soigneusement liés. Notre commune est en zone de sismicité 2, dite faible : pour un garage, aucune disposition parasismique n’y est exigée. C’est un choix de sécurité, pas une obligation, et il a alourdi la facture d’acier, déjà l’un des postes les plus coûteux du gros œuvre avec la flambée des prix après le Covid. Qui peut le plus peut le moins.
 
 Nos semelles sont armées de **cages 6 HA10** : six barres d’acier « haute adhérence » (HA) de 10 mm de diamètre, trois en bas, trois en haut, tenues par des cadres. Chaque cage forme ainsi une vraie poutre à deux lits, plus robuste qu’une simple ligne de barres. Elles mesurent 15 × 35 cm et arrivent en longueurs de 6 m.
 
@@ -53,7 +53,7 @@ Dans nos angles, les cages se croisent et sont liées par des équerres HA10. No
 
 **Les cales.** Pour que le béton enrobe l’acier sur toutes les faces, la cage doit être surélevée. Nous avons fabriqué nos cales en béton dans un moule artisanal, avec un fil à ligaturer noyé dedans pour les attacher à la cage. Résultat : environ 5 cm de béton sous l’acier et 7,5 cm sur les côtés. C’est cet enrobage qui protège l’acier de l’humidité et de la rouille.
 
-**Les jonctions.** Les cages arrivent en longueurs de 6 m. Pour les relier, les barres doivent se recouvrir d’au moins 50 cm : soit en faisant chevaucher les deux cages, soit en les mettant bout à bout et en ajoutant des barres droites HA10 qui dépassent d’au moins 50 cm de chaque côté du joint.
+**Les jonctions.** Les cages arrivent en longueurs de 6 m. Pour les relier, les barres doivent se recouvrir d’au moins 50 fois leur diamètre, soit 50 cm pour du HA10 : soit en faisant chevaucher les deux cages, soit en les mettant bout à bout et en ajoutant des barres droites HA10 qui dépassent d’au moins 50 cm de chaque côté du joint.
 
 {{< duo theorie="schema-raboutage.png" alt-theorie="Schéma des deux façons d’abouter deux cages de semelle" vrai="cage-sur-cales.jpg" alt-vrai="Cage d’armatures sur cales en béton, avec des barres droites le long du joint" legende="Deux cages aboutées par des barres droites, le tout posé sur les cales en béton : la cage ne touche pas le fond." >}}
 
@@ -73,9 +73,9 @@ Dans nos angles, les cages se croisent et sont liées par des équerres HA10. No
 
 Nous avons calculé le volume sur la maquette : environ 32,8 m de semelles, sur 50 cm de large et 30 cm d’épaisseur, soit un peu moins de 5 m³. Une toupie pleine en contient 7,5. Nous avons préféré payer la plus-value « camion incomplet » plutôt que 2,5 m³ de trop.
 
-30 cm, c’est largement assez. Pour qu’une semelle soit rigide, sa hauteur utile doit dépasser le quart de la différence entre sa largeur et celle du mur : (50 − 20) ÷ 4, soit 7,5 cm. Nous en avons quatre fois plus.
+30 cm, c’est largement assez. Pour qu’une semelle soit rigide, sa hauteur utile doit dépasser le quart de la différence entre sa largeur et celle du mur : (50 − 20) ÷ 4, soit 7,5 cm. La hauteur utile se mesure du dessus de la semelle jusqu’aux aciers du bas : environ 24 cm chez nous, plus de trois fois le minimum.
 
-Le béton commandé : un C25/30, c’est-à-dire qui résiste à 25 MPa une fois durci, de consistance S4, assez fluide pour être pompé. Environ 1 100 € TTC livré, soit environ 215 € le m³ tout compris : le béton lui-même coûte environ 140 € HT le m³, le reste part dans le forfait de mise en œuvre, les frais et le petit volume.
+Le béton commandé : un C25/30, c’est-à-dire dont la résistance caractéristique en compression à 28 jours est de 25 MPa, mesurée sur cylindre, de consistance S4, assez fluide pour être pompé. Environ 1 100 € TTC livré, soit environ 220 € le m³ tout compris : le béton lui-même coûte environ 140 € HT le m³, le reste part dans le forfait de mise en œuvre, les frais et le petit volume.
 
 ## Le jour du coulage
 
@@ -89,7 +89,7 @@ Nous avons coulé les 5 m³. Toupie vide, pas une brouette de trop.
 
 {{< conseils >}}
 - **L’étude de sol de la maison ne vaut pas forcément pour toute la parcelle**, surtout près des tranchées de réseaux. En cas de doute, une étude G2 ciblée sur l’emprise de l’annexe est l’option la plus sûre.
-- **Dans les angles, croisez les cages et liez-les par des équerres** : une barre simplement pliée finit par faire éclater le béton.
+- **Dans un angle rentrant, ne pliez pas les barres tendues** : croisez les cages et liez-les par des équerres, sinon la barre finit par faire éclater le béton.
 - **Ligaturez tout** : croisements, équerres, recouvrements, attentes. Rien ne doit bouger quand le béton arrive.
 - **L’acier ne doit jamais toucher la terre** : béton de propreté au fond, cales sous les cages, et pensez aux fourreaux et aux attentes avant de couler.
 - **Calculez le volume au plus juste** sur vos plans : une plus-value pour camion incomplet coûte moins cher que du béton jeté.

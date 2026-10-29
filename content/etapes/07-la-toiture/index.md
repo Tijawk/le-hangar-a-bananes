@@ -48,7 +48,7 @@ Le calcul supposait aussi du bois de classe C18. Plus le chiffre est élevé, pl
 
 ## Pourquoi une membrane EPDM ?
 
-Sur les solives, des dalles d’**OSB 3 de 22 mm**, à rainures et languettes sur les quatre côtés, forment le plancher du toit. Attention, l’OSB a un sens de pose, avec une face intérieure et une face extérieure : on ne le pose pas n’importe comment. Entre les panneaux, nous avons laissé quelques millimètres de jeu, puis comblé ces joints au mastic adapté, à la spatule. La membrane épousera la moindre marche : le support doit être le plus lisse possible, sans rien qui accroche.
+Sur les solives, des dalles d’**OSB 3 de 22 mm**, à rainures et languettes sur les quatre côtés, forment le plancher du toit. Attention, l’OSB a un sens de pose : son grand axe, indiqué par une flèche, se place perpendiculaire aux solives, et chaque panneau a une face intérieure et une face extérieure, à respecter selon la notice du fabricant. Entre les panneaux, nous avons laissé quelques millimètres de jeu, environ 3 mm selon les fabricants, pour que le bois puisse travailler. Puis nous avons comblé ces joints à la spatule, avec un mastic compatible avec l’EPDM. La membrane épousera la moindre marche : le support doit être le plus lisse possible, sans rien qui accroche.
 
 Tout autour, l’**acrotère**, le rebord qui dépasse du toit, est habillé d’OSB sur sa face intérieure : le support est continu, du plancher jusqu’en haut des rebords.
 
@@ -62,15 +62,17 @@ La membrane est arrivée en deux **lés** coupés sur mesure, de 4,57 × 6,80 m 
 
 {{< figure src="premier-le.jpg" alt="Premier lé d’EPDM déroulé sur le plancher en OSB" caption="Le premier lé d’EPDM déroulé sur l’OSB de 22 mm, le 6 juillet 2024." >}}
 
-Une colle acrylique pour le plan, une colle contact au néoprène pour les relevés verticaux. Les deux lés sont assemblés par une **bande adhésive vulcanisée** de 150 mm.
+Une colle acrylique pour le plan, une colle contact au néoprène pour les relevés verticaux. Pour assembler les deux lés, on passe un primaire sur leurs bords, puis on les joint par une **bande adhésive vulcanisée** de 150 mm.
 
-{{< figure src="collage-rouleau.jpg" alt="Produit passé au rouleau sur la membrane, le long de l’acrotère" caption="Le travail au rouleau sur la membrane, le long de l’acrotère, le 7 juillet 2024." >}}
+{{< figure src="collage-rouleau.jpg" alt="Colle néoprène passée au rouleau sur la membrane, le long de l’acrotère" caption="La colle néoprène passée au rouleau sur la membrane, le 7 juillet 2024. Au pied de l’acrotère, la bande périmétrique et ses plaquettes ; au fond, les joints de l’OSB comblés au mastic." >}}
 
 {{< figure src="deux-les.jpg" alt="Deux lés d’EPDM en place, la jonction traversant la toiture" caption="Les deux lés en place, la jonction au centre, juillet 2024." >}}
 
 ## Comment traiter les rives ?
 
-Les rives sont les points sensibles d’un toit plat. La membrane remonte d’**au moins 15 cm** sur l’acrotère, tout le tour : le toit forme ainsi un bac étanche. En haut du relevé, une bande armée et des fixations vissées l’empêchent de glisser. Les angles reçoivent des bandes de renfort.
+Les rives sont les points sensibles d’un toit plat. La membrane remonte d’**au moins 15 cm** sur l’acrotère, tout le tour : nous avons mesuré 15,3 cm au point haut du toit, là où le relevé est le plus court. Le toit forme ainsi un bac étanche.
+
+Dans l’angle, au pied de l’acrotère, une **bande adhésive périmétrique armée** de 150 mm est vissée par des plaquettes ovales, quatre par mètre. Elle plaque la membrane dans l’angle : le relevé ne tire jamais dessus. C’est d’ailleurs là, en pied de relevé, que les fabricants demandent cette fixation.
 
 {{< figure src="releve-angle.jpg" alt="Membrane EPDM relevée sur l’acrotère, avec un angle" caption="Le relevé d’EPDM sur l’acrotère habillé d’OSB, et un angle, le 7 juillet 2024." >}}
 
@@ -80,7 +82,7 @@ Tout en haut, une **couvertine** en aluminium laqué noir RAL 9005 coiffe l’ac
 
 ## Où va l’eau ?
 
-Au point bas, l’eau traverse l’acrotère par une sortie horizontale, la naissance, puis tombe dans une boîte à eau et une **descente** en PVC noir de 80 mm. Un **trop-plein** de 50 mm prend le relais si l’évacuation se bouche : sans lui, l’eau monterait dans le bac jusqu’à passer par-dessus les relevés.
+Au point bas, l’eau traverse l’acrotère par une sortie horizontale, la naissance, puis tombe dans une boîte à eau et une **descente** en PVC noir de 80 mm. Un **trop-plein** de 50 mm prend le relais si l’évacuation se bouche : sans lui, l’eau monterait dans le bac jusqu’à passer par-dessus les relevés. Il est placé plus bas que le haut des relevés, même à leur point le plus court : l’eau sort par le trop-plein bien avant d’atteindre la tête de la membrane.
 
 Au pied de la descente, pas de nouvel ouvrage : une canalisation enterrée rejoint un regard, relié au puisard existant de la maison.
 
@@ -93,11 +95,11 @@ La membrane est collée, les couvertines posées. Après plus d’un an et demi 
 {{< figure src="toiture-terminee.jpg" alt="Toiture EPDM terminée, membrane relevée sur tout le pourtour" caption="La membrane collée sur tout le toit, juillet 2024." >}}
 
 {{< conseils >}}
-- **Donnez de la pente à un toit plat** : 3 % est le minimum courant sur support bois. Vérifiez l’avis technique de votre membrane.
+- **Donnez de la pente à un toit plat** : sur un support en bois, 3 % est le minimum à la conception. Vérifiez aussi l’avis technique de votre membrane.
 - **Sur une structure en bois, préférez une étanchéité collée à froid**, et choisissez une membrane EPDM de toiture classée au feu, jamais une membrane de bassin.
-- **Soignez le support avant la membrane** : OSB posé dans le bon sens, quelques millimètres de jeu entre les panneaux, joints comblés au mastic à la spatule. L’EPDM doit reposer sur une surface lisse.
-- **Remontez la membrane d’au moins 15 cm sur l’acrotère**, et coiffez-la d’une couvertine posée en pente vers le toit.
-- **Prévoyez toujours un trop-plein** : une évacuation bouchée transforme un toit plat en piscine.
+- **Soignez le support avant la membrane** : OSB posé dans le bon sens, environ 3 mm de jeu entre les panneaux, joints comblés à la spatule avec un mastic compatible EPDM. L’EPDM doit reposer sur une surface lisse.
+- **Fixez la membrane en pied de relevé** avec une bande périmétrique armée, remontez-la d’au moins 15 cm sur l’acrotère, et coiffez-la d’une couvertine posée en pente vers le toit.
+- **Prévoyez toujours un trop-plein**, plus bas que le haut des relevés : une évacuation bouchée transforme un toit plat en piscine. Sur un toit en bois avec une seule descente, il est obligatoire.
 - **Si le bois ou l’entraxe changent sur le chantier, faites revérifier le calcul.** Et gardez de la réserve si vous pensez au photovoltaïque.
 {{< /conseils >}}
 
