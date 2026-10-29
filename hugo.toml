@@ -4,12 +4,15 @@ defaultContentLanguage = "fr"
 title = "Le hangar à bananes"
 theme = "PaperMod"
 enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
 
 [pagination]
   pagerSize = 30
 
 [params]
   mainSections = ["etapes"]
+  # Nombre de phases du chantier ; le billet de poids supérieur est le bilan.
+  nbPhases = 10
   images = ["logo.png"]
   description = "49 m² de garage-atelier en ossature bois, construits à deux, le week-end : le chantier raconté étape par étape."
   defaultTheme = "light"
@@ -17,18 +20,15 @@ enableRobotsTXT = true
   ShowReadingTime = true
   ShowBreadCrumbs = true
   ShowPostNavLinks = true
-  ShowToc = false
-  ShowShareButtons = false
-  ShowWordCount = false
-  hideFooter = false
   dateFormat = "January 2006"
   [params.footer]
     text = "[Mentions légales](/mentions-legales/)"
   [params.assets]
-    favicon = "logo.png"
-    apple_touch_icon = "logo.png"
+    favicon = "favicon-32x32.png"
+    favicon16x16 = "favicon-16x16.png"
+    favicon32x32 = "favicon-32x32.png"
+    apple_touch_icon = "apple-touch-icon.png"
   [params.label]
-    text = "Le hangar à bananes"
     icon = "logo-mark.png"
     iconHeight = 36
   [params.homeInfoParams]
@@ -57,5 +57,6 @@ enableRobotsTXT = true
     pageRef = "/a-propos"
     weight = 5
 
-[markup.goldmark.renderer]
-  unsafe = true
+# Liens Markdown internes (/etapes/…) résolus par Hugo, sous-dossier de baseURL compris.
+[markup.goldmark.renderHooks.link]
+  useEmbedded = "always"

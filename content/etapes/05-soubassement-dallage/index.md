@@ -11,7 +11,7 @@ cover:
   relative: true
 ---
 
-{{< frise phase="5" titre="Soubassement et dallage" >}}
+{{< frise titre="Soubassement et dallage" >}}
 
 Juin 2023 : les semelles sont coulées, les attentes dépassent du béton. Entre ces fondations et les murs en bois, il manque encore un muret pour tenir l’ossature loin du sol, puis une dalle pour le plancher. Il nous a fallu tout l’été et le début de l’automne.
 

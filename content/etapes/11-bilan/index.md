@@ -11,7 +11,7 @@ cover:
   relative: true
 ---
 
-{{< frise phase="11" titre="Le bilan" >}}
+{{< frise titre="Le bilan" >}}
 
 Décembre 2024 : le hangar est fini, et il sert. Il reste à le déclarer en mairie, puis à faire les comptes : combien il a coûté, combien de temps il a pris, et ce que nous en retenons.
 

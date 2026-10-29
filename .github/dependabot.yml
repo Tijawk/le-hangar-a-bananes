@@ -1,0 +1,11 @@
+# Propose chaque mois les mises à jour du thème (sous-module) et des actions GitHub.
+version: 2
+updates:
+  - package-ecosystem: gitsubmodule
+    directory: /
+    schedule:
+      interval: monthly
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly

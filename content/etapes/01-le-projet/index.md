@@ -11,7 +11,7 @@ cover:
   relative: true
 ---
 
-{{< frise phase="1" titre="Le projet" >}}
+{{< frise titre="Le projet" >}}
 
 Avant le premier coup de pelle, il y a eu plus d’un an de préparation : comprendre ce dont nous avions besoin, choisir comment construire, et découvrir ce que le terrain nous autorisait.
 

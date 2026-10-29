@@ -11,7 +11,7 @@ cover:
   relative: true
 ---
 
-{{< frise phase="2" titre="Le permis de construire" >}}
+{{< frise titre="Le permis de construire" >}}
 
 Le projet est dessiné, le terrain a imposé sa forme. Reste à obtenir l’autorisation de construire. Nous avons monté le dossier nous-mêmes, pièce par pièce, et il nous a fallu deux tentatives.
 

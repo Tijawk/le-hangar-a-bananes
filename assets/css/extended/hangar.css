@@ -1,141 +1,501 @@
-/* Couleurs et polices du hangar à bananes, posées par-dessus PaperMod */
-@font-face{font-family:"Fraunces";font-style:normal;font-weight:600 700;font-display:swap;src:url("../../fonts/fraunces-latin.woff2") format("woff2")}
-@font-face{font-family:"Source Sans 3";font-style:normal;font-weight:400 600;font-display:swap;src:url("../../fonts/source-sans-3-latin.woff2") format("woff2")}
-@font-face{font-family:"Source Sans 3";font-style:italic;font-weight:400;font-display:swap;src:url("../../fonts/source-sans-3-italic-latin.woff2") format("woff2")}
-:root{
-  --theme:#faf7ef; --entry:#fffdf8; --primary:#23211c; --secondary:#6b665b;
-  --tertiary:#e7e1d3; --content:#23211c; --code-bg:#f1ece0; --border:#e7e1d3;
-  --main-width:760px;
-  --vert:#1f4d3a; --vert-clair:#e6efe8; --bois:#a8733a; --bois-texte:#8a5a24; --banane:#f2c230;
+/*
+ * Le hangar à bananes : personnalisation posée par-dessus PaperMod.
+ * Ordre : polices, variables, bases, en-tête, accueil, liste, article,
+ * frise, fiche, figures, duo, conseils, navigation, animations, responsive.
+ * Les chemins url() sont relatifs à /assets/css/ pour fonctionner sous un sous-dossier.
+ */
+
+/* Polices auto-hébergées (sous-ensemble latin) */
+@font-face {
+  font-family: "Fraunces";
+  font-style: normal;
+  font-weight: 600 700;
+  font-display: swap;
+  src: url("../../fonts/fraunces-latin.woff2") format("woff2");
 }
-body{font-family:"Source Sans 3",system-ui,sans-serif;font-size:19px}
-.post-title,.entry-header h2,.home-info h1,.post-content h2,.post-content h3,.logo a,.conseils-titre{font-family:"Fraunces",Georgia,serif}
-.post-title{font-weight:700;letter-spacing:-.01em}
-.post-content{font-size:1.05rem;line-height:1.7}
-.post-content h2{color:var(--vert);font-size:1.55rem;margin:2em 0 .6em}
-.post-content a,.home-info a{color:var(--vert)}
-.post-content img{border-radius:10px}
-:focus-visible{outline:3px solid var(--banane);outline-offset:2px}
-
-/* En-tête et menu */
-.logo a img{border-radius:8px}
-#menu a.active,#menu .active{color:var(--vert);border-bottom:2px solid var(--banane)}
-@media (max-width:720px){
-  body{font-size:17.5px}
-  .nav{flex-direction:column;align-items:flex-start}
-  #menu{flex-wrap:wrap;gap:.1em 1em;overflow:visible;margin:0}
-  #menu li+li{margin-inline-start:0}
+@font-face {
+  font-family: "Source Sans 3";
+  font-style: normal;
+  font-weight: 400 600;
+  font-display: swap;
+  src: url("../../fonts/source-sans-3-latin.woff2") format("woff2");
 }
-
-/* Accueil et liste des étapes */
-.home-info .entry-content{font-size:1.1rem;color:var(--secondary)}
-.entry-cover img{aspect-ratio:16/9;object-fit:cover;width:100%}
-.entry-cover{margin-bottom:14px}
-.post-entry{transition:transform .15s}
-.post-entry:hover{transform:translateY(-2px)}
-.entry-phase{margin:0 0 4px;font-size:.75rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--bois-texte)}
-
-/* Légendes et images */
-.post-content figure figcaption,.post-content figcaption p,.post-content .duo figcaption{font-size:.88rem;font-weight:400;font-style:italic;color:var(--secondary);text-align:center;margin-top:.5em}
-.post-content a.zoom{box-shadow:none;cursor:zoom-in;display:block}
-.post-content figure img{width:100%;height:auto}
-
-/* Frise de progression */
-.frise{display:grid;grid-auto-flow:column;grid-auto-columns:1fr;gap:4px;margin:0 0 6px;position:relative}
-.frise a{display:block;height:8px;border-radius:4px;background:var(--tertiary);box-shadow:none;transition:transform .15s}
-.frise a:hover{transform:scaleY(1.6)}
-.frise .fait{background:var(--vert)} .frise .en-cours{background:var(--banane)}
-.post-content p.phase{font-size:.8rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--bois-texte);margin-top:0}
-
-/* Fiche « en bref » */
-.fiche{background:var(--entry);border:1px solid var(--border);border-left:5px solid var(--bois);border-radius:10px;padding:16px 22px;margin:1.5em 0 2em}
-.fiche-titre,.conseils-titre{font-size:.8rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--bois-texte);margin:0 0 .5em}
-.fiche table{margin:0;font-size:.98rem;border:0} .fiche table th{display:none}
-.fiche td{border:0;padding:6px 10px 6px 0;vertical-align:top}
-.fiche tr+tr td{border-top:1px solid var(--border)}
-.fiche td:first-child{color:var(--secondary);font-weight:600;width:32%}
-@media (max-width:640px){
-  .fiche tr{display:block;padding:6px 0}
-  .fiche tr+tr{border-top:1px solid var(--border)}
-  .fiche tr+tr td{border-top:0}
-  .fiche td{display:block;padding:0;width:auto}
-  .fiche td:first-child{font-size:.85rem}
+@font-face {
+  font-family: "Source Sans 3";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../../fonts/source-sans-3-italic-latin.woff2") format("woff2");
 }
 
-/* Conseils */
-.conseils{background:var(--vert-clair);border-radius:12px;padding:20px 26px;margin:2.5em 0}
-.conseils-titre{color:var(--vert);font-size:1.1rem;letter-spacing:0;text-transform:none}
+/* Variables : celles de PaperMod, puis la palette du hangar */
+:root {
+  --theme: #faf7ef;
+  --entry: #fffdf8;
+  --primary: #23211c;
+  --secondary: #6b665b;
+  --tertiary: #e7e1d3;
+  --content: #23211c;
+  --code-bg: #f1ece0;
+  --border: #e7e1d3;
+  --main-width: 760px;
+
+  --vert: #1f4d3a;
+  --vert-clair: #e6efe8;
+  --bois: #a8733a;        /* bordures */
+  --bois-texte: #8a5a24;  /* texte, contraste suffisant sur fond crème */
+  --banane: #f2c230;
+  --clair: #fff;
+  --serif: "Fraunces", Georgia, serif;
+}
+
+/* Bases */
+body {
+  font-family: "Source Sans 3", system-ui, sans-serif;
+  font-size: 19px;
+}
+.post-title,
+.entry-header h2,
+.home-info h1,
+.post-content h2,
+.post-content h3,
+.logo a {
+  font-family: var(--serif);
+}
+.post-title {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+.post-content {
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+.post-content h2 {
+  margin: 2em 0 0.6em;
+  font-size: 1.55rem;
+  color: var(--vert);
+}
+.post-content a,
+.home-info .entry-content a {
+  color: var(--vert);
+}
+.post-content img {
+  border-radius: 10px;
+}
+:focus-visible {
+  outline: 3px solid var(--banane);
+  outline-offset: 2px;
+}
+
+/* Surtitres : petites capitales espacées, couleur bois */
+.surtitre,
+.entry-phase,
+.post-content p.phase,
+.paginav .title {
+  margin: 0 0 0.5em;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--bois-texte);
+}
+
+/* En-tête */
+.menu .active {
+  color: var(--vert);
+  border-bottom-color: var(--banane);
+}
+
+/* Accueil : bandeau photo */
+.home-info.hero {
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  min-height: 440px;
+  margin: 8px 0 22px;
+  padding: 0;
+  overflow: hidden;
+  border: 0;
+  border-radius: 18px;
+  background: var(--primary);
+}
+.hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  background: linear-gradient(180deg, rgb(20 18 14 / 5%) 20%, rgb(20 18 14 / 82%) 100%);
+}
+.hero-photo {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  object-fit: cover;
+  object-position: center 40%;
+}
+.hero-texte {
+  position: relative;
+  z-index: 2;
+  max-width: 680px;
+  padding: 34px 36px 30px;
+  color: var(--clair);
+}
+.hero-texte .surtitre {
+  letter-spacing: 0.12em;
+  color: var(--banane);
+}
+.home-info.hero h1 {
+  margin: 0 0 12px;
+  font-size: 2.6rem;
+  line-height: 1.08;
+  color: var(--clair);
+  text-shadow: 0 2px 12px rgb(0 0 0 / 35%);
+}
+.home-info.hero .entry-content {
+  margin: 0;
+  font-size: 1.08rem;
+  color: #f3efe4;
+}
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 20px 0 0;
+}
+.hero .bouton {
+  display: inline-block;
+  padding: 10px 18px;
+  border-radius: 999px;
+  font-weight: 600;
+  color: var(--primary);
+  background: var(--banane);
+}
+.hero .bouton-clair {
+  color: var(--clair);
+  background: rgb(255 255 255 / 14%);
+  border: 1px solid rgb(255 255 255 / 50%);
+}
+.hero-equipe {
+  position: absolute;
+  right: 22px;
+  bottom: 22px;
+  z-index: 2;
+  display: flex;
+  align-items: flex-end;
+}
+.hero-equipe img {
+  width: 64px;
+  height: 64px;
+  margin: 0;
+  border-radius: 0;
+}
+.hero-equipe .hero-outil {
+  width: 40px;
+  height: 40px;
+  margin: 0 -4px 26px;
+}
+
+/* Accueil : chiffres du chantier */
+.chiffres {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  margin: 0 0 34px;
+}
+.chiffres div {
+  padding: 16px 18px;
+  background: var(--entry);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+}
+.chiffres dt {
+  font-family: var(--serif);
+  font-size: 2rem;
+  line-height: 1.1;
+  color: var(--vert);
+}
+.chiffres dd {
+  margin: 4px 0 0;
+  font-size: 0.88rem;
+  line-height: 1.35;
+  color: var(--secondary);
+}
+
+/* Liste des étapes */
+.entry-cover {
+  margin-bottom: 14px;
+}
+.entry-cover img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+.entry-phase {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 4px;
+}
+.entry-phase img {
+  width: 18px;
+  height: 18px;
+  margin: 0;
+  border-radius: 0;
+}
+
+/* Frise de progression : une icône au-dessus de chaque segment */
+.frise {
+  display: grid;
+  grid-auto-columns: 1fr;
+  grid-auto-flow: column;
+  gap: 4px;
+  margin: 0 0 6px;
+}
+.frise a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 6px;
+  min-height: 44px;  /* cible tactile confortable */
+  box-shadow: none;
+}
+.frise a::after {
+  content: "";
+  align-self: stretch;
+  height: 8px;
+  border-radius: 4px;
+  background: var(--tertiary);
+}
+.frise .fait::after {
+  background: var(--vert);
+}
+.frise .en-cours::after {
+  background: var(--banane);
+}
+.frise img {
+  width: 18px;
+  height: 18px;
+  margin: 0;
+  border-radius: 0;
+}
+.frise .a-venir img {
+  opacity: 0.3;
+  filter: grayscale(1);
+}
+.frise .en-cours img {
+  width: 28px;
+  height: 28px;
+}
+.post-content p.phase {
+  margin-top: 0;
+  font-size: 0.8rem;
+}
+
+/* Fiche « en bref » : tableau Markdown à deux colonnes, sans en-tête */
+.fiche {
+  margin: 1.5em 0 2em;
+  padding: 16px 22px;
+  background: var(--entry);
+  border: 1px solid var(--border);
+  border-left: 5px solid var(--bois);
+  border-radius: 10px;
+}
+.md-content .fiche table {
+  display: table;
+  width: 100%;
+  margin: 0;
+  font-size: 0.98rem;
+}
+.md-content .fiche thead {
+  display: none;
+}
+.md-content .fiche table:not(.highlight table, .gist .highlight) td {
+  min-width: 0;
+  padding: 7px 10px 7px 0;
+  vertical-align: top;
+  border: 0;
+}
+.md-content .fiche table:not(.highlight table, .gist .highlight) tr + tr td {
+  border-top: 1px solid var(--border);
+}
+.md-content .fiche td:first-child {
+  width: 32%;
+  font-weight: 600;
+  color: var(--secondary);
+}
+
+/* Figures */
+.post-content figure img {
+  width: 100%;
+  height: auto;
+}
+.md-content figure > figcaption {
+  margin: 0.5em 0 0;
+  font-size: 0.88rem;
+  font-weight: 400;
+  font-style: italic;
+  text-align: center;
+  color: var(--secondary);
+}
+.post-content a.zoom {
+  display: block;
+  cursor: zoom-in;
+  box-shadow: none;
+}
+
+/* Duo : schéma de principe et photo côte à côte */
+.post-content .duo {
+  margin: 2.2em 0;
+}
+.duo-grille {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+.duo-grille > div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 8px;
+  background: var(--clair);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+}
+.post-content .duo img {
+  width: 100%;
+  height: auto;
+  margin: 0;
+  border-radius: 6px;
+}
+
+/* Conseils en fin d'article */
+.conseils {
+  margin: 2.5em 0;
+  padding: 20px 26px;
+  background: var(--vert-clair);
+  border-radius: 12px;
+}
+.post-content .conseils-titre {
+  margin: 0 0 0.5em;
+  font-size: 1.1rem;
+  color: var(--vert);
+}
 
 /* Navigation entre billets */
-.paginav{border:1px solid var(--border);border-radius:12px;background:var(--entry)}
-.paginav .title{color:var(--bois-texte);letter-spacing:.08em}
-.paginav a:hover{background:var(--vert-clair)}
-
-/* Théorie / en vrai : schéma et photo côte à côte */
-.post-content .duo{margin:2.2em 0}
-.post-content .duo-grille{display:grid;grid-template-columns:1fr 1fr;gap:12px}
-.post-content .duo-grille>div{background:#fff;border:1px solid var(--border);border-radius:10px;padding:8px;display:flex;flex-direction:column;justify-content:center}
-.post-content .duo-etiquette{margin:0 0 8px;font-size:.75rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--bois-texte)}
-.post-content .duo img{width:100%;height:auto;margin:0;border-radius:6px}
-@media (max-width:640px){.post-content .duo-grille{grid-template-columns:1fr}}
-
-/* Icônes des phases au-dessus de la frise (Fluent Emoji, Microsoft, licence MIT) */
-.frise-piste{position:relative;padding-top:34px}
-@keyframes outil{0%,100%{transform:rotate(-8deg)}50%{transform:rotate(8deg) translateY(-2px)}}
-.frise-icones{display:grid;grid-auto-flow:column;grid-auto-columns:1fr;gap:4px;position:absolute;left:0;right:0;bottom:14px;align-items:end}
-.frise-icones span{display:flex;justify-content:center}
-.frise-icones img{width:18px;height:18px;margin:0;border-radius:0;opacity:.3;filter:grayscale(1)}
-.frise-icones .fait img{opacity:.9;filter:none}
-.frise-icones .en-cours img{opacity:1;filter:none;width:28px;height:28px;animation:outil 2.4s ease-in-out infinite}
-@media (prefers-reduced-motion:reduce){.frise-icones img,.hero-equipe img{animation:none !important}}
-
-/* Correctifs : fiche sans quadrillage, menu mobile compact */
-.md-content .fiche table{width:100%;display:table}
-.md-content .fiche table td,.md-content .fiche table th{border:0 !important;padding:7px 10px 7px 0 !important;min-width:0 !important}
-.md-content .fiche table tbody tr+tr td{border-top:1px solid var(--border) !important}
-@media (max-width:640px){
-  .md-content .fiche table,.md-content .fiche table tbody{display:block}
-  .md-content .fiche table tr{display:block;padding:6px 0}
-  .md-content .fiche table tr+tr{border-top:1px solid var(--border)}
-  .md-content .fiche table tbody tr+tr td{border-top:0 !important}
-  .md-content .fiche table td{display:block;padding:0 !important}
+.paginav {
+  background: var(--entry);
+  border: 1px solid var(--border);
+  border-radius: 12px;
 }
-@media (max-width:720px){
-  .header-nav{line-height:1.5;padding-top:10px;padding-bottom:6px}
-  .logo{min-height:56px}
-  .menu{flex-wrap:wrap;column-gap:1.1em;row-gap:.2em;padding:4px 0 10px}
+.paginav a:hover {
+  background: var(--vert-clair);
 }
-.md-content .fiche table thead{display:none}
-@media (max-width:640px){.md-content .fiche table td:first-child{width:auto}}
-.entry-phase{display:flex;align-items:center;gap:6px}
-.entry-phase img{width:18px;height:18px;margin:0;border-radius:0}
 
-/* Accueil : bandeau photo et chiffres du chantier */
-.home-info.hero{position:relative;padding:0;margin:8px 0 22px;border:0;border-radius:18px;overflow:hidden;min-height:440px;display:flex;align-items:flex-end;background:#23211c}
-.home-info.hero::after{display:none}
-.hero-photo{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 40%;margin:0}
-.hero::before{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(20,18,14,.05) 20%,rgba(20,18,14,.82) 100%);z-index:1}
-.hero-texte{position:relative;z-index:2;padding:34px 36px 30px;color:#fff;max-width:680px}
-.hero-surtitre{margin:0 0 8px;font-size:.78rem;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--banane)}
-.home-info.hero h1{color:#fff;font-size:2.6rem;line-height:1.08;margin:0 0 12px;text-shadow:0 2px 12px rgba(0,0,0,.35)}
-.home-info.hero .entry-content{color:#f3efe4;font-size:1.08rem;margin:0}
-.hero-actions{display:flex;flex-wrap:wrap;gap:10px;margin:20px 0 0}
-.bouton{display:inline-block;padding:10px 18px;border-radius:999px;background:var(--banane);color:#23211c !important;font-weight:600;box-shadow:none;transition:transform .15s}
-.bouton:hover{transform:translateY(-2px)}
-.bouton-clair{background:rgba(255,255,255,.14);color:#fff !important;border:1px solid rgba(255,255,255,.5)}
-.hero-equipe{position:absolute;z-index:2;right:22px;bottom:22px;display:flex;align-items:flex-end}
-.hero-equipe img{width:64px;height:64px;margin:0;border-radius:0}
-.hero-equipe img:nth-child(2){width:40px;height:40px;margin:0 -4px 26px;animation:outil 2.4s ease-in-out infinite}
-.chiffres{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:0 0 34px}
-.chiffres div{background:var(--entry);border:1px solid var(--border);border-radius:14px;padding:16px 18px}
-.chiffres strong{display:block;font-family:"Fraunces",Georgia,serif;font-size:2rem;line-height:1.1;color:var(--vert)}
-.chiffres span{display:block;margin-top:4px;font-size:.88rem;color:var(--secondary);line-height:1.35}
-@media (max-width:720px){
-  .home-info.hero{min-height:520px;border-radius:14px}
-  .hero-texte{padding:24px 20px 96px}
-  .home-info.hero h1{font-size:1.9rem}
-  .hero-equipe{right:auto;left:20px;bottom:18px}
-  .hero-equipe img{width:52px;height:52px}
-  .chiffres{grid-template-columns:repeat(2,1fr);gap:10px}
-  .chiffres strong{font-size:1.6rem}
+/* Animations, seulement si le visiteur ne les a pas désactivées */
+@media (prefers-reduced-motion: no-preference) {
+  @keyframes outil {
+    0%, 100% { transform: rotate(-8deg); }
+    50% { transform: rotate(8deg) translateY(-2px); }
+  }
+  .frise .en-cours img,
+  .hero-equipe .hero-outil {
+    animation: outil 2.4s ease-in-out infinite;
+  }
+  .post-entry,
+  .hero .bouton,
+  .frise a::after {
+    transition: transform 0.15s;
+  }
+  .post-entry:hover,
+  .hero .bouton:hover {
+    transform: translateY(-2px);
+  }
+  .frise a:hover::after {
+    transform: scaleY(1.6);
+  }
+}
+
+/* Responsive */
+@media (max-width: 720px) {
+  body {
+    font-size: 17.5px;
+  }
+  .header-nav {
+    padding-top: 10px;
+    padding-bottom: 6px;
+    line-height: 1.5;
+  }
+  .logo {
+    min-height: 56px;
+  }
+  .nav {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  #menu {
+    flex-wrap: wrap;
+    gap: 0.2em 1.1em;
+    margin: 0;
+    padding: 4px 0 10px;
+    overflow: visible;
+  }
+  #menu li + li {
+    margin-inline-start: 0;
+  }
+  .home-info.hero {
+    min-height: 520px;
+    border-radius: 14px;
+  }
+  .hero-texte {
+    padding: 24px 20px 96px;
+  }
+  .home-info.hero h1 {
+    font-size: 1.9rem;
+  }
+  .hero-equipe {
+    right: auto;
+    left: 20px;
+    bottom: 18px;
+  }
+  .hero-equipe img {
+    width: 52px;
+    height: 52px;
+  }
+  .chiffres {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+  .chiffres dt {
+    font-size: 1.6rem;
+  }
+}
+@media (max-width: 640px) {
+  .duo-grille {
+    grid-template-columns: 1fr;
+  }
+  .md-content .fiche table,
+  .md-content .fiche tbody,
+  .md-content .fiche tr {
+    display: block;
+  }
+  .md-content .fiche tr {
+    padding: 6px 0;
+  }
+  .md-content .fiche tr + tr {
+    border-top: 1px solid var(--border);
+  }
+  .md-content .fiche table:not(.highlight table, .gist .highlight) td {
+    display: block;
+    padding: 0;
+  }
+  .md-content .fiche table:not(.highlight table, .gist .highlight) tr + tr td {
+    border-top: 0;
+  }
+  .md-content .fiche td:first-child {
+    width: auto;
+    font-size: 0.85rem;
+  }
 }

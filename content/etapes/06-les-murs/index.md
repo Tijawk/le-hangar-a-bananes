@@ -11,7 +11,7 @@ cover:
   relative: true
 ---
 
-{{< frise phase="6" titre="Les murs" >}}
+{{< frise titre="Les murs" >}}
 
 Octobre 2023 : la dalle est coulée. Le premier mur ne se lèvera qu’en avril 2024. À la pause de l’hiver se sont ajoutés plusieurs mois de délai sur le bois, en pleine pénurie d’après Covid. Mais une fois le bois livré, il suffit de deux mois pour que le garage prenne enfin du volume.
 

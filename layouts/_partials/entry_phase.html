@@ -1,0 +1,8 @@
+{{- /* Surtitre « Phase N sur 10 » des cartes de la liste des étapes. Reçoit la page. */ -}}
+{{- if eq .Section "etapes" -}}
+{{- $total := site.Params.nbPhases -}}
+<p class="entry-phase">
+  <img src="{{ printf "img/phases/phase-%d.svg" .Weight | relURL }}" alt="" width="18" height="18">
+  {{- if le .Weight $total }}Phase {{ .Weight }} sur {{ $total }}{{ else }}Le bilan{{ end -}}
+</p>
+{{- end -}}

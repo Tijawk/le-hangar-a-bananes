@@ -1,12 +1,25 @@
+{{- /*
+  Remplace le shortcode figure de Hugo pour les images du dossier de l'article :
+  version WebP redimensionnée (600 et 1200 px au plus), dimensions explicites,
+  lien vers l'original pour l'agrandir.
+  Usage : {{< figure src="photo.jpg" alt="…" caption="…" >}}
+*/ -}}
 {{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" -}}
 {{- $img := .Page.Resources.Get $src -}}
+{{- if not $img }}{{ errorf "figure : image %q introuvable dans %s" $src .Page.File.Path }}{{ end -}}
 <figure>
-{{- if and $img (in (slice "image/jpeg" "image/png") $img.MediaType.Type) -}}
-  {{- $s := $img.Resize "600x webp q78" -}}
-  {{- $m := $img -}}{{- if gt $img.Width 1200 }}{{ $m = $img.Resize "1200x webp q78" }}{{ else }}{{ $m = $img.Resize (printf "%dx webp q78" $img.Width) }}{{ end -}}
-  <a href="{{ $img.RelPermalink }}" class="zoom" title="Agrandir l’image"><img src="{{ $m.RelPermalink }}" srcset="{{ $s.RelPermalink }} 600w, {{ $m.RelPermalink }} {{ $m.Width }}w" sizes="(max-width: 800px) 100vw, 760px" width="{{ $m.Width }}" height="{{ $m.Height }}" alt="{{ .Get "alt" }}" loading="lazy" decoding="async"></a>
-{{- else -}}
-  <img src="{{ $src }}" alt="{{ .Get "alt" }}" loading="lazy">
-{{- end -}}
-{{- with .Get "caption" }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
+  <a href="{{ $img.RelPermalink }}" class="zoom" aria-label="Agrandir : {{ $alt }}">
+  {{- if in (slice "image/jpeg" "image/png") $img.MediaType.Type }}
+    {{- $m := cond (gt $img.Width 1200) ($img.Resize "1200x webp q78") ($img.Process "webp q78") }}
+    {{- $srcset := printf "%s %dw" $m.RelPermalink $m.Width }}
+    {{- if gt $m.Width 600 }}{{ $s := $img.Resize "600x webp q78" }}{{ $srcset = printf "%s %dw, %s" $s.RelPermalink $s.Width $srcset }}{{ end }}
+    <img src="{{ $m.RelPermalink }}" srcset="{{ $srcset }}" sizes="(max-width: 808px) 100vw, 760px" width="{{ $m.Width }}" height="{{ $m.Height }}" alt="{{ $alt }}" loading="lazy" decoding="async">
+  {{- else }}
+    <img src="{{ $img.RelPermalink }}" alt="{{ $alt }}" loading="lazy" decoding="async">
+  {{- end }}
+  </a>
+  {{- with .Get "caption" }}
+  <figcaption>{{ . | $.Page.RenderString }}</figcaption>
+  {{- end }}
 </figure>

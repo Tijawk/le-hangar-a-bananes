@@ -1,14 +1,25 @@
-{{- define "duo-img" -}}
+{{- /*
+  Schéma de principe et photo du chantier côte à côte.
+  Usage : {{< duo theorie="schema.png" alt-theorie="…" vrai="photo.jpg" alt-vrai="…" legende="…" >}}
+*/ -}}
+{{- define "_duo-img" -}}
 {{- $img := .page.Resources.Get .src -}}
-{{- if $img -}}
-{{- $m := $img.Resize "720x webp q80" -}}
-<a href="{{ $img.RelPermalink }}" class="zoom" title="Agrandir"><img src="{{ $m.RelPermalink }}" width="{{ $m.Width }}" height="{{ $m.Height }}" alt="{{ .alt }}" loading="lazy" decoding="async"></a>
-{{- else -}}<img src="{{ .src }}" alt="{{ .alt }}" loading="lazy">{{- end -}}
+{{- if not $img }}{{ errorf "duo : image %q introuvable dans %s" .src .page.File.Path }}{{ end -}}
+{{- $m := cond (gt $img.Width 720) ($img.Resize "720x webp q80") ($img.Process "webp q80") -}}
+<a href="{{ $img.RelPermalink }}" class="zoom" aria-label="Agrandir : {{ .alt }}"><img src="{{ $m.RelPermalink }}" width="{{ $m.Width }}" height="{{ $m.Height }}" alt="{{ .alt }}" loading="lazy" decoding="async"></a>
 {{- end -}}
 <figure class="duo">
   <div class="duo-grille">
-    <div><p class="duo-etiquette">La théorie</p>{{ template "duo-img" (dict "page" .Page "src" (.Get "theorie") "alt" (.Get "alt-theorie")) }}</div>
-    <div><p class="duo-etiquette">En vrai</p>{{ template "duo-img" (dict "page" .Page "src" (.Get "vrai") "alt" (.Get "alt-vrai")) }}</div>
+    <div>
+      <p class="surtitre">La théorie</p>
+      {{ template "_duo-img" (dict "page" .Page "src" (.Get "theorie") "alt" (.Get "alt-theorie")) }}
+    </div>
+    <div>
+      <p class="surtitre">En vrai</p>
+      {{ template "_duo-img" (dict "page" .Page "src" (.Get "vrai") "alt" (.Get "alt-vrai")) }}
+    </div>
   </div>
-  {{- with .Get "legende" }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
+  {{- with .Get "legende" }}
+  <figcaption>{{ . | $.Page.RenderString }}</figcaption>
+  {{- end }}
 </figure>

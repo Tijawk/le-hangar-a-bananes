@@ -11,7 +11,7 @@ cover:
   relative: true
 ---
 
-{{< frise phase="8" titre="Les menuiseries" >}}
+{{< frise titre="Les menuiseries" >}}
 
 Juillet 2024 : le garage est couvert, mais il reste ouvert à tous les vents. Les ouvertures attendent dans l’ossature depuis le printemps, le pare-pluie déjà rabattu dans les tableaux. Il est temps de poser les portes et les fenêtres.
 

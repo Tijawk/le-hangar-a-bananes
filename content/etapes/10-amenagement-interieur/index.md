@@ -11,7 +11,7 @@ cover:
   relative: true
 ---
 
-{{< frise phase="10" titre="L’aménagement intérieur" >}}
+{{< frise titre="L’aménagement intérieur" >}}
 
 Septembre 2024 : la façade est finie. À l’intérieur, ce n’est encore qu’une ossature et une dalle. Reste à le rendre utile : habiller les murs, amener l’électricité et l’eau, installer l’atelier.
 

@@ -1,3 +1,6 @@
+{{- /* Copie de themes/PaperMod/layouts/list.html (commit 1181196).
+     Seule modification : l’appel au partial entry_phase.html dans entry-header,
+     PaperMod n’offrant pas de point d’accroche à cet endroit. */ -}}
 {{- define "main" }}
 
 {{- if (and site.Params.profileMode.enabled .IsHome) }}
@@ -67,7 +70,7 @@
   {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
   {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
   <header class="entry-header">
-    {{- if eq .Section "etapes" }}<p class="entry-phase"><img src="{{ printf "img/phases/phase-%d.svg" .Weight | relURL }}" alt="" width="18" height="18">{{ if le .Weight 10 }}Phase {{ .Weight }} sur 10{{ else }}Le bilan{{ end }}</p>{{ end }}
+    {{- partial "entry_phase.html" . }}
     <h2 class="entry-hint-parent">
       {{- .Title }}
       {{- if .Draft }}

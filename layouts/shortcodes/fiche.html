@@ -1,3 +1,7 @@
-<aside class="fiche"><p class="fiche-titre">{{ .Get "titre" | default "Le projet en bref" }}</p>
-{{ .Inner | markdownify }}
+{{- /* Encadré « en bref » ; le contenu est un tableau Markdown à deux colonnes sans en-tête.
+     Usage : {{< fiche titre="La phase en bref" >}} | | | … {{< /fiche >}} */ -}}
+{{- $id := printf "fiche-%d" .Ordinal -}}
+<aside class="fiche" aria-labelledby="{{ $id }}">
+  <p class="surtitre" id="{{ $id }}">{{ .Get "titre" | default "Le projet en bref" }}</p>
+  {{ .Inner | .Page.RenderString (dict "display" "block") }}
 </aside>

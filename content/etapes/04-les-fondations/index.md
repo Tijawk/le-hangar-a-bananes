@@ -11,7 +11,7 @@ cover:
   relative: true
 ---
 
-{{< frise phase="4" titre="Les fondations" >}}
+{{< frise titre="Les fondations" >}}
 
 Avril 2023 : quatre mois de pelle plus tard, les fouilles sont prêtes. Reste à les remplir de béton armé pour former les semelles filantes, ces bandes continues coulées sous tous les murs, qui répartissent sur le sol le poids des murs et de la toiture. Mais le fond des fouilles nous réservait une dernière surprise : le sol n’était pas le même d’un angle à l’autre.
 

@@ -1,25 +1,30 @@
+{{- /* Remplace home_info.html de PaperMod : bandeau photo et chiffres du chantier. */ -}}
 {{- with site.Params.homeInfoParams }}
 {{- $hero := resources.Get "img/hero.jpg" -}}
-{{- $l := $hero.Resize "1600x webp q72" -}}{{- $s := $hero.Resize "800x webp q72" -}}
+{{- $l := $hero.Resize "1600x webp q72" -}}
+{{- $s := $hero.Resize "800x webp q72" -}}
+{{- $debut := site.GetPage "/etapes/01-le-projet" -}}
+{{- $bilan := site.GetPage "/etapes/11-bilan" -}}
 <article class="first-entry home-info hero">
-  <img class="hero-photo" src="{{ $l.RelPermalink }}" srcset="{{ $s.RelPermalink }} 800w, {{ $l.RelPermalink }} 1600w" sizes="(max-width: 860px) 100vw, 1100px" width="{{ $l.Width }}" height="{{ $l.Height }}" alt="Le hangar terminé : bardage bois horizontal, porte de service et porte sectionnelle noires" fetchpriority="high">
+  <img class="hero-photo" src="{{ $l.RelPermalink }}" srcset="{{ $s.RelPermalink }} 800w, {{ $l.RelPermalink }} 1600w" sizes="(max-width: 808px) 100vw, 760px" width="{{ $l.Width }}" height="{{ $l.Height }}" alt="Le hangar terminé : bardage bois horizontal, porte de service et porte sectionnelle noires" fetchpriority="high">
   <div class="hero-texte">
-    <p class="hero-surtitre">Autoconstruction · ossature bois · 2022 → 2024</p>
+    <p class="surtitre">Autoconstruction · ossature bois · 2022 → 2024</p>
     <h1>{{ .Title | markdownify }}</h1>
     <div class="entry-content">{{ .Content | $.Page.RenderString (dict "display" "block") }}</div>
     <p class="hero-actions">
-      <a class="bouton" href="{{ "etapes/01-le-projet/" | relURL }}">Lire le chantier depuis le début</a>
-      <a class="bouton bouton-clair" href="{{ "etapes/11-bilan/" | relURL }}">Voir le bilan</a>
+      <a class="bouton" href="{{ $debut.RelPermalink }}">Lire le chantier depuis le début</a>
+      <a class="bouton bouton-clair" href="{{ $bilan.RelPermalink }}">Voir le bilan</a>
     </p>
   </div>
-  <span class="hero-equipe" aria-hidden="true"><img src="{{ "img/fluent/ouvrier.svg" | relURL }}" alt="" width="64" height="64"><img src="{{ "img/phases/phase-11.svg" | relURL }}" alt="" width="40" height="40"><img src="{{ "img/fluent/ouvriere.svg" | relURL }}" alt="" width="64" height="64"></span>
+  <div class="hero-equipe" aria-hidden="true">
+    <img src="{{ "img/fluent/ouvrier.svg" | relURL }}" alt="" width="64" height="64">
+    <img class="hero-outil" src="{{ "img/phases/phase-11.svg" | relURL }}" alt="" width="40" height="40">
+    <img src="{{ "img/fluent/ouvriere.svg" | relURL }}" alt="" width="64" height="64">
+  </div>
 </article>
-<section class="chiffres" aria-label="Le chantier en chiffres">
-  <div><strong>49 m²</strong><span>d’ossature bois, conçus et montés à deux</span></div>
-  <div><strong>30 t</strong><span>de grave déplacées en plus de 300 brouettes</span></div>
-  <div><strong>12,5 m³</strong><span>de béton coulé, fondations et dallage</span></div>
-  <div><strong>65 m²</strong><span>de membrane EPDM collée à froid</span></div>
-  <div><strong>2 ans</strong><span>de week-ends, de la fouille à l’atelier</span></div>
-  <div><strong>510 €</strong><span>le m², tarif plein, hors main-d’œuvre</span></div>
-</section>
+<dl class="chiffres" aria-label="Le chantier en chiffres">
+  {{- range hugo.Data.chiffres }}
+  <div><dt>{{ .valeur }}</dt><dd>{{ .texte }}</dd></div>
+  {{- end }}
+</dl>
 {{- end -}}

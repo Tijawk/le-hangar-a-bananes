@@ -11,7 +11,7 @@ cover:
   relative: true
 ---
 
-{{< frise phase="7" titre="La toiture" >}}
+{{< frise titre="La toiture" >}}
 
 Juin 2024 : les murs sont debout et bardés, mais le garage n’a toujours pas de toit. Pendant ces semaines, seul le pare-pluie anti-UV protège l’ossature. Reste à poser les solives, le support et l’étanchéité d’un toit plat.
 

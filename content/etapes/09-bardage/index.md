@@ -11,7 +11,7 @@ cover:
   relative: true
 ---
 
-{{< frise phase="9" titre="Le bardage" >}}
+{{< frise titre="Le bardage" >}}
 
 Le bardage, nous l’avions commencé dès mai 2024, avant même la toiture, faute de place pour stocker à la fois les lames et les solives. Une fois les menuiseries posées, il restait à le terminer autour des ouvertures et des coffrets Enedis.
 

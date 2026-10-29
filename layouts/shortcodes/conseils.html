@@ -1,3 +1,6 @@
-<section class="conseils"><p class="conseils-titre">Ce qu’on retient pour votre projet</p>
-{{ .Inner | markdownify }}
+{{- /* Encadré de conseils en fin d'article. Usage : {{< conseils >}} - … {{< /conseils >}} */ -}}
+{{- $id := printf "conseils-%d" .Ordinal -}}
+<section class="conseils" aria-labelledby="{{ $id }}">
+  <h2 class="conseils-titre" id="{{ $id }}">Ce qu’on retient pour votre projet</h2>
+  {{ .Inner | .Page.RenderString (dict "display" "block") }}
 </section>
