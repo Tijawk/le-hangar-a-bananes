@@ -49,7 +49,7 @@ Dans les angles et autour des portes, des blocs à alvéole laissent un vide ver
 
 {{< duo theorie="schema-poteau.png" alt-theorie="Coupe de principe d’un poteau 4 HA10 ancré dans la semelle et dans le chaînage" vrai="blocs-alveole.jpg" alt-vrai="Blocs d’angle à alvéole posés sur la semelle" legende="Les blocs d’angle à alvéole, prêts à recevoir le poteau 4 HA10." >}}
 
-Le dernier rang est en **blocs en U**. On y pose un chaînage préfabriqué 2 HA10, lié aux attentes des fondations, puis on le remplit de béton. Semelles, poteaux et chaînage forment ainsi un ensemble continu. Le chaînage répartit les charges de l’ossature et rigidifie la tête du muret, dans la même logique que le ferraillage renforcé des fondations.
+Le dernier rang est en **blocs en U**. On y pose un chaînage préfabriqué 2 HA10, ligaturé aux attentes des fondations, puis on le remplit de béton. Semelles, poteaux et chaînage forment ainsi un ensemble continu. Le chaînage répartit les charges de l’ossature et rigidifie la tête du muret, dans la même logique que le ferraillage renforcé des fondations.
 
 ## Comment protéger le muret de l’humidité ?
 
@@ -83,7 +83,7 @@ Sur le sol, un **géotextile** de 90 g/m² empêche le remblai de se mélanger a
 
 Notre dallage n’est pas porté par le soubassement : il repose sur le terre-plein, séparé des murs par un **joint périphérique**. Murs et dalle ne tassent pas de la même façon. Désolidarisés, l’un ne fissure pas l’autre. Pour une annexe sans étage, c’est plus simple qu’un plancher porté. La norme de référence est le NF DTU 13.3.
 
-Sur le sable : un film polyane contre l’humidité, le joint périphérique, puis quatre panneaux de treillis soudé ST25C de 6,00 × 2,40 m (fils de 7 mm, maille de 15 cm), posés sur des cales de 5 cm pour que l’acier soit bien pris dans le béton. Pas d’isolant sous la dalle : le bâtiment n’est pas chauffé.
+Sur le sable : un film polyane contre l’humidité, le joint périphérique, puis quatre panneaux de treillis soudé ST25C de 6,00 × 2,40 m (fils de 7 mm, maille de 15 cm), posés sur des cales de 5 cm pour que l’acier soit bien pris dans le béton, et ligaturés entre eux pour que rien ne bouge au coulage. Pas d’isolant sous la dalle : le bâtiment n’est pas chauffé.
 
 {{< figure src="treillis-cales.jpg" alt="Treillis soudé sur cales dans le garage, joint périphérique le long du muret" caption="Le treillis ST25C sur ses cales, et le joint périphérique le long du muret." >}}
 

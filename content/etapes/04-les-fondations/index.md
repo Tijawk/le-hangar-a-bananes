@@ -57,6 +57,8 @@ Dans nos angles, les cages se croisent et sont liées par des équerres HA10. No
 
 {{< duo theorie="schema-raboutage.png" alt-theorie="Schéma des deux façons d’abouter deux cages de semelle" vrai="cage-sur-cales.jpg" alt-vrai="Cage d’armatures sur cales en béton, avec des barres droites le long du joint" legende="Deux cages aboutées par des barres droites, le tout posé sur les cales en béton : la cage ne touche pas le fond." >}}
 
+**Les ligatures.** C’est super important : tout doit être ligaturé, au fil à ligaturer recuit. Chaque croisement de barres, chaque équerre, chaque recouvrement, chaque attente. Une armature simplement posée bouge au moment du coulage : un recouvrement s’ouvre, une cage glisse de ses cales, une attente se couche, et l’enrobage n’est plus garanti. Une fois le béton pris, c’est trop tard.
+
 **Les attentes.** Des aciers verticaux dépassent des semelles : ils accrocheront plus tard les poteaux d’angle et le chaînage du soubassement.
 
 {{< figure src="attentes-poteaux.jpg" alt="Aciers verticaux en attente dans un angle de fouille" caption="Les attentes verticales des poteaux d’angle." >}}
@@ -88,6 +90,7 @@ Nous avons coulé les 5 m³. Toupie vide, pas une brouette de trop.
 {{< conseils >}}
 - **L’étude de sol de la maison ne vaut pas forcément pour toute la parcelle**, surtout près des tranchées de réseaux. En cas de doute, une étude G2 ciblée sur l’emprise de l’annexe est l’option la plus sûre.
 - **Dans les angles, croisez les cages et liez-les par des équerres** : une barre simplement pliée finit par faire éclater le béton.
+- **Ligaturez tout** : croisements, équerres, recouvrements, attentes. Rien ne doit bouger quand le béton arrive.
 - **L’acier ne doit jamais toucher la terre** : béton de propreté au fond, cales sous les cages, et pensez aux fourreaux et aux attentes avant de couler.
 - **Calculez le volume au plus juste** sur vos plans : une plus-value pour camion incomplet coûte moins cher que du béton jeté.
 {{< /conseils >}}
