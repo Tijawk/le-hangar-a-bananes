@@ -1,0 +1,7 @@
+<figure class="duo">
+  <div class="duo-grille">
+    <div><p class="duo-etiquette">La théorie</p><img src="{{ .Get "theorie" }}" alt="{{ .Get "alt-theorie" }}" loading="lazy"></div>
+    <div><p class="duo-etiquette">En vrai</p><img src="{{ .Get "vrai" }}" alt="{{ .Get "alt-vrai" }}" loading="lazy"></div>
+  </div>
+  {{- with .Get "legende" }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
+</figure>

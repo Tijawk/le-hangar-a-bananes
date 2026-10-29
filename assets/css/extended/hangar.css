@@ -24,3 +24,11 @@ body{font-family:"Source Sans 3",system-ui,sans-serif;font-size:19px}
 .conseils{background:var(--vert-clair);border-radius:12px;padding:20px 26px;margin:2.5em 0}
 .conseils-titre{color:var(--vert);font-size:1.1rem;letter-spacing:0;text-transform:none;font-family:"Fraunces",Georgia,serif}
 @media (max-width:720px){ body{font-size:17.5px} }
+
+/* Théorie / en vrai : schéma et photo côte à côte */
+.post-content .duo{width:min(1080px,calc(100vw - 32px));margin:2.2em 0 2.2em 50%;transform:translateX(-50%)}
+.post-content .duo-grille{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.post-content .duo-grille>div{background:#fff;border:1px solid var(--border);border-radius:10px;padding:10px;display:flex;flex-direction:column;justify-content:center}
+.post-content .duo-etiquette{margin:0 0 8px;font-size:.75rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--bois)}
+.post-content .duo img{width:100%;height:auto;margin:0;border-radius:6px}
+@media (max-width:900px){.post-content .duo{width:auto;margin:2em 0;transform:none}.post-content .duo-grille{grid-template-columns:1fr}}

@@ -43,7 +43,7 @@ C’est là que se joue la solidité de l’ensemble. Une barre simplement plié
 
 Dans nos angles, les cages se croisent et sont liées par des équerres HA10 de 60 × 60 cm, selon les règles de l’art du béton armé. Les armatures restent continues d’un mur à l’autre. Nous avons utilisé 24 équerres pour les angles et les jonctions entre cages.
 
-{{< figure src="angle-equerres.jpg" alt="Deux cages d’armatures qui se croisent dans un angle" caption="Un angle : les cages se croisent et sont liées par des équerres." >}}
+{{< duo theorie="schema-equerres-angle.png" alt-theorie="Schéma en plan d’un angle : les barres des deux cages se croisent et sont reliées par des équerres" vrai="angle-equerres.jpg" alt-vrai="Deux cages d’armatures qui se croisent dans un angle" legende="Un angle de fondation : les cages se croisent et des équerres HA10 relient leurs barres dans les deux directions." >}}
 
 ## Que faut-il préparer avant le béton ?
 
@@ -53,7 +53,9 @@ Dans nos angles, les cages se croisent et sont liées par des équerres HA10 de 
 
 **Les cales.** Pour que le béton enrobe l’acier sur toutes les faces, la cage doit être surélevée. Nous avons fabriqué nos cales en béton dans un moule artisanal, avec un fil à ligaturer noyé dedans pour les attacher à la cage. Résultat : environ 5 cm de béton sous l’acier et 7,5 cm sur les côtés. C’est cet enrobage qui protège l’acier de l’humidité et de la rouille.
 
-{{< figure src="cage-sur-cales.jpg" alt="Cage d’armatures surélevée par des cales en béton" caption="La cage posée sur ses cales en béton : elle ne touche pas le fond." >}}
+**Les jonctions.** Les cages arrivent en longueurs de 6 m. Pour les relier, les barres doivent se recouvrir d’au moins 50 cm : soit en faisant chevaucher les deux cages, soit en les mettant bout à bout et en ajoutant des barres droites HA10 qui dépassent d’au moins 50 cm de chaque côté du joint.
+
+{{< duo theorie="schema-raboutage.png" alt-theorie="Schéma des deux façons d’abouter deux cages de semelle" vrai="cage-sur-cales.jpg" alt-vrai="Cage d’armatures sur cales en béton, avec des barres droites le long du joint" legende="Deux cages aboutées par des barres droites, le tout posé sur les cales en béton : la cage ne touche pas le fond." >}}
 
 **Les attentes.** Des aciers verticaux dépassent des semelles : ils accrocheront plus tard les poteaux d’angle et le chaînage du soubassement.
 
