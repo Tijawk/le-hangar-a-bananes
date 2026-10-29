@@ -45,7 +45,7 @@ Les modules sont levés **nus**, sans panneau : ils sont plus légers. À trois,
 
 {{< figure src="premiers-modules.jpg" alt="Modules de murs levés sur le dallage" caption="Le levage des modules sur le dallage." >}}
 
-Les modules voisins sont liés entre eux : leurs montants d’about, jointifs, sont boulonnés par des **tiges filetées**, avec écrous et rondelles. Le serrage progressif permet d’aligner les modules, et le tout forme un mur continu.
+Les modules voisins sont liés entre eux : leurs montants d’about, jointifs, sont boulonnés par des **tiges filetées**, avec écrous et rondelles. Le serrage progressif permet d’aligner les modules. La continuité du mur, elle, vient des lisses : la lisse basse et la lisse haute courent d’un module à l’autre, avec leurs joints placés en plein milieu des modules, jamais au droit d’une jonction. C’est ce chaînage que demande la norme de l’ossature bois, le NF DTU 31.2.
 
 {{< figure src="modules-nus.jpg" alt="Ossature levée, presque sans panneaux" caption="Les modules levés nus, avant la pose de l’OSB, fin avril 2024." >}}
 

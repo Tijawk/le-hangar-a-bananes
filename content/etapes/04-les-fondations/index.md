@@ -85,12 +85,14 @@ Le 19 juin 2023, le camion à tapis commandé était en panne. La centrale a env
 
 Nous avons coulé les 5 m³. Toupie vide, pas une brouette de trop.
 
+Pendant le coulage, une **aiguille vibrante** est vraiment conseillée : plongée dans le béton frais, elle le fait pénétrer dans tous les interstices, autour des aciers, et chasse les bulles d’air.
+
 {{< figure src="semelle-coulee.jpg" alt="Semelle coulée le long du mur voisin, attentes en place" caption="Le soir même : la semelle coulée, les attentes en place." >}}
 
 {{< conseils >}}
 - **L’étude de sol de la maison ne vaut pas forcément pour toute la parcelle**, surtout près des tranchées de réseaux. En cas de doute, une étude G2 ciblée sur l’emprise de l’annexe est l’option la plus sûre.
 - **Dans un angle rentrant, ne pliez pas les barres tendues** : croisez les cages et liez-les par des équerres, sinon la barre finit par faire éclater le béton.
-- **Ligaturez tout** : croisements, équerres, recouvrements, attentes. Rien ne doit bouger quand le béton arrive.
+- **Ligaturez tout** : croisements, équerres, recouvrements, attentes. Rien ne doit bouger quand le béton arrive. Puis vibrez le béton à l’aiguille, pour qu’il remplisse tous les vides.
 - **L’acier ne doit jamais toucher la terre** : béton de propreté au fond, cales sous les cages, et pensez aux fourreaux et aux attentes avant de couler.
 - **Calculez le volume au plus juste** sur vos plans : une plus-value pour camion incomplet coûte moins cher que du béton jeté.
 {{< /conseils >}}

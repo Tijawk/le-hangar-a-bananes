@@ -53,7 +53,7 @@ Le dernier rang est en **blocs en U**. On y pose un chaînage préfabriqué 2 HA
 
 ## Comment protéger le muret de l’humidité ?
 
-Côté terre, une **nappe à excroissances** protège la maçonnerie, avec un profilé de finition en tête. Sur l’arase, une **bande d’arase** bitumineuse coupera les remontées d’humidité sous la lisse basse. Et la partie visible du muret, au-dessus du sol, est enduite en noir.
+Côté terre, une **nappe à excroissances** protège la maçonnerie, avec un profilé de finition en tête. Ce n’est pas une étanchéité, et nous n’avons pas mis d’enduit d’imperméabilisation dessous. Nous l’avons posée surtout à cause des arbres tout proches : leurs racines ne viendront pas toucher le soubassement avec le temps. Et ses alvéoles laissent une lame d’air contre le mur, qui peut ainsi respirer. Sur l’arase, une **bande d’arase** bitumineuse coupera les remontées d’humidité sous la lisse basse. Et la partie visible du muret, au-dessus du sol, est enduite en noir.
 
 {{< figure src="nappe-excroissances.jpg" alt="Nappe à excroissances posée contre le soubassement" caption="La nappe à excroissances côté terre, septembre 2023." >}}
 
@@ -97,13 +97,15 @@ Avec le recul, nous aurions dû contrôler le niveau à la pige et au laser pend
 
 Une fois le béton tiré, nous avons appliqué un **produit de cure** au pulvérisateur. Il forme un film qui empêche le béton de sécher trop vite en surface, et limite ainsi les fissures de retrait.
 
+Enfin, un **joint de retrait** a été scié au milieu de la dalle, avec une machine dédiée équipée d’une lame à béton. En séchant, le béton se rétracte et finit par fissurer : le joint crée un point faible volontaire, qui canalise la fissure là où on l’a choisie. Attention à la profondeur : environ un tiers de l’épaisseur, sans jamais atteindre le treillis.
+
 {{< duo theorie="schema-pied-de-mur.png" alt-theorie="Coupe de principe du pied de mur : semelle, soubassement, dallage et ossature" vrai="dallage-coule.jpg" alt-vrai="Dallage coulé dont le dessus arrive au niveau de l’arase du soubassement" legende="Le pied de mur prévu, et le dallage coulé : son dessus arrive au niveau de l’arase du soubassement." >}}
 
 La dalle était coulée avant l’hiver. Pour la première fois, le garage avait un sol.
 
 {{< conseils >}}
 - **Soignez l’arase** : montez les angles d’abord, tendez un cordeau entre eux, et contrôlez au fil à plomb à la fin. Toute l’ossature reposera dessus.
-- **Désolidarisez la dalle des murs** par un joint périphérique : ils ne tasseront pas de la même façon.
+- **Désolidarisez la dalle des murs** par un joint périphérique : ils ne tasseront pas de la même façon. Et sciez un joint de retrait, sans toucher le treillis, pour canaliser les fissures.
 - **Posez tous les réseaux avant de remblayer** : fourreaux, arrivée d’eau, évacuations, regard.
 - **Compactez la grave par fines couches**, à la plaque vibrante, plutôt que de faire benner le tout d’un coup.
 - **Le jour du coulage, gardez la pige et le laser à portée de main** pour contrôler le niveau pendant le tirage. Puis pulvérisez un produit de cure, pour que la dalle ne sèche pas trop vite. Avec un béton autoplaçant, vérifiez aussi l’étanchéité des coffrages, et prévoyez une rallonge si la toupie ne peut pas approcher.
