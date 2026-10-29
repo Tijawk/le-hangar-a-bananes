@@ -45,14 +45,16 @@ Pour donner un ordre d’idée, voici ce que coûte un garage selon la façon de
 
 | Solution | Prix au m² | Base de comparaison |
 |---|---|---|
-| **Traditionnel**, parpaings, par des artisans | 750 à 1 100 € | garage de 30 m² ([La Maison Saint-Gobain](https://www.lamaisonsaintgobain.fr/extensions-maison/agrandissement-maison/prix-garage-parpaing-30-m2), [Habitatpresto](https://www.habitatpresto.com/mag/agrandissement/garage/prix-construction-garage)) |
-| **Ossature bois**, par des artisans | 450 à 900 € | garage de 20 à 30 m² ([Construires](https://www.construires.fr/prix-construction-garage/), [Habitatpresto](https://www.habitatpresto.com/mag/agrandissement/garage/prix-construction-garage)) |
-| **Préfabriqué béton** | 500 à 1 000 € | garage de 20 à 40 m², grue en plus si besoin ([Habitatpresto](https://www.habitatpresto.com/mag/agrandissement/garage/garage-prefabrique-beton-prix)) |
-| **Kit bois** monté soi-même, dalle par un pro | 250 à 600 € | garage de 20 m² ([Construires](https://www.construires.fr/construire-garage-prix-2026/), [Direct-Abris](https://www.direct-abris.com/1132-792-garage-bois-toronto-porte-sectionnelle-44mm.html)) |
-| **Container maritime** 20 pieds, sur plots | 330 à 720 €, estimation | 14 m² utiles, 2,35 m de large : conteneur, transport, plots, ouvertures ([Hellopro](https://conseils.hellopro.fr/tous-nos-guides-container-maritime-2009453-intercalaire.html), [Habitatpresto](https://www.habitatpresto.com/mag/agrandissement/extension-container)) |
-| **Le hangar à bananes** | environ 510 € | 49 m² sur mesure : tous les matériaux et l’outillage, sans notre main-d’œuvre |
+| **Traditionnel**, parpaings, par des artisans | 750 à 1 100 € \* | garage de 30 m² ([La Maison Saint-Gobain](https://www.lamaisonsaintgobain.fr/extensions-maison/agrandissement-maison/prix-garage-parpaing-30-m2), [Habitatpresto](https://www.habitatpresto.com/mag/agrandissement/garage/prix-construction-garage)) |
+| **Ossature bois**, par des artisans | 450 à 900 € \* | garage de 20 à 30 m² ([Construires](https://www.construires.fr/prix-construction-garage/), [Habitatpresto](https://www.habitatpresto.com/mag/agrandissement/garage/prix-construction-garage)) |
+| **Préfabriqué béton** | 500 à 1 000 € \* | garage de 20 à 40 m², grue en plus si besoin ([Habitatpresto](https://www.habitatpresto.com/mag/agrandissement/garage/garage-prefabrique-beton-prix)) |
+| **Kit bois** monté soi-même, dalle par un pro | 250 à 600 € \* | garage de 20 m² ([Construires](https://www.construires.fr/construire-garage-prix-2026/), [Direct-Abris](https://www.direct-abris.com/1132-792-garage-bois-toronto-porte-sectionnelle-44mm.html)) |
+| **Container maritime** 20 pieds, sur plots | 330 à 720 € \*, estimation | 14 m² utiles, 2,35 m de large : conteneur, transport, plots, ouvertures ([Hellopro](https://conseils.hellopro.fr/tous-nos-guides-container-maritime-2009453-intercalaire.html), [Habitatpresto](https://www.habitatpresto.com/mag/agrandissement/extension-container)) |
+| **Le hangar à bananes** | **environ 510 € \*\*** | 49 m² sur mesure : tous les matériaux et l’outillage, sans notre main-d’œuvre |
 
-Attention aussi à ce que ces prix comprennent : l’habillage ou l’enduit extérieur, l’habillage intérieur, les gouttières et les caniveaux sont souvent en option, en particulier sur les garages préfabriqués. Chez nous, le bardage, l’habillage intérieur en OSB, les couvertines, la descente et les caniveaux sont dans les 510 €.
+\* Prix de base. L’habillage ou l’enduit extérieur, l’habillage intérieur, les gouttières, les caniveaux et l’électricité sont souvent en option, en particulier sur les garages préfabriqués.
+
+\*\* Tarif plein : tout ce qui précède est compris, du bardage à l’habillage intérieur en OSB, des couvertines à la descente et aux caniveaux, électricité comprise. Lot pour lot, nous ne sommes pas si mal placés.
 
 Et ces prix sont ceux de garages standard. Le nôtre est sur mesure de bout en bout : un polygone qui épouse les limites du terrain, des menuiseries fabriquées aux cotes de l’ossature, une toiture-terrasse EPDM avec acrotère et couvertines. Un constructeur ou un kit part de dimensions et d’ouvertures standard : pour obtenir la même chose, la facture grimperait vite. Et la qualité ne se lit pas sur un devis : combien de maçons font encore un vrai béton de propreté, ou des liaisons d’angle correctes ? Sans parler des aciers piqués directement en terre au moment du coulage.
 
