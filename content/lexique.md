@@ -22,6 +22,8 @@ Les mots du chantier, expliqués simplement, dans l’ordre alphabétique.
 
 **Chaises d’implantation** : planches fixées sur des piquets autour du futur bâtiment, qui portent les cordeaux.
 
+**Cure** : la protection d’un béton frais contre un séchage trop rapide, par exemple avec un produit pulvérisé en surface.
+
 **Compribande** : mousse imprégnée livrée comprimée, qui gonfle pour remplir le joint entre une menuiserie et le mur.
 
 **Contreventement** : ce qui empêche une ossature de se déformer en parallélogramme. Ici, des panneaux d’OSB cloués sur les montants.
@@ -31,6 +33,8 @@ Les mots du chantier, expliqués simplement, dans l’ordre alphabétique.
 **DAACT** : déclaration attestant l’achèvement et la conformité des travaux, déposée en mairie à la fin du chantier.
 
 **Déversement** : le risque qu’une poutre haute et fine se couche sur le côté sous la charge. Une entretoise l’en empêche.
+
+**DT-DICT** : déclarations obligatoires avant des travaux près de réseaux enterrés (gaz, électricité, eau…), à faire sur le guichet unique en ligne.
 
 **DTU** : document technique unifié. Les règles de l’art d’un type d’ouvrage, publiées sous forme de normes.
 
@@ -46,6 +50,8 @@ Les mots du chantier, expliqués simplement, dans l’ordre alphabétique.
 
 **Fond de forme** : la surface préparée et compactée sur laquelle on coule une dalle.
 
+**G2** : étude géotechnique de conception, qui caractérise le sol sous un projet précis pour dimensionner ses fondations.
+
 **GNT** : grave non traitée, des cailloux concassés de différentes tailles, compactés en couches sous une dalle.
 
 **HA10** : barre d’acier à haute adhérence, de 10 mm de diamètre.
@@ -56,19 +62,25 @@ Les mots du chantier, expliqués simplement, dans l’ordre alphabétique.
 
 **Lé** : une bande de membrane, telle qu’elle est livrée ou coupée.
 
+**Ligature** : fil d’acier recuit, torsadé autour des croisements de barres pour que les armatures ne bougent pas au coulage.
+
 **Lisse** : pièce de bois horizontale en bas (lisse basse) ou en haut (lisse haute) d’un mur à ossature.
 
 **Muralière** : poutre fixée contre un mur, qui porte les solives.
 
 **Naissance** : la pièce par laquelle l’eau quitte la toiture pour rejoindre la descente.
 
-**OSB** : panneau de grandes lamelles de bois collées et pressées. L’OSB 3 est prévu pour une ambiance humide.
+**OSB** : panneau de grandes lamelles de bois orientées, collées et pressées. L’OSB 3 est prévu pour une ambiance humide.
 
 **Pare-pluie** : membrane posée sur l’ossature, qui arrête l’eau tout en laissant sortir la vapeur.
 
 **Pige** : règle graduée sur laquelle se fixe la cellule du laser, pour mesurer les niveaux.
 
+**PLU** : plan local d’urbanisme, les règles de construction propres à chaque commune (distances, hauteurs, aspect).
+
 **Poussée au vide** : l’effort d’une barre d’acier tendue qui, dans un angle rentrant, cherche à se redresser et fait éclater le béton.
+
+**RE2020** : la réglementation environnementale des bâtiments neufs chauffés. Elle ne s’applique pas à un garage non chauffé.
 
 **Relevé** : la partie de la membrane d’étanchéité qui remonte sur l’acrotère.
 

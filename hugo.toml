@@ -21,6 +21,8 @@ enableRobotsTXT = true
   ShowWordCount = false
   hideFooter = false
   dateFormat = "January 2006"
+  [params.footer]
+    text = "[Mentions légales](/mentions-legales/)"
   [params.assets]
     favicon = "logo.png"
     apple_touch_icon = "logo.png"

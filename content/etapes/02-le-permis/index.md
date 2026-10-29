@@ -1,6 +1,6 @@
 ---
 title: "Le permis de construire, monté sans architecte"
-date: 2026-10-28T12:00:00+01:00
+date: 2022-10-15
 weight: 2
 summary: "Huit pièces à préparer soi-même, un pari sur 30 cm, un refus, et un second dossier accordé en octobre 2022."
 cover:
@@ -51,10 +51,10 @@ Permis accordé en octobre 2022. Et au final, c’était aussi bien : nous y avo
 
 {{< conseils >}}
 - **Au-delà de 20 m²**, une construction indépendante demande un permis de construire. L’architecte n’est obligatoire qu’au-delà de 150 m² de surface de plancher.
-- **Prévoyez la taxe d’aménagement** : un garage clos et couvert de cette taille y est soumis. Elle se déclare sur impots.gouv.fr dans les 90 jours qui suivent l’achèvement des travaux.
+- **Prévoyez la taxe d’aménagement** : un garage clos et couvert de cette taille y est soumis. Pour un permis déposé depuis le 1er septembre 2022, elle se déclare sur impots.gouv.fr dans les 90 jours qui suivent l’achèvement des travaux.
 - **Commencez par le plan de masse**, en vérifiant le PLU avant de dessiner : c’est la pièce qui conditionne toutes les autres.
 - **Appliquez la règle d’implantation au centimètre.** Une petite entorse peut suffire à faire refuser le dossier.
 - **En cas de doute, prenez rendez-vous avec le service urbanisme** de votre mairie avant de déposer. C’est ce que nous ferions aujourd’hui.
 {{< /conseils >}}
 
-*Prochaine étape : phase 3, l’implantation sur le terrain.*
+*Prochaine étape : [phase 3, l’implantation sur le terrain](/etapes/03-implantation-terrassement/).*

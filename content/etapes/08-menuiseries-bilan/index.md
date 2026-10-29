@@ -1,6 +1,6 @@
 ---
 title: "Menuiseries, finitions et bilan : deux ans de week-ends"
-date: 2026-10-28T18:00:00+01:00
+date: 2024-12-15
 weight: 8
 summary: "Des menuiseries noires sur mesure, un bardage posé à l’horizontale, un intérieur tout en OSB, puis les comptes : environ 25 000 € et près de deux ans de week-ends."
 cover:
@@ -83,7 +83,15 @@ Depuis, l’atelier a déjà servi à fabriquer une pergola et une terrasse sur 
 
 Un chantier sous permis ne s’arrête pas à la dernière vis. Nous avons déposé la **DAACT** en mairie en décembre 2024 : c’est la déclaration attestant l’achèvement et la conformité des travaux. La mairie n’a pas contesté la conformité dans le délai légal de trois mois. Passé ce délai, elle ne peut plus la remettre en cause, et l’on peut lui demander une attestation de non-contestation.
 
-Reste la **taxe d’aménagement**, à déclarer en ligne sur impots.gouv.fr, dans l’espace « Gérer mes biens immobiliers ». Le délai est de 90 jours après l’achèvement au sens fiscal, c’est-à-dire dès que le garage est utilisable, parfois avant la DAACT.
+Reste la **taxe d’aménagement**. Pour un permis déposé depuis le 1er septembre 2022, elle se déclare en ligne sur impots.gouv.fr, dans l’espace « Gérer mes biens immobiliers ». Le délai est de 90 jours après l’achèvement au sens fiscal, c’est-à-dire dès que le garage est utilisable, parfois avant la DAACT.
+
+{{< conseils >}}
+- **Commandez les menuiseries sur mesure aux cotes réelles de l’ossature**, et soignez l’étanchéité autour : pare-pluie rabattu dans les tableaux, compribande entre le dormant et l’ossature.
+- **Posez le bardage à l’horizontale si vous le pouvez** : un seul réseau de tasseaux suffit pour ventiler la lame d’air. Si vos plans de permis montrent un autre sens de pose, renseignez-vous en mairie avant de changer.
+- **Mettez le budget là où l’usage est quotidien**, comme la motorisation de la porte, et cherchez le réemploi pour le reste.
+- **N’oubliez pas les démarches de fin** : la DAACT en mairie, et la taxe d’aménagement dans les 90 jours qui suivent l’achèvement.
+- **Prévoyez une marge sur le budget** : nous avons dépassé le nôtre de 25 %. Et notez toutes vos dépenses, même les petits achats au comptoir.
+{{< /conseils >}}
 
 ## Le bilan
 
@@ -99,7 +107,7 @@ Ce prix comprend un gros œuvre complet : des fondations armées dimensionnées 
 
 {{< figure src="schema-planning.png" alt="Planning du chantier de fin 2022 à fin 2024, par phase" caption="Le planning du chantier, d’après les dates des photos et des factures." >}}
 
-**Si c’était à refaire.** Nous referions la conception complète en 3D, le béton autoplaçant pour la dalle, et l’étude de structure. En revanche, nous sécuriserions le terrassement par un contrat, et nous prévoirions au budget la gestion des déchets enfouis.
+**Si c’était à refaire.** Nous referions la conception complète en 3D, le béton autoplaçant pour la dalle, et l’étude de structure, mais confiée à un professionnel. En revanche, nous sécuriserions le terrassement par un contrat, et nous prévoirions au budget la gestion des déchets enfouis.
 
 ## Quelle banane
 
@@ -108,11 +116,3 @@ Chaque étape nous a rendus fiers. Nous avons presque tout fait à deux, et à d
 Des bourdes, il y en a eu : le pari des 30 cm sur le permis, la dalle tirée sans la pige, les caniveaux à renvoyer. À chaque fois, l’un de nous finit par le dire : « quelle banane ».
 
 Merci de nous avoir suivis.
-
-{{< conseils >}}
-- **Commandez les menuiseries sur mesure aux cotes réelles de l’ossature**, et soignez l’étanchéité autour : pare-pluie rabattu dans les tableaux, compribande entre le dormant et l’ossature.
-- **Posez le bardage à l’horizontale si vous le pouvez** : un seul réseau de tasseaux suffit pour ventiler la lame d’air. Si vos plans de permis montrent un autre sens de pose, renseignez-vous en mairie avant de changer.
-- **Mettez le budget là où l’usage est quotidien**, comme la motorisation de la porte, et cherchez le réemploi pour le reste.
-- **N’oubliez pas les démarches de fin** : la DAACT en mairie, et la taxe d’aménagement dans les 90 jours qui suivent l’achèvement.
-- **Prévoyez une marge sur le budget** : nous avons dépassé le nôtre de 25 %. Et notez toutes vos dépenses, même les petits achats au comptoir.
-{{< /conseils >}}

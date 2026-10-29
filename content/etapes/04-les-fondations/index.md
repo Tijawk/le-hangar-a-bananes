@@ -1,6 +1,6 @@
 ---
 title: "Les fondations : un sol qui change d’un angle à l’autre"
-date: 2026-10-28T14:00:00+01:00
+date: 2023-06-19
 weight: 4
 summary: "Un angle argileux, un angle sableux, un ferraillage renforcé, des cales faites maison, et 5 m³ de béton coulés sans une brouette de trop."
 cover:
@@ -33,9 +33,9 @@ La vraie parade aurait été une étude de sol ciblée sur l’emprise du garage
 
 ## Pourquoi renforcer le ferraillage ?
 
-Nous nous sommes inspirés des dispositions appliquées en zone sismique : des cages plus robustes, des chaînages continus, des angles soigneusement liés. Notre commune est en zone de sismicité 2, dite faible : pour un garage, aucune disposition parasismique n’y est exigée. C’est un choix de sécurité, pas une obligation, et il a alourdi la facture d’acier, déjà l’un des postes les plus coûteux du gros œuvre avec la flambée des prix après le Covid. Qui peut le plus peut le moins.
+Nous nous sommes inspirés des dispositions appliquées en zone sismique : des cages plus robustes, des chaînages continus, des angles soigneusement liés. Notre terrain est en zone de sismicité faible : pour un garage, aucune disposition parasismique n’y est exigée. Rien ne nous y obligeait donc, et ce choix de sécurité a alourdi la facture d’acier, déjà l’un des postes les plus coûteux du gros œuvre avec la flambée des prix après le Covid. Qui peut le plus peut le moins.
 
-Nos semelles sont armées de **cages 6 HA10** : six barres d’acier « haute adhérence » (HA) de 10 mm de diamètre, trois en bas, trois en haut, tenues par des cadres. Chaque cage forme ainsi une vraie poutre à deux lits, plus robuste qu’une simple ligne de barres. Elles mesurent 15 × 35 cm et arrivent en longueurs de 6 m.
+Nos semelles sont armées de **cages 6 HA10** : six barres d’acier « haute adhérence » (HA) de 10 mm de diamètre, trois en bas, trois en haut, tenues par des cadres. Chaque cage forme ainsi une vraie poutre à deux lits, plus robuste qu’une simple ligne de barres. Elles font 35 cm de large sur 15 cm de haut, et arrivent en longueurs de 6 m.
 
 ## Comment traiter les angles ?
 
@@ -63,7 +63,7 @@ Dans nos angles, les cages se croisent et sont liées par des équerres HA10. No
 
 {{< figure src="attentes-poteaux.jpg" alt="Aciers verticaux en attente dans un angle de fouille" caption="Les attentes verticales des poteaux d’angle." >}}
 
-**Les réservations.** Les fourreaux rouges de l’électricité et les passages des évacuations sont posés avant le coulage. Une fois le béton pris, il est trop tard.
+**Les réservations.** Les fourreaux rouges de l’électricité et les passages des évacuations sont posés avant le coulage.
 
 {{< figure src="fouille-fourreaux.jpg" alt="Fouille armée le long d’un mur, fourreaux rouges à côté" caption="Une fouille prête, avec les fourreaux électriques en attente." >}}
 
@@ -75,7 +75,7 @@ Nous avons calculé le volume sur la maquette : environ 32,8 m de semelles, sur 
 
 30 cm, c’est largement assez. Pour qu’une semelle soit rigide, sa hauteur utile doit dépasser le quart de la différence entre sa largeur et celle du mur : (50 − 20) ÷ 4, soit 7,5 cm. La hauteur utile se mesure du dessus de la semelle jusqu’aux aciers du bas : environ 24 cm chez nous, plus de trois fois le minimum.
 
-Le béton commandé : un C25/30, c’est-à-dire dont la résistance caractéristique en compression à 28 jours est de 25 MPa, mesurée sur cylindre, de consistance S4, assez fluide pour être pompé. Environ 1 100 € TTC livré, soit environ 220 € le m³ tout compris : le béton lui-même coûte environ 140 € HT le m³, le reste part dans le forfait de mise en œuvre, les frais et le petit volume.
+Le béton commandé : un C25/30, c’est-à-dire dont la résistance caractéristique en compression à 28 jours est de 25 MPa, mesurée sur cylindre, de consistance S4, assez fluide pour être pompé. Environ 1 100 € TTC livré, soit 215 à 220 € le m³ tout compris : le béton lui-même coûte environ 140 € HT le m³, le reste part dans le forfait de mise en œuvre, les frais et le petit volume.
 
 ## Le jour du coulage
 
@@ -97,4 +97,4 @@ Pendant le coulage, une **aiguille vibrante** est vraiment conseillée : plongé
 - **Calculez le volume au plus juste** sur vos plans : une plus-value pour camion incomplet coûte moins cher que du béton jeté.
 {{< /conseils >}}
 
-*Prochaine étape : phase 5, le soubassement et le dallage.*
+*Prochaine étape : [phase 5, le soubassement et le dallage](/etapes/05-soubassement-dallage/).*

@@ -1,6 +1,6 @@
 ---
 title: "Le projet : pourquoi, en quoi, et où construire"
-date: 2026-10-28
+date: 2022-03-01
 weight: 1
 summary: "Avant le premier coup de pelle, plus d’un an de préparation : le besoin, le choix du bois, et un terrain qui impose sa forme."
 cover:
@@ -69,4 +69,4 @@ Reculer de 3 m réduisait trop la surface. Le garage collera donc aux limites, e
 - **En cas de doute**, interrogez le service urbanisme de votre mairie avant de déposer votre dossier.
 {{< /conseils >}}
 
-*Prochaine étape : phase 2, le permis de construire.*
+*Prochaine étape : [phase 2, le permis de construire](/etapes/02-le-permis/).*

@@ -1,6 +1,6 @@
 ---
 title: "Les murs : une ossature bois montée en modules"
-date: 2026-10-28T16:00:00+01:00
+date: 2024-05-31
 weight: 6
 summary: "Six mois d’attente, puis des murs préfabriqués à plat et levés à la main. Sauf un : fini au sol, bardage compris, car personne ne pourrait plus passer derrière."
 cover:
@@ -91,4 +91,4 @@ Les murs sont debout, bardés. Mais le garage n’a toujours pas de toit.
 - **Tout ce qui sera inaccessible après levage se termine au sol**, et se contrôle avant de lever.
 {{< /conseils >}}
 
-*Prochaine étape : phase 7, la toiture.*
+*Prochaine étape : [phase 7, la toiture](/etapes/07-la-toiture/).*

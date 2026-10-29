@@ -1,6 +1,6 @@
 ---
 title: "Soubassement et dallage : la base du garage, rang par rang"
-date: 2026-10-28T15:00:00+01:00
+date: 2023-10-13
 weight: 5
 summary: "Un muret de blocs pleins réglé au millimètre, 30 tonnes de grave déplacées en plus de 300 voyages de brouette, et une dalle de 15 cm coulée avant l’hiver."
 cover:
@@ -31,7 +31,9 @@ Le bois ne doit pas toucher le sol, ni recevoir les éclaboussures de pluie. Le 
 
 Nous avons pris des **blocs béton pleins perforés**, dits « semi-pleins », de classe B80, au format 50 × 20 × 20 cm. À classe égale, ils offrent plus de matière qu’un parpaing creux, et conviennent mieux à un muret en partie enterré, qui reprend des charges ponctuelles et la poussée des terres.
 
-Le mortier, hydrofugé, a été gâché sur place dans une bétonnière de 140 L achetée en déstockage. Très entrée de gamme, mais largement suffisante pour un soubassement.
+Le mortier, hydrofugé, a été gâché sur place dans une bétonnière de 140 L achetée en déstockage. Très entrée de gamme, mais largement suffisante pour un soubassement. Elle ne fait qu’une demi-gâchée à la fois, un demi-sac de ciment : c’est long, mais elle tourne encore aujourd’hui.
+
+Pour doser, des seaux de 11 ou 12 L sont pratiques. Pour un béton, la règle courante est le « 3-2-1 » : trois seaux de gravier, deux de sable, un de ciment. Mais faire un bon béton à la pelle demande de l’expérience.
 
 ## Comment monter un muret droit ?
 
@@ -111,4 +113,4 @@ La dalle était coulée avant l’hiver. Pour la première fois, le garage avait
 - **Le jour du coulage, gardez la pige et le laser à portée de main** pour contrôler le niveau pendant le tirage. Puis pulvérisez un produit de cure, pour que la dalle ne sèche pas trop vite. Avec un béton autoplaçant, vérifiez aussi l’étanchéité des coffrages, et prévoyez une rallonge si la toupie ne peut pas approcher.
 {{< /conseils >}}
 
-*Prochaine étape : phase 6, les murs.*
+*Prochaine étape : [phase 6, les murs](/etapes/06-les-murs/).*

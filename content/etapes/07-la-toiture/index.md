@@ -1,6 +1,6 @@
 ---
 title: "La toiture : un toit plat, étanche et sans chalumeau"
-date: 2026-10-28T17:00:00+01:00
+date: 2024-07-31
 weight: 7
 summary: "Des solives posées en pente, une membrane EPDM collée à froid sans un coup de chalumeau, des relevés sur l’acrotère et une couvertine noire : en juillet 2024, le garage est enfin couvert."
 cover:
@@ -115,4 +115,4 @@ La membrane est collée, les couvertines posées. Après plus d’un an et demi 
 - **Si le bois ou l’entraxe changent sur le chantier, faites revérifier le calcul.** Et gardez de la réserve si vous pensez au photovoltaïque.
 {{< /conseils >}}
 
-*Prochaine étape : phase 8, les menuiseries et les finitions.*
+*Prochaine étape : [phase 8, les menuiseries et les finitions](/etapes/08-menuiseries-bilan/).*
