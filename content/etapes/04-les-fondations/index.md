@@ -41,7 +41,7 @@ Nos semelles sont armées de **cages 6 HA10** : six barres d’acier « haute ad
 
 C’est là que se joue la solidité de l’ensemble. Une barre simplement pliée dans un angle rentrant cherche à se redresser une fois tendue, et fait éclater le béton côté intérieur : c’est la **poussée au vide**.
 
-Dans nos angles, les cages se croisent et sont liées par des équerres HA10. Nous en avions commandé 24, de 60 × 60 cm. Pour les autres, nous avons fait plus simple : couper des barres de 6 m en morceaux de 1 m, et les plier nous-mêmes en 50 × 50 cm. Cinq équerres par lit, en bas comme en haut, relient les barres extérieures, intérieures et du milieu des deux cages. Les armatures restent ainsi continues d’un mur à l’autre.
+Dans nos angles, les cages se croisent et sont liées par des équerres HA10. Nous en avions commandé 24 toutes faites, de 60 × 60 cm. Mais entre la pénurie d’acier et le prix de ces équerres, nous avons cherché à réduire un peu la facture : pour les autres, nous avons coupé des barres de 6 m en morceaux de 1 m, et nous les avons pliées nous-mêmes en 50 × 50 cm. Cinq équerres par lit, en bas comme en haut, relient les barres extérieures, intérieures et du milieu des deux cages. Les armatures restent ainsi continues d’un mur à l’autre.
 
 {{< duo theorie="schema-equerres-angle.png" alt-theorie="Schéma en plan d’un angle : les barres des deux cages se croisent et sont reliées par des équerres" vrai="angle-equerres.jpg" alt-vrai="Deux cages d’armatures qui se croisent dans un angle" legende="Un angle de fondation : les cages se croisent et des équerres HA10 relient leurs barres dans les deux directions." >}}
 
