@@ -4,7 +4,7 @@ name: Publier le blog
 
 on:
   push:
-    branches: [main]
+    branches: [hugo]
   workflow_dispatch:
 
 permissions:
