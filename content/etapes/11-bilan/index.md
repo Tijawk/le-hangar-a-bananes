@@ -41,7 +41,18 @@ Environ 22 300 € sont justifiés par des documents. Les 2 700 € restants cor
 
 Ce prix comprend un gros œuvre complet : des fondations armées dimensionnées par une étude de structure, un soubassement, un dallage armé, une étanchéité EPDM. C’est toute la différence avec un garage en kit posé sur une simple dalle.
 
-Pour donner un ordre d’idée, un garage fait par des professionnels, pose comprise, se situe en général autour de [950 à 1 300 € le m² en parpaings](https://www.lamaisonsaintgobain.fr/extensions-maison/agrandissement-maison/prix-garage-parpaing-30-m2), soit environ 33 000 € pour un garage accolé de 30 m². En ossature bois, les prix annoncés vont plutôt de [400 à 750 € le m² hors taxes](https://blog.trustup.be/fr/prix-construction-garage/), sans l’électricité ni les finitions intérieures. Ces chiffres varient beaucoup d’une source et d’un projet à l’autre. Nos 510 € le m² ne comptent que les matériaux et l’outillage : notre main-d’œuvre, elle, ne figure sur aucune facture.
+Pour donner un ordre d’idée, voici ce que coûte un garage selon la façon de le construire. Ce sont des fourchettes relevées sur des guides de prix, pas des devis : elles varient beaucoup d’un projet et d’une région à l’autre, et ne couvrent pas toutes la même chose.
+
+| Solution | Prix au m² | Ce que le prix comprend |
+|---|---|---|
+| **Traditionnel**, parpaings, par des artisans | 950 à 1 300 € TTC | tout compris, pose et porte ([La Maison Saint-Gobain](https://www.lamaisonsaintgobain.fr/extensions-maison/agrandissement-maison/prix-garage-parpaing-30-m2), garage de 30 m²) |
+| **Ossature bois**, par des artisans | 300 à 700 € | posé, dalle non comprise ([Habitatpresto](https://www.habitatpresto.com/mag/agrandissement/garage/garage-prefabrique-beton-prix)) |
+| **Préfabriqué béton** | 400 à 900 € | posé, dalle en plus, environ 65 à 120 € le m² ([Prix-Pose](https://www.prix-pose.com/garage-prefabrique)) |
+| **Kit bois** à monter soi-même | 130 à 400 € | le kit seul, dalle et main-d’œuvre en plus ([Prix-Pose](https://www.prix-pose.com/garage-prefabrique)) |
+| **Container maritime** d’occasion | 100 à 200 € environ | le conteneur seul, sans transport, grue, appuis ni ouvertures ; 2,35 m de large à l’intérieur ([Hellopro](https://conseils.hellopro.fr/combien-coute-un-conteneur-1243.html)) |
+| **Le hangar à bananes** | environ 510 € TTC | tous les matériaux et l’outillage d’un gros œuvre complet, de la fouille à l’étanchéité, menuiseries sur mesure comprises ; sans notre main-d’œuvre |
+
+Notre main-d’œuvre, elle, ne figure sur aucune facture.
 
 ## Combien de temps ?
 
