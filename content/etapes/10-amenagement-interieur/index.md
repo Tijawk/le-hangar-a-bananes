@@ -11,14 +11,14 @@ cover:
 
 {{< frise phase="10" titre="L’aménagement intérieur" >}}
 
-Septembre 2024 : de l’extérieur, le hangar est terminé. À l’intérieur, ce n’est encore qu’une ossature et une dalle. Reste à le rendre utile : habiller les murs, amener l’électricité et l’eau, installer l’atelier.
+Septembre 2024 : la façade est finie. À l’intérieur, ce n’est encore qu’une ossature et une dalle. Reste à le rendre utile : habiller les murs, amener l’électricité et l’eau, installer l’atelier.
 
 {{< fiche titre="La phase en bref" >}}
 | | |
 |---|---|
 | **Période** | automne 2024 |
 | **Parement** | panneaux OSB, murs et plafond |
-| **Électricité** | liaison depuis la maison, tableau secondaire, environ 320 € TTC de matériel |
+| **Électricité** | depuis la maison, tableau secondaire, installation vérifiée |
 | **Eau** | piquage sur le réseau de la maison, tube PEHD 25 mm sous la dalle |
 | **Isolation** | aucune : bâtiment non chauffé |
 | **Mobilier** | réemploi : cuisine complète et plans de travail d’occasion |
@@ -32,11 +32,7 @@ Les murs et le plafond sont habillés de **panneaux OSB**. Pour un atelier, c’
 
 ## Comment amener l’électricité ?
 
-Elle arrive de la maison par un câble de 10 mm² d’environ 25 m. Le fourreau avait été posé sous grillage avertisseur dès la construction de la maison : il n’y avait plus qu’à tirer le câble.
-
-Au départ, un disjoncteur 40 A dans le tableau de la maison. À l’arrivée, un petit **tableau secondaire** d’une rangée, avec son propre disjoncteur et un interrupteur différentiel. Pour la lumière, des réglettes LED étanches.
-
-Le câblage a été fait avec l’aide de JL, en suivant les principes de la NF C 15-100, et l’installation a ensuite été vérifiée. Matériel : environ 320 € TTC.
+Elle arrive de la maison, dans un fourreau posé sous grillage avertisseur dès la construction de celle-ci : il n’y avait plus qu’à tirer le câble jusqu’à un petit tableau secondaire, dans le garage. Le câblage a été fait avec l’aide de JL, en suivant les principes de la NF C 15-100, et l’installation a ensuite été vérifiée.
 
 ## Et l’eau ?
 

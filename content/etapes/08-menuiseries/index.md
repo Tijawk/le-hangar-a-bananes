@@ -62,9 +62,9 @@ En août 2024, le garage fermait à clé. Il restait à finir la façade.
 {{< conseils >}}
 - **Commandez les menuiseries sur mesure aux cotes réelles de l’ossature**, une fois les murs levés.
 - **Rabattez le pare-pluie dans chaque tableau avant la pose** : le bois ne doit jamais être à nu autour d’une menuiserie.
-- **Posez une compribande entre le dormant et l’ossature** : elle remplit le joint toute seule, en regonflant.
+- **Posez une compribande entre le dormant et l’ossature**, choisie pour la largeur de votre joint.
 - **Mettez le budget là où l’usage est quotidien**, comme la motorisation d’une porte qui s’ouvre plusieurs fois par jour.
-- **Choisissez des caniveaux carrossables** devant une porte de garage.
+- **Devant une porte de garage, choisissez un caniveau carrossable** : au moins la classe B125, grille comprise. La classe A15 est faite pour les piétons.
 {{< /conseils >}}
 
 *Prochaine étape : [phase 9, le bardage](/etapes/09-bardage/).*

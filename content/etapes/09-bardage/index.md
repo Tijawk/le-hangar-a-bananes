@@ -16,7 +16,7 @@ Le bardage, nous l’avions commencé dès mai 2024, avant même la toiture, fau
 {{< fiche titre="La phase en bref" >}}
 | | |
 |---|---|
-| **Période** | mai → septembre 2024 |
+| **Période** | commencé en mai 2024, terminé en septembre 2024 |
 | **Lames** | sapin blanc du Nord, choix AB, traité classe 3, 20 × 123 mm, longueurs de 4,20 m |
 | **Pose** | horizontale, sur tasseaux verticaux 27 × 45 mm |
 | **Fixation** | pointes annelées inox A2, clouées au marteau dans la languette |
@@ -37,7 +37,7 @@ Des lames verticales, elles, demandent des supports horizontaux, qui bloqueraien
 
 Nos lames sont en sapin blanc du Nord traité classe 3 : pour un bois exposé aux intempéries, mais qui sèche vite. Teinte marron, 20 × 123 mm, en longueurs de 4,20 m.
 
-Elles sont clouées au marteau sur des tasseaux de 27 × 45 mm, avec des **pointes annelées en inox A2**, qui ne rouillent pas et ne tachent pas le bois. Chaque pointe est plantée dans la **languette**, que la lame suivante vient recouvrir : le clouage est invisible. C’est plus long qu’à la cloueuse, mais la façade reste nette.
+Elles sont clouées au marteau sur des tasseaux de 27 × 45 mm, avec des **pointes annelées en inox A2**, qui ne rouillent pas et ne tachent pas le bois. Chaque pointe est plantée dans la **languette**, que la lame suivante vient recouvrir : le clouage est invisible.
 
 Dans les angles, des cornières de 45 × 45 mm, dans le même bois, ferment les extrémités des lames.
 
@@ -49,9 +49,9 @@ Le bas du bardage reste à **20 cm du sol fini**, grâce aux 25 cm du soubasseme
 
 ## Que deviennent les coffrets Enedis ?
 
-Souvenez-vous du permis refusé : nous avions laissé 30 cm entre le garage et les limites pour garder les coffrets Enedis à l’extérieur, et la mairie ne l’avait pas accepté. Les coffrets sont donc posés contre le pare-pluie, et le bardage en fait le tour, avec un cadre et des tableaux habillés comme une fenêtre.
+Souvenez-vous du permis refusé : nous avions laissé 30 cm entre le garage et les limites pour garder les coffrets Enedis à l’extérieur, et la mairie ne l’avait pas accepté. Les coffrets sont donc posés contre le pare-pluie, et le bardage en fait le tour.
 
-{{< figure src="coffrets-enedis.jpg" alt="Coffrets Enedis contre la façade, le bardage en fait le tour" caption="Les coffrets Enedis, posés contre le pare-pluie : le bardage en fait le tour." >}}
+{{< figure src="coffrets-enedis.jpg" alt="Coffrets Enedis sur la façade, à côté de la porte sectionnelle" caption="Les coffrets Enedis, à côté de la porte sectionnelle." >}}
 
 En septembre 2024, la dernière lame était posée. De l’extérieur, le hangar est terminé.
 
