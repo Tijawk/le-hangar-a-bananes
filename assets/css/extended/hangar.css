@@ -80,15 +80,16 @@ body{font-family:"Source Sans 3",system-ui,sans-serif;font-size:19px}
 .post-content .duo img{width:100%;height:auto;margin:0;border-radius:6px}
 @media (max-width:640px){.post-content .duo-grille{grid-template-columns:1fr}}
 
-/* Les deux mascottes du chantier */
-.frise-piste{position:relative;padding-top:50px}
-.frise-piste .equipe{position:absolute;top:0;width:58px;height:auto;transform:translateX(-50%);animation:marche 1.4s ease-in-out infinite;pointer-events:none;border-radius:0}
-@keyframes marche{0%,100%{margin-top:0}50%{margin-top:-3px}}
-.home-info{background:url("../../img/equipe.svg") no-repeat right 4px bottom 18px/120px auto;padding-right:140px}
-.post-content h2{display:flex;align-items:center;gap:.45em}
-.post-content h2::before{content:"";flex:0 0 1.05em;height:.75em;background:url("../../img/casque.svg") no-repeat center/contain}
-@media (max-width:640px){.home-info{background-size:84px auto;padding-right:96px}}
-@media (prefers-reduced-motion:reduce){.frise-piste .equipe{animation:none}}
+/* Les deux mascottes du chantier (Fluent Emoji, Microsoft, licence MIT) */
+.frise-piste{position:relative;padding-top:42px}
+.frise-piste .equipe{position:absolute;top:2px;display:flex;gap:2px;transform:translateX(-50%);pointer-events:none}
+.frise-piste .equipe img{width:34px;height:34px;margin:0;border-radius:0;animation:marche 1.2s ease-in-out infinite}
+.frise-piste .equipe img+img{animation-delay:.6s}
+@keyframes marche{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+.home-info{position:relative;padding-right:150px}
+.home-info::after{content:"";position:absolute;right:0;bottom:18px;width:136px;height:72px;background:url("../../img/fluent/ouvrier.svg") no-repeat left bottom/68px,url("../../img/fluent/ouvriere.svg") no-repeat right bottom/68px}
+@media (max-width:640px){.home-info{padding-right:0;padding-bottom:96px}.home-info::after{right:auto;left:0;bottom:16px}}
+@media (prefers-reduced-motion:reduce){.frise-piste .equipe img{animation:none}}
 
 /* Correctifs : fiche sans quadrillage, menu mobile compact */
 .md-content .fiche table{width:100%;display:table}
