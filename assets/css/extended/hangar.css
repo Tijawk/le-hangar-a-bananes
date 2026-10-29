@@ -13,7 +13,7 @@ body{font-family:"Source Sans 3",system-ui,sans-serif;font-size:19px}
 .post-content a,.home-info a{color:var(--vert)}
 .post-content img{border-radius:10px}
 .post-content figure figcaption,.post-content figcaption p{font-size:.88rem;color:var(--secondary);text-align:center}
-.frise{display:grid;grid-template-columns:repeat(8,1fr);gap:4px;margin:0 0 6px}
+.frise{display:grid;grid-auto-flow:column;grid-auto-columns:1fr;gap:4px;margin:0 0 6px}
 .frise span{height:8px;border-radius:4px;background:var(--tertiary)}
 .frise .fait{background:var(--vert)} .frise .en-cours{background:var(--banane)}
 .post-content p.phase{font-size:.8rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--bois);margin-top:0}
