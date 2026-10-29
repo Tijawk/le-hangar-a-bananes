@@ -35,7 +35,7 @@ Le mortier, hydrofugé, a été gâché sur place dans une bétonnière de 140 L
 
 ## Comment monter un muret droit ?
 
-Les angles d’abord. Les blocs d’angle sont posés et réglés en premier, puis un cordeau tendu entre eux donne l’alignement de chaque rang. Chaque bloc se règle ensuite au niveau à bulle et à la massette.
+Les angles d’abord. Les blocs d’angle sont posés et réglés en premier, puis un cordeau tendu entre eux donne l’alignement de chaque rang. Chaque bloc se règle ensuite au niveau à bulle et à la massette. Les blocs sont posés en quinconce : d’un rang à l’autre, les joints verticaux sont décalés d’un demi-bloc. Des joints alignés formeraient un « coup de sabre », une ligne de faiblesse verticale où le mur fissurerait.
 
 {{< figure src="blocs-angles.jpg" alt="Blocs d’angle posés sur les semelles, palette de blocs au centre" caption="La pose des blocs d’angle du soubassement." >}}
 
