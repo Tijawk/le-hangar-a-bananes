@@ -63,15 +63,11 @@ Nous referions la conception complète en 3D, et le béton autoplaçant pour la 
 - **Comptez le temps autant que l’argent** : le week-end, tout prend plus longtemps que prévu.
 {{< /conseils >}}
 
-## D’où vient le nom ?
-
-Chez nous, on est tous des bananes : c’est notre taquinerie favorite. Quand il a fallu baptiser le garage, le nom s’est imposé.
-
-Des bourdes, il y en a eu sur ce chantier : le pari des 30 cm qui nous a valu un refus de permis, la dalle tirée sans contrôler le niveau, les caniveaux à renvoyer. À chaque fois, l’un de nous finit par le dire : « quelle banane ».
-
-## Et maintenant ?
+## Le mot de la fin
 
 Chaque étape nous a rendus fiers. Nous avons presque tout fait à deux, et à deux, c’est plus simple. Il a fallu des nerfs solides.
+
+Des bourdes, il y en a eu : le pari des 30 cm qui nous a valu un refus de permis, la dalle tirée sans contrôler le niveau, les caniveaux à renvoyer. À chaque fois, l’un de nous finit par le dire : « quelle banane ». Chez nous, on est tous des bananes, et quand il a fallu baptiser le garage, le nom s’est imposé.
 
 Nous finirons sûrement par racheter une maison à retaper. Il nous faut un nouveau projet, encore plus ambitieux.
 
