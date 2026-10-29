@@ -41,16 +41,18 @@ Environ 22 300 € sont justifiés par des documents. Les 2 700 € restants cor
 
 Ce prix comprend un gros œuvre complet : des fondations armées dimensionnées par une étude de structure, un soubassement, un dallage armé, une étanchéité EPDM. C’est toute la différence avec un garage en kit posé sur une simple dalle.
 
-Pour donner un ordre d’idée, voici ce que coûte un garage selon la façon de le construire. Ce sont des fourchettes relevées sur des guides de prix, pas des devis : elles varient beaucoup d’un projet et d’une région à l’autre, et ne couvrent pas toutes la même chose.
+Pour donner un ordre d’idée, voici ce que coûte un garage selon la façon de le construire. Nous avons ramené les prix à une base commune : TTC, posé, dalle et porte comprises, hors électricité. Ce sont des fourchettes relevées sur des comparateurs de devis et des forums, pas des devis : elles varient beaucoup d’un projet et d’une région à l’autre.
 
-| Solution | Prix au m² | Ce que le prix comprend |
+| Solution | Prix au m² | Base de comparaison |
 |---|---|---|
-| **Traditionnel**, parpaings, par des artisans | 950 à 1 300 € TTC | tout compris, pose et porte ([La Maison Saint-Gobain](https://www.lamaisonsaintgobain.fr/extensions-maison/agrandissement-maison/prix-garage-parpaing-30-m2), garage de 30 m²) |
-| **Ossature bois**, par des artisans | 300 à 700 € | posé, dalle non comprise ([Habitatpresto](https://www.habitatpresto.com/mag/agrandissement/garage/garage-prefabrique-beton-prix)) |
-| **Préfabriqué béton** | 400 à 900 € | posé, dalle en plus, environ 65 à 120 € le m² ([Prix-Pose](https://www.prix-pose.com/garage-prefabrique)) |
-| **Kit bois** à monter soi-même | 130 à 400 € | le kit seul, dalle et main-d’œuvre en plus ([Prix-Pose](https://www.prix-pose.com/garage-prefabrique)) |
-| **Container maritime** d’occasion | 100 à 200 € environ | le conteneur seul, sans transport, grue, appuis ni ouvertures ; 2,35 m de large à l’intérieur ([Hellopro](https://conseils.hellopro.fr/combien-coute-un-conteneur-1243.html)) |
-| **Le hangar à bananes** | environ 510 € TTC | tous les matériaux et l’outillage d’un gros œuvre complet, de la fouille à l’étanchéité, menuiseries sur mesure comprises ; sans notre main-d’œuvre |
+| **Traditionnel**, parpaings, par des artisans | 750 à 1 100 € | garage de 30 m² ([La Maison Saint-Gobain](https://www.lamaisonsaintgobain.fr/extensions-maison/agrandissement-maison/prix-garage-parpaing-30-m2), [Habitatpresto](https://www.habitatpresto.com/mag/agrandissement/garage/prix-construction-garage)) |
+| **Ossature bois**, par des artisans | 450 à 900 € | garage de 20 à 30 m² ([Construires](https://www.construires.fr/prix-construction-garage/), [Habitatpresto](https://www.habitatpresto.com/mag/agrandissement/garage/prix-construction-garage)) |
+| **Préfabriqué béton** | 500 à 1 000 € | garage de 20 à 40 m², grue en plus si besoin ([Habitatpresto](https://www.habitatpresto.com/mag/agrandissement/garage/garage-prefabrique-beton-prix)) |
+| **Kit bois** monté soi-même, dalle par un pro | 250 à 600 € | garage de 20 m² ([Construires](https://www.construires.fr/construire-garage-prix-2026/), [Direct-Abris](https://www.direct-abris.com/1132-792-garage-bois-toronto-porte-sectionnelle-44mm.html)) |
+| **Container maritime** 20 pieds, sur plots | 330 à 720 €, estimation | 14 m² utiles, 2,35 m de large : conteneur, transport, plots, ouvertures ([Hellopro](https://conseils.hellopro.fr/tous-nos-guides-container-maritime-2009453-intercalaire.html), [Habitatpresto](https://www.habitatpresto.com/mag/agrandissement/extension-container)) |
+| **Le hangar à bananes** | environ 510 € | 49 m² sur mesure : tous les matériaux et l’outillage, sans notre main-d’œuvre |
+
+Et ces prix sont ceux de garages standard. Le nôtre est sur mesure de bout en bout : un polygone qui épouse les limites du terrain, des menuiseries fabriquées aux cotes de l’ossature, une toiture-terrasse EPDM avec acrotère et couvertines. Un constructeur ou un kit part de dimensions et d’ouvertures standard : pour obtenir la même chose, la facture grimperait vite.
 
 Notre main-d’œuvre, elle, ne figure sur aucune facture.
 
