@@ -74,6 +74,7 @@ Nous referions la conception complète en 3D, et le béton autoplaçant pour la 
 - **N’oubliez pas les démarches de fin** : la DAACT en mairie, et la taxe d’aménagement dans les 90 jours qui suivent l’achèvement au sens fiscal, sous peine d’amende.
 - **Prévoyez une marge sur le budget**, surtout quand les prix flambent.
 - **Notez toutes vos dépenses**, même les petits achats au comptoir : chez nous, ils pèsent environ 2 700 €.
+- **Si vous passez par des artisans, soyez présents sur le chantier et prenez des photos** de chaque étape, surtout de ce qui sera caché ensuite : ferraillage, fondations, réseaux.
 - **Faites un contrat écrit avec chaque entreprise**, surtout pour le terrassement : qui termine, et ce que devient l’acompte si le chantier s’arrête.
 - **Comptez le temps autant que l’argent** : le week-end, tout prend plus longtemps que prévu. Faites vos listes d’achats le vendredi, avant que les magasins ferment.
 {{< /conseils >}}
