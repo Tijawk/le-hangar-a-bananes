@@ -80,7 +80,7 @@ Tout en haut, une **couvertine** en aluminium laqué noir RAL 9005 coiffe l’ac
 
 ## Comment étancher un angle ?
 
-C’est le point le plus délicat de toute la toiture. Dans un angle rentrant, au pied de l’acrotère, on ne coupe jamais la membrane : une coupe à cet endroit, c’est une fuite assurée. La technique décrite par les fabricants s’appelle le **pli en oreille**.
+C’est le point le plus délicat de toute la toiture. Dans un angle rentrant, au pied de l’acrotère, on ne coupe jamais la membrane : une coupe à cet endroit, c’est une fuite assurée. La technique décrite par les fabricants, celle que nous avons suivie, s’appelle le **pli en oreille**.
 
 On colle d’abord la membrane sur le premier relevé, en la roulant bien au fond de l’angle pour qu’elle ne fasse pas de pont. On la colle ensuite sur le second relevé : le surplus forme une oreille, un triangle de membrane qui dépasse dans l’angle. Cette oreille est collée sur elle-même, puis rabattue à plat contre l’un des relevés.
 
