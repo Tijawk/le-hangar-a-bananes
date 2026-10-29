@@ -1,5 +1,6 @@
 {{- $n := int (.Get "phase") -}}
-<div class="frise" aria-label="Phase {{ $n }} sur 8">
-{{- range $i := seq 8 -}}<span class="{{ if lt $i $n }}fait{{ else if eq $i $n }}en-cours{{ end }}"></span>{{- end -}}
+{{- $total := 10 -}}
+<div class="frise" aria-label="{{ if gt $n $total }}Bilan du chantier{{ else }}Phase {{ $n }} sur {{ $total }}{{ end }}">
+{{- range $i := seq $total -}}<span class="{{ if lt $i $n }}fait{{ else if eq $i $n }}en-cours{{ end }}"></span>{{- end -}}
 </div>
-<p class="phase">Phase {{ $n }} sur 8 · {{ .Get "titre" }}</p>
+<p class="phase">{{ if gt $n $total }}Le chantier terminé{{ else }}Phase {{ $n }} sur {{ $total }}{{ end }} · {{ .Get "titre" }}</p>

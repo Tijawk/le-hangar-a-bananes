@@ -115,4 +115,4 @@ La membrane est collée, les couvertines posées. Après plus d’un an et demi 
 - **Si le bois ou l’entraxe changent sur le chantier, faites revérifier le calcul.** Et gardez de la réserve si vous pensez au photovoltaïque.
 {{< /conseils >}}
 
-*Prochaine étape : [phase 8, les menuiseries et les finitions](/etapes/08-menuiseries-bilan/).*
+*Prochaine étape : [phase 8, les menuiseries](/etapes/08-menuiseries/).*

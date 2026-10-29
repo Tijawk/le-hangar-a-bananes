@@ -14,7 +14,7 @@ Le hangar en un coup d’œil. Chaque ligne renvoie à l’article qui raconte c
 | **Emprise** | polygone non rectangulaire, façades de 8,76 m, 6,63 m, 8,36 m et 9,04 m |
 | **Hauteur** | 3,05 m hors tout, dont 2,80 m d’ossature et 25 cm de soubassement |
 | **Chantier** | décembre 2022 → automne 2024, uniquement le week-end |
-| **Coût** | environ 25 000 € TTC pour le bâtiment, hors main-d’œuvre et hors arrivée d’eau |
+| **Coût** | environ 25 000 € TTC pour le bâtiment, hors main-d’œuvre et hors arrivée d’eau ([le bilan](/etapes/11-bilan/)) |
 {{< /fiche >}}
 
 {{< fiche titre="Lot par lot" >}}
@@ -25,9 +25,9 @@ Le hangar en un coup d’œil. Chaque ligne renvoie à l’article qui raconte c
 | **[Dallage](/etapes/05-soubassement-dallage/)** | 15 cm de béton autoplaçant sur terre-plein, treillis ST25C, désolidarisé des murs, joint de retrait scié |
 | **[Murs](/etapes/06-les-murs/)** | ossature 45 × 145 mm C24 à 60 cm, modules préfabriqués à plat, contreventement OSB 3 de 12 mm, pare-pluie |
 | **[Toiture](/etapes/07-la-toiture/)** | toiture-terrasse à 3 %, solives 75 × 225 mm à 41,6 cm, OSB 3 de 22 mm, membrane EPDM 1,52 mm collée, couvertines alu noir |
-| **[Bardage](/etapes/08-menuiseries-bilan/)** | sapin blanc du Nord traité classe 3, 20 × 123 mm, horizontal, sur tasseaux 27 × 45 mm |
-| **[Menuiseries](/etapes/08-menuiseries-bilan/)** | PVC noir RAL 9005 sur mesure : porte sectionnelle motorisée, porte de service, deux fenêtres à soufflet |
-| **[Intérieur](/etapes/08-menuiseries-bilan/)** | parement OSB, tableau électrique secondaire, arrivée d’eau, pas d’isolation |
+| **[Bardage](/etapes/09-bardage/)** | sapin blanc du Nord traité classe 3, 20 × 123 mm, horizontal, sur tasseaux 27 × 45 mm |
+| **[Menuiseries](/etapes/08-menuiseries/)** | PVC noir RAL 9005 sur mesure : porte sectionnelle motorisée, porte de service, deux fenêtres à soufflet |
+| **[Intérieur](/etapes/10-amenagement-interieur/)** | parement OSB, tableau électrique secondaire, arrivée d’eau, pas d’isolation |
 {{< /fiche >}}
 
 ## Les référentiels
