@@ -48,7 +48,9 @@ Le calcul supposait aussi du bois de classe C18. Plus le chiffre est élevé, pl
 
 ## Pourquoi une membrane EPDM ?
 
-Sur les solives, des dalles d’**OSB 3 de 22 mm**, à rainures et languettes sur les quatre côtés, forment le plancher du toit. Tout autour, l’**acrotère**, le rebord qui dépasse du toit, est habillé d’OSB sur sa face intérieure : le support est continu, du plancher jusqu’en haut des rebords.
+Sur les solives, des dalles d’**OSB 3 de 22 mm**, à rainures et languettes sur les quatre côtés, forment le plancher du toit. Attention, l’OSB a un sens de pose, avec une face intérieure et une face extérieure : on ne le pose pas n’importe comment. Entre les panneaux, nous avons laissé quelques millimètres de jeu, puis comblé ces joints au mastic adapté, à la spatule. La membrane épousera la moindre marche : le support doit être le plus lisse possible, sans rien qui accroche.
+
+Tout autour, l’**acrotère**, le rebord qui dépasse du toit, est habillé d’OSB sur sa face intérieure : le support est continu, du plancher jusqu’en haut des rebords.
 
 Restait à choisir l’étanchéité. Sur une structure en bois, nous ne voulions aucun travail au chalumeau, ce qui écartait les bitumes soudés. Nous avons choisi une **membrane EPDM** de 1,52 mm, un caoutchouc synthétique, posée en une seule couche et collée à froid.
 
@@ -93,6 +95,7 @@ La membrane est collée, les couvertines posées. Après plus d’un an et demi 
 {{< conseils >}}
 - **Donnez de la pente à un toit plat** : 3 % est le minimum courant sur support bois. Vérifiez l’avis technique de votre membrane.
 - **Sur une structure en bois, préférez une étanchéité collée à froid**, et choisissez une membrane EPDM de toiture classée au feu, jamais une membrane de bassin.
+- **Soignez le support avant la membrane** : OSB posé dans le bon sens, quelques millimètres de jeu entre les panneaux, joints comblés au mastic à la spatule. L’EPDM doit reposer sur une surface lisse.
 - **Remontez la membrane d’au moins 15 cm sur l’acrotère**, et coiffez-la d’une couvertine posée en pente vers le toit.
 - **Prévoyez toujours un trop-plein** : une évacuation bouchée transforme un toit plat en piscine.
 - **Si le bois ou l’entraxe changent sur le chantier, faites revérifier le calcul.** Et gardez de la réserve si vous pensez au photovoltaïque.
