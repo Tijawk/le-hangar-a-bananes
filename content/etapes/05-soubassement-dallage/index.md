@@ -95,6 +95,8 @@ Le 13 octobre 2023, la toupie ne pouvait pas approcher. Avec une rallonge, elle 
 
 Avec le recul, nous aurions dû contrôler le niveau à la pige et au laser pendant le tirage, comme pour le reste du chantier. Erreur de débutant : on voit un léger manque par endroits. Rien de méchant : au pire, un petit ragréage aurait rattrapé la finition. Honnêtement, nous n’en avons même pas eu besoin. Ça reste un garage.
 
+Une fois le béton tiré, nous avons appliqué un **produit de cure** au pulvérisateur. Il forme un film qui empêche le béton de sécher trop vite en surface, et limite ainsi les fissures de retrait.
+
 {{< duo theorie="schema-pied-de-mur.png" alt-theorie="Coupe de principe du pied de mur : semelle, soubassement, dallage et ossature" vrai="dallage-coule.jpg" alt-vrai="Dallage coulé dont le dessus arrive au niveau de l’arase du soubassement" legende="Le pied de mur prévu, et le dallage coulé : son dessus arrive au niveau de l’arase du soubassement." >}}
 
 La dalle était coulée avant l’hiver. Pour la première fois, le garage avait un sol.
@@ -104,7 +106,7 @@ La dalle était coulée avant l’hiver. Pour la première fois, le garage avait
 - **Désolidarisez la dalle des murs** par un joint périphérique : ils ne tasseront pas de la même façon.
 - **Posez tous les réseaux avant de remblayer** : fourreaux, arrivée d’eau, évacuations, regard.
 - **Compactez la grave par fines couches**, à la plaque vibrante, plutôt que de faire benner le tout d’un coup.
-- **Le jour du coulage, gardez la pige et le laser à portée de main** pour contrôler le niveau pendant le tirage. Avec un béton autoplaçant, vérifiez aussi l’étanchéité des coffrages, et prévoyez une rallonge si la toupie ne peut pas approcher.
+- **Le jour du coulage, gardez la pige et le laser à portée de main** pour contrôler le niveau pendant le tirage. Puis pulvérisez un produit de cure, pour que la dalle ne sèche pas trop vite. Avec un béton autoplaçant, vérifiez aussi l’étanchéité des coffrages, et prévoyez une rallonge si la toupie ne peut pas approcher.
 {{< /conseils >}}
 
 *Prochaine étape : phase 6, les murs.*
