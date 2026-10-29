@@ -71,7 +71,7 @@ Seulement, une fois ce mur en place, plus personne ne pourrait travailler dans c
 
 {{< figure src="mur-voisin.jpg" alt="Mur d’ossature levé contre un mur en pierre, pare-pluie côté pierre" caption="Le mur côté voisin, levé déjà équipé de l’OSB et du pare-pluie." >}}
 
-Un mur fini, c’est lourd. Il a été levé d’un bloc, à trois, sans étai ni palan pour le levage : des tréteaux renforcés, approchés petit à petit pour soulager, et des gros bras. Le grand-père de notre fils en était.
+Un mur fini, c’est lourd. Il a été levé d’un bloc, à trois, sans étai ni palan pour le levage : des tréteaux renforcés, approchés petit à petit pour soulager, et des gros bras. JL en était.
 
 En façade, le bardage horizontal se prolonge jusqu’au mur voisin : l’illusion est parfaite.
 

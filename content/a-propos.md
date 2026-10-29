@@ -16,7 +16,7 @@ Pendant les confinements, avec un petit stock de bois de palette, nous avons enc
 
 Nous avons d’abord pensé à des conteneurs maritimes, mais leur taille fixe ne collait pas avec notre terrain. Puis nous avons passé plus d’un an à éplucher forums, blogs et vidéos sur l’autoconstruction en ossature bois, à dessiner, à lire les DTU, et à monter un budget.
 
-Le résultat : un garage-atelier de 49 m² en ossature bois, conçu et construit presque entièrement à deux, uniquement le week-end, de décembre 2022 à l’automne 2024. Le grand-père de notre fils est venu nous prêter main-forte aussi souvent qu’il le pouvait, et notre fils a donné ses coups de mini-brouette.
+Le résultat : un garage-atelier de 49 m² en ossature bois, conçu et construit presque entièrement à deux, uniquement le week-end, de décembre 2022 à l’automne 2024. JL, le grand-père de notre fils, est venu nous prêter main-forte aussi souvent qu’il le pouvait, et notre fils a donné ses coups de mini-brouette.
 
 Un jour, peut-être, nous rénoverons une vieille ferme. Ce garage était aussi une école : terrassement, fondations, maçonnerie, charpente, étanchéité, menuiseries. Et il est tellement gratifiant de pouvoir dire : c’est nous qui l’avons fait.
 

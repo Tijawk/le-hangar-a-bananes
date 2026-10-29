@@ -63,7 +63,7 @@ Reste les **coffrets Enedis**. Souvenez-vous du permis refusé : nous avions lai
 
 Les murs et le plafond sont habillés de **panneaux OSB**. Ils encaissent les chocs, et l’on visse une étagère n’importe où, sans chercher les montants. L’aspect brut convient bien à un atelier.
 
-**L’électricité** arrive de la maison par un câble de 10 mm² d’environ 25 m, dans un fourreau posé dès la construction de la maison. Au départ, un disjoncteur 40 A ; à l’arrivée, un petit tableau secondaire avec son propre disjoncteur et un interrupteur différentiel. Le câblage a été fait avec l’aide du grand-père de notre fils, en suivant les principes de la NF C 15-100, et l’installation a ensuite été vérifiée. Matériel : environ 320 € TTC.
+**L’électricité** arrive de la maison par un câble de 10 mm² d’environ 25 m, dans un fourreau posé dès la construction de la maison. Au départ, un disjoncteur 40 A ; à l’arrivée, un petit tableau secondaire avec son propre disjoncteur et un interrupteur différentiel. Le câblage a été fait avec l’aide de JL, en suivant les principes de la NF C 15-100, et l’installation a ensuite été vérifiée. Matériel : environ 320 € TTC.
 
 {{< figure src="interieur-osb.jpg" alt="Intérieur du garage : murs et plafond en OSB, tableau électrique, étagères" caption="L’intérieur : parement et plafond en OSB, et le tableau électrique." >}}
 
@@ -103,7 +103,7 @@ Environ 22 300 € sont justifiés par des documents. Les 2 700 € restants cor
 
 Ce prix comprend un gros œuvre complet : des fondations armées dimensionnées par une étude de structure, un soubassement, un dallage armé, une étanchéité EPDM. C’est toute la différence avec un garage en kit posé sur une simple dalle.
 
-**Le temps.** Près de deux ans, uniquement le week-end. Le gros œuvre, avec les fouilles et le remblai à la main, a pris à lui seul environ un an. La vie de famille en a payé le prix : la semaine le boulot, le week-end le garage, des heures dehors dans le froid et sous la pluie. Nous étions deux, épaulés par le grand-père de notre fils, venu aussi souvent qu’il le pouvait.
+**Le temps.** Près de deux ans, uniquement le week-end. Le gros œuvre, avec les fouilles et le remblai à la main, a pris à lui seul environ un an. La vie de famille en a payé le prix : la semaine le boulot, le week-end le garage, des heures dehors dans le froid et sous la pluie. Nous étions deux, épaulés par JL, venu aussi souvent qu’il le pouvait.
 
 {{< figure src="schema-planning.png" alt="Planning du chantier de fin 2022 à fin 2024, par phase" caption="Le planning du chantier, d’après les dates des photos et des factures." >}}
 
