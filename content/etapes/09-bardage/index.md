@@ -49,9 +49,9 @@ Le bas du bardage reste à **20 cm du sol fini**, grâce aux 25 cm du soubasseme
 
 ## Que deviennent les coffrets Enedis ?
 
-Souvenez-vous du permis refusé : nous avions laissé 30 cm entre le garage et les limites pour garder les coffrets Enedis à l’extérieur, et la mairie ne l’avait pas accepté. Les coffrets sont donc posés contre le pare-pluie, et le bardage en fait le tour.
+Souvenez-vous du permis refusé : nous avions laissé 30 cm entre le garage et les limites pour garder les coffrets Enedis à l’extérieur, et la mairie ne l’avait pas accepté. Les coffrets sont donc posés contre le pare-pluie. Ils doivent rester accessibles : impossible de les recouvrir ou de les cacher. Le bardage en fait simplement le tour, proprement, avec un cadre en bois.
 
-{{< figure src="coffrets-enedis.jpg" alt="Coffrets Enedis sur la façade, à côté de la porte sectionnelle" caption="Les coffrets Enedis, à côté de la porte sectionnelle." >}}
+{{< figure src="coffrets-enedis.jpg" alt="Coffrets Enedis sur la façade, à côté de la porte sectionnelle" caption="Les coffrets Enedis, à côté de la porte sectionnelle : le bardage les contourne, avec un cadre en bois." >}}
 
 En septembre 2024, la dernière lame était posée. De l’extérieur, le hangar est terminé.
 
@@ -60,7 +60,7 @@ En septembre 2024, la dernière lame était posée. De l’extérieur, le hangar
 - **Clouez avec des pointes inox annelées**, dans la languette : elles ne tachent pas le bois et restent invisibles.
 - **Fermez la lame d’air en haut et en bas par un profilé d’aération** : l’air passe, les rongeurs non.
 - **Gardez le bas du bardage à 20 cm du sol fini**, loin des éclaboussures.
-- **Pensez aux coffrets dès le permis** : les contourner proprement demande un cadre et des tableaux, comme une fenêtre.
+- **Pensez aux coffrets dès le permis** : ils doivent rester accessibles, et les contourner proprement demande un cadre.
 {{< /conseils >}}
 
 *Prochaine étape : [phase 10, l’aménagement intérieur](/etapes/10-amenagement-interieur/).*
