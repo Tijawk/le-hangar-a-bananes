@@ -20,6 +20,6 @@ Ce site ne dépose aucun cookie, ne mesure pas son audience et ne collecte aucun
 
 ## Contenus
 
-Les textes, photos et schémas sont les nôtres. Merci de demander avant de les reprendre. Les petits personnages de chantier viennent des [Fluent Emoji](https://github.com/microsoft/fluentui-emoji) de Microsoft, sous licence MIT.
+Les textes, photos et schémas sont les nôtres. Merci de demander avant de les reprendre. Les petits personnages et les icônes des étapes viennent des [Fluent Emoji](https://github.com/microsoft/fluentui-emoji) de Microsoft, sous licence MIT. La brouette a été dessinée par nos soins dans le même style.
 
 Ce blog raconte une expérience personnelle et ne remplace pas l’avis d’un professionnel : vérifiez toujours les règles qui s’appliquent à votre projet.

@@ -28,7 +28,6 @@ body{font-family:"Source Sans 3",system-ui,sans-serif;font-size:19px}
 }
 
 /* Accueil et liste des étapes */
-.home-info{margin:24px 0 32px;padding:0 0 24px;border-bottom:3px solid var(--banane)}
 .home-info .entry-content{font-size:1.1rem;color:var(--secondary)}
 .entry-cover img{aspect-ratio:16/9;object-fit:cover;width:100%}
 .entry-cover{margin-bottom:14px}
@@ -80,16 +79,15 @@ body{font-family:"Source Sans 3",system-ui,sans-serif;font-size:19px}
 .post-content .duo img{width:100%;height:auto;margin:0;border-radius:6px}
 @media (max-width:640px){.post-content .duo-grille{grid-template-columns:1fr}}
 
-/* Les deux mascottes du chantier (Fluent Emoji, Microsoft, licence MIT) */
-.frise-piste{position:relative;padding-top:42px}
-.frise-piste .equipe{position:absolute;top:2px;display:flex;gap:2px;transform:translateX(-50%);pointer-events:none}
-.frise-piste .equipe img{width:34px;height:34px;margin:0;border-radius:0;animation:marche 1.2s ease-in-out infinite}
-.frise-piste .equipe img+img{animation-delay:.6s}
-@keyframes marche{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
-.home-info{position:relative;padding-right:150px}
-.home-info::after{content:"";position:absolute;right:0;bottom:18px;width:136px;height:72px;background:url("../../img/fluent/ouvrier.svg") no-repeat left bottom/68px,url("../../img/fluent/ouvriere.svg") no-repeat right bottom/68px}
-@media (max-width:640px){.home-info{padding-right:0;padding-bottom:96px}.home-info::after{right:auto;left:0;bottom:16px}}
-@media (prefers-reduced-motion:reduce){.frise-piste .equipe img{animation:none}}
+/* Icônes des phases au-dessus de la frise (Fluent Emoji, Microsoft, licence MIT) */
+.frise-piste{position:relative;padding-top:34px}
+@keyframes outil{0%,100%{transform:rotate(-8deg)}50%{transform:rotate(8deg) translateY(-2px)}}
+.frise-icones{display:grid;grid-auto-flow:column;grid-auto-columns:1fr;gap:4px;position:absolute;left:0;right:0;bottom:14px;align-items:end}
+.frise-icones span{display:flex;justify-content:center}
+.frise-icones img{width:18px;height:18px;margin:0;border-radius:0;opacity:.3;filter:grayscale(1)}
+.frise-icones .fait img{opacity:.9;filter:none}
+.frise-icones .en-cours img{opacity:1;filter:none;width:28px;height:28px;animation:outil 2.4s ease-in-out infinite}
+@media (prefers-reduced-motion:reduce){.frise-icones img,.hero-equipe img{animation:none !important}}
 
 /* Correctifs : fiche sans quadrillage, menu mobile compact */
 .md-content .fiche table{width:100%;display:table}
@@ -109,3 +107,35 @@ body{font-family:"Source Sans 3",system-ui,sans-serif;font-size:19px}
 }
 .md-content .fiche table thead{display:none}
 @media (max-width:640px){.md-content .fiche table td:first-child{width:auto}}
+.entry-phase{display:flex;align-items:center;gap:6px}
+.entry-phase img{width:18px;height:18px;margin:0;border-radius:0}
+
+/* Accueil : bandeau photo et chiffres du chantier */
+.home-info.hero{position:relative;padding:0;margin:8px 0 22px;border:0;border-radius:18px;overflow:hidden;min-height:440px;display:flex;align-items:flex-end;background:#23211c}
+.home-info.hero::after{display:none}
+.hero-photo{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 40%;margin:0}
+.hero::before{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(20,18,14,.05) 20%,rgba(20,18,14,.82) 100%);z-index:1}
+.hero-texte{position:relative;z-index:2;padding:34px 36px 30px;color:#fff;max-width:680px}
+.hero-surtitre{margin:0 0 8px;font-size:.78rem;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--banane)}
+.home-info.hero h1{color:#fff;font-size:2.6rem;line-height:1.08;margin:0 0 12px;text-shadow:0 2px 12px rgba(0,0,0,.35)}
+.home-info.hero .entry-content{color:#f3efe4;font-size:1.08rem;margin:0}
+.hero-actions{display:flex;flex-wrap:wrap;gap:10px;margin:20px 0 0}
+.bouton{display:inline-block;padding:10px 18px;border-radius:999px;background:var(--banane);color:#23211c !important;font-weight:600;box-shadow:none;transition:transform .15s}
+.bouton:hover{transform:translateY(-2px)}
+.bouton-clair{background:rgba(255,255,255,.14);color:#fff !important;border:1px solid rgba(255,255,255,.5)}
+.hero-equipe{position:absolute;z-index:2;right:22px;bottom:22px;display:flex;align-items:flex-end}
+.hero-equipe img{width:64px;height:64px;margin:0;border-radius:0}
+.hero-equipe img:nth-child(2){width:40px;height:40px;margin:0 -4px 26px;animation:outil 2.4s ease-in-out infinite}
+.chiffres{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:0 0 34px}
+.chiffres div{background:var(--entry);border:1px solid var(--border);border-radius:14px;padding:16px 18px}
+.chiffres strong{display:block;font-family:"Fraunces",Georgia,serif;font-size:2rem;line-height:1.1;color:var(--vert)}
+.chiffres span{display:block;margin-top:4px;font-size:.88rem;color:var(--secondary);line-height:1.35}
+@media (max-width:720px){
+  .home-info.hero{min-height:520px;border-radius:14px}
+  .hero-texte{padding:24px 20px 96px}
+  .home-info.hero h1{font-size:1.9rem}
+  .hero-equipe{right:auto;left:20px;bottom:18px}
+  .hero-equipe img{width:52px;height:52px}
+  .chiffres{grid-template-columns:repeat(2,1fr);gap:10px}
+  .chiffres strong{font-size:1.6rem}
+}

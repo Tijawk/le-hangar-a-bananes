@@ -1,8 +1,12 @@
 {{- $n := int (.Get "phase") -}}
 {{- $total := 10 -}}
 {{- $pages := (where site.RegularPages "Section" "etapes").ByWeight -}}
-{{- $pos := 95 }}{{ if le $n $total }}{{ $pos = sub (mul $n 10) 5 }}{{ end -}}
-<div class="frise-piste"><span class="equipe" aria-hidden="true" style="left:{{ $pos }}%"><img src="{{ "img/fluent/ouvrier.svg" | relURL }}" alt="" width="34" height="34"><img src="{{ "img/fluent/ouvriere.svg" | relURL }}" alt="" width="34" height="34"></span>
+<div class="frise-piste">
+<div class="frise-icones" aria-hidden="true">
+{{- range $i := seq $total -}}
+<span class="{{ if lt $i $n }}fait{{ else if eq $i $n }}en-cours{{ end }}"><img src="{{ printf "img/phases/phase-%d.svg" $i | relURL }}" alt="" width="18" height="18"></span>
+{{- end -}}
+</div>
 <nav class="frise" aria-label="Les étapes de la série">
 {{- range $i := seq $total -}}
 {{- $p := index $pages (sub $i 1) -}}
