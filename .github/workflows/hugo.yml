@@ -23,7 +23,7 @@ jobs:
       HUGO_VERSION: 0.169.0
       HUGO_ENVIRONMENT: production
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v7
         with:
           submodules: recursive
       - name: Installer Hugo extended
