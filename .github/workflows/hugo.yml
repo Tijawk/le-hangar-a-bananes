@@ -33,7 +33,7 @@ jobs:
       - id: pages
         uses: actions/configure-pages@v5
       - name: Restaurer les images déjà traitées
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: |
             resources
